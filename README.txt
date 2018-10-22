@@ -2,6 +2,7 @@ Ryan Stewart's Capstone Project - DSI US 5
 
 The purpose of this project was to explore the relationship between health metrics and per capita income.
 Health data was gathered from the CDC's "500 Cities" dataset, and income data for US counties was gathered from wikipedia.
+You will need to unzip the "500 Cities" dataset in order to use it.
 
 Data cleaning work can be found in the cleaning_health_data, dc_data, and formatting_income_data notebooks.
 Health data was aggregated to the county level and combined with income data by using 5-digit fips codes.
