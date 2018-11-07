@@ -1,5 +1,5 @@
 
-# Ryan Stewart's Capstone Project - DSI US 5
+# Ryan Stewart's Capstone Project - The Value of Health
 
 The purpose of this project was to explore the relationship between health metrics and per capita income.
 Health data was gathered from the CDC's "500 Cities" dataset, and income data for US counties was gathered from wikipedia.
