@@ -16,8 +16,9 @@ For more detail on the data cleaning process for this dataset, check out my arti
 Data cleaning work can be found in notebooks 1-3; however, I have also included the final outputs of those
 notebooks in the datasets/ folder for convenience.
 
-Predictive modeling can be found in the modeling_and_exploration notebook:
-Modeling techniques used included Linear Regression, neural networks, XGBoost, GradientBoost, Lasso, and RandomForest.
+Predictive modeling can be found in the 4_data_standardization_and_modeling notebook:
+Modeling techniques tested included Linear Regression, neural networks, XGBoost, GradientBoost, Lasso, and RandomForest.
+Most models have been removed from the notebook, but I have left RandomForest with a Gridsearch and Linear Regression in as they showed the best predictive capability on the limited data.
 
 ## Findings and Notes
 Some limitations of this project include that census-tract level income data were not available, so health data had to be
