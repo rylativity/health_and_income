@@ -1,0 +1,3548 @@
+,2017,Rank_2018,city_county,state,type,Rank_In_State_2018,zips
+0,40862.0,256.0,Abilene,TX,city,,"79601,79602,79603,79605,79606"
+1,47343.0,129.0,Akron,OH,city,,"44301,44302,44303,44304,44305"
+2,36522.0,358.0,Albany,GA,city,,"31701,31705,31707,31721"
+3,40865.0,261.0,Albany-Lebanon,OR,city,,"97321,97322"
+4,56264.0,43.0,Albany-Schenectady-Troy,NY,city,,"12202,12203,12204,12205,12206"
+5,40715.0,267.0,Albuquerque,NM,city,,"87101,87102,87104,87105,87106"
+6,42200.0,235.0,Alexandria,LA,city,,"71301,71302,71303"
+7,51236.0,76.0,Allentown-Bethlehem-Easton,PA-NJ,city,,
+8,44160.0,171.0,Altoona,PA,city,,"16601,16602"
+9,44111.0,189.0,Amarillo,TX,city,,"79101,79102,79103,79104,79106"
+10,41321.0,246.0,Ames,IA,city,,"50010,50014"
+11,58093.0,31.0,Anchorage,AK,city,,"99501,99502,99503,99504,99507"
+12,56729.0,38.0,Ann Arbor,MI,city,,"48103,48104,48105,48108,48109"
+13,35721.0,361.0,Anniston-Oxford,AL,city,,"36201,36205,36206,36207"
+14,49292.0,106.0,Appleton,WI,city,,"54911,54913,54914,54915"
+15,43265.0,206.0,Asheville,NC,city,,"28801,28803,28804,28805,28806"
+16,38884.0,302.0,Athens-Clarke County,GA,city,,"30601,30605,30606,30607"
+17,50269.0,89.0,Atlanta-Sandy Springs-Alpharetta,GA,city,,"30004,30005,30009,30022"
+18,46549.0,142.0,Atlantic City-Hammonton,NJ,city,,08401
+19,36437.0,352.0,Auburn-Opelika,AL,city,,"36830,36832"
+20,40502.0,274.0,Augusta-Richmond County,GA-SC,city,,
+21,55530.0,40.0,Austin-Round Rock-Georgetown,TX,city,,"78701,78702,78703,78704,78705"
+22,38467.0,326.0,Bakersfield,CA,city,,"93301,93304,93305,93306,93307"
+23,59570.0,26.0,Baltimore-Columbia-Towson,MD,city,,"21201,21202,21205,21206,21209"
+24,39976.0,274.0,Bangor,ME,city,,04401
+25,70777.0,10.0,Barnstable Town,MA,city,,02630
+26,45865.0,152.0,Baton Rouge,LA,city,,"70801,70802,70805,70806,70807"
+27,38608.0,314.0,Battle Creek,MI,city,,"49014,49015,49017,49037"
+28,40192.0,283.0,Bay City,MI,city,,"48706,48708"
+29,42728.0,219.0,Beaumont-Port Arthur,TX,city,,76820
+30,36477.0,340.0,Beckley,WV,city,,"25801,25926"
+31,46719.0,140.0,Bellingham,WA,city,,"98225,98226,98229"
+32,53033.0,68.0,Bend,OR,city,,"97701,97702,97703,97707"
+33,49558.0,95.0,Billings,MT,city,,"59101,59102,59105,59106"
+34,43201.0,217.0,Binghamton,NY,city,,"13901,13903,13904,13905"
+35,48618.0,107.0,Birmingham-Hoover,AL,city,,"35203,35204,35205,35206,35207"
+36,54507.0,56.0,Bismarck,ND,city,,"58501,58503,58504,58505"
+37,36723.0,344.0,Blacksburg-Christiansburg,VA,city,,24060
+38,47247.0,131.0,Bloomington,IL,city,,"61701,61704,61705"
+39,40079.0,278.0,Bloomington,IN,city,,"47401,47403,47404,47405,47406"
+40,43692.0,203.0,Bloomsburg-Berwick,PA,city,,18603
+41,44062.0,196.0,Boise City,ID,city,,"83702,83703,83704,83705,83706"
+42,74779.0,6.0,Boston-Cambridge-Newton,MA-NH,city,,
+43,69298.0,12.0,Boulder,CO,city,,"80301,80302,80303,80304,80305"
+44,35863.0,367.0,Bowling Green,KY,city,,"42101,42103,42104"
+45,52833.0,60.0,Bremerton-Silverdale-Port Orchard,WA,city,,"98310,98311,98312,98337"
+46,112769.0,2.0,Bridgeport-Stamford-Norwalk,CT,city,,"06604,06605,06606,06607,06608"
+47,27427.0,383.0,Brownsville-Harlingen,TX,city,,"78520,78521,78526"
+48,39058.0,292.0,Brunswick,GA,city,,"31520,31523,31525"
+49,48879.0,115.0,Buffalo-Cheektowaga,NY,city,,"14201,14202,14203,14204,14206"
+50,38141.0,331.0,Burlington,NC,city,,"27215,27217"
+51,55445.0,48.0,Burlington-South Burlington,VT,city,,"05401,05408"
+52,54446.0,53.0,California-Lexington Park,MD,city,,20619
+53,42937.0,218.0,Canton-Massillon,OH,city,,"44702,44703,44704,44705,44706"
+54,48872.0,103.0,Cape Coral-Fort Myers,FL,city,,"33904,33909,33914,33990,33991"
+55,41882.0,238.0,Cape Girardeau,MO-IL,city,,
+56,38782.0,301.0,Carbondale-Marion,IL,city,,"62901,62902,62903"
+57,48065.0,109.0,Carson City,NV,city,,"89701,89703,89705,89706"
+58,62751.0,14.0,Casper,WY,city,,"82601,82604,82609"
+59,49721.0,93.0,Cedar Rapids,IA,city,,"52401,52402,52403,52404,52405"
+60,44239.0,180.0,Chambersburg-Waynesboro,PA,city,,"17201,17202"
+61,43644.0,195.0,Champaign-Urbana,IL,city,,"61820,61821,61822"
+62,41322.0,232.0,Charleston,WV,city,,"25301,25302,25303,25304,25305"
+63,48769.0,108.0,Charleston-North Charleston,SC,city,,"29401,29403,29406,29407,29412"
+64,50043.0,92.0,Charlotte-Concord-Gastonia,NC-SC,city,,
+65,63300.0,17.0,Charlottesville,VA,city,,"22901,22902,22903,22904,22911"
+66,44198.0,200.0,Chattanooga,TN-GA,city,,
+67,49746.0,94.0,Cheyenne,WY,city,,"82001,82007,82009"
+68,58014.0,30.0,Chicago-Naperville-Elgin,IL-IN-WI,city,,
+69,42653.0,222.0,Chico,CA,city,,"95926,95928,95973"
+70,51729.0,75.0,Cincinnati,OH-KY-IN,city,,
+71,39426.0,319.0,Clarksville,TN-KY,city,,
+72,37063.0,348.0,Cleveland,TN,city,,"37311,37312,37323"
+73,51409.0,81.0,Cleveland-Elyria,OH,city,,"44102,44103,44104,44105,44106"
+74,43129.0,212.0,Coeur d'Alene,ID,city,,"83814,83815"
+75,37569.0,327.0,College Station-Bryan,TX,city,,"77840,77845"
+76,46708.0,144.0,Colorado Springs,CO,city,,"80902,80903,80904,80905,80906"
+77,44916.0,176.0,Columbia,MO,city,,"65201,65202,65203,65299"
+78,43750.0,214.0,Columbia,SC,city,,"29201,29203,29204,29205,29206"
+79,39407.0,294.0,Columbus,GA-AL,city,,
+80,47987.0,121.0,Columbus,IN,city,,"47201,47203"
+81,49338.0,105.0,Columbus,OH,city,,"43085,43201,43202,43203,43204"
+82,42389.0,225.0,Corpus Christi,TX,city,,"78401,78402,78404,78405,78406"
+83,44519.0,165.0,Corvallis,OR,city,,"97330,97331,97333"
+84,49800.0,101.0,Crestview-Fort Walton Beach-Destin,FL,city,,"32536,32539"
+85,38342.0,316.0,Cumberland,MD-WV,city,,
+86,53391.0,63.0,Dallas-Fort Worth-Arlington,TX,city,,"76001,76002,76006,76010,76011"
+87,34984.0,370.0,Dalton,GA,city,,"30720,30721"
+88,37461.0,330.0,Danville,IL,city,,"61832,61834"
+89,43989.0,202.0,Daphne-Fairhope-Foley,AL,city,,36526
+90,47295.0,133.0,Davenport-Moline-Rock Island,IA-IL,city,,
+91,45751.0,154.0,Dayton-Kettering,OH,city,,"45400,45402,45403,45404,45405"
+92,37050.0,339.0,Decatur,AL,city,,"35601,35603"
+93,45425.0,147.0,Decatur,IL,city,,"62521,62522,62523,62526"
+94,41165.0,258.0,Deltona-Daytona Beach-Ormond Beach,FL,city,,"32114,32117,32118,32119,32124"
+95,60604.0,22.0,Denver-Aurora-Lakewood,CO,city,,"80010,80011,80012,80013,80014"
+96,51782.0,77.0,Des Moines-West Des Moines,IA,city,,"50307,50308,50309,50310,50311"
+97,50759.0,83.0,Detroit-Warren-Dearborn,MI,city,,"48120,48124,48126,48128"
+98,39194.0,297.0,Dothan,AL,city,,"36301,36303,36305"
+99,40438.0,276.0,Dover,DE,city,,"19901,19904,19906"
+100,46242.0,134.0,Dubuque,IA,city,,"52001,52002,52003"
+101,43835.0,181.0,Duluth,MN-WI,city,,
+102,51158.0,78.0,Durham-Chapel Hill,NC,city,,"27514,27516,27517"
+103,40393.0,263.0,East Stroudsburg,PA,city,,"18301,18302"
+104,45188.0,157.0,Eau Claire,WI,city,,"54701,54703"
+105,36537.0,363.0,El Centro,CA,city,,92243
+106,40922.0,273.0,Elizabethtown-Fort Knox,KY,city,,42701
+107,45451.0,170.0,Elkhart-Goshen,IN,city,,"46514,46516,46517"
+108,42745.0,221.0,Elmira,NY,city,,"14901,14903,14904,14905,14925"
+109,34228.0,372.0,El Paso,TX,city,,"79901,79902,79903,79904,79905"
+110,42493.0,220.0,Enid,OK,city,,"73701,73703,73705"
+111,42308.0,215.0,Erie,PA,city,,"16501,16502,16503,16504,16505"
+112,43960.0,198.0,Eugene-Springfield,OR,city,,"97401,97402,97403,97404,97405"
+113,45436.0,159.0,Evansville,IN-KY,city,,
+114,53974.0,55.0,Fairbanks,AK,city,,"99701,99709,99712,99775,99790"
+115,50639.0,87.0,Fargo,ND-MN,city,,
+116,33613.0,376.0,Farmington,NM,city,,"87401,87402"
+117,35245.0,365.0,Fayetteville,NC,city,,"28301,28303,28304,28305,28306"
+118,62633.0,18.0,Fayetteville-Springdale-Rogers,AR,city,,"72701,72703,72704"
+119,46662.0,149.0,Flagstaff,AZ,city,,"86001,86004,86005"
+120,39380.0,293.0,Flint,MI,city,,"48502,48503,48504,48505,48506"
+121,38644.0,307.0,Florence,SC,city,,"29501,29505,29506"
+122,36129.0,356.0,Florence-Muscle Shoals,AL,city,,"35630,35633,35634"
+123,46203.0,150.0,Fond du Lac,WI,city,,"54935,54937"
+124,51497.0,73.0,Fort Collins,CO,city,,"80521,80524,80525,80526,80528"
+125,36452.0,355.0,Fort Smith,AR-OK,city,,
+126,44050.0,187.0,Fort Wayne,IN,city,,"46802,46803,46804,46805,46806"
+127,41137.0,257.0,Fresno,CA,city,,"93650,93701,93702,93703,93704"
+128,35542.0,364.0,Gadsden,AL,city,,"35901,35903,35904,35905,35907"
+129,40958.0,265.0,Gainesville,FL,city,,"32601,32603,32605,32606,32607"
+130,41856.0,243.0,Gainesville,GA,city,,"30501,30504,30506,30507"
+131,47020.0,132.0,Gettysburg,PA,city,,17325
+132,45033.0,178.0,Glens Falls,NY,city,,12801
+133,37309.0,347.0,Goldsboro,NC,city,,"27530,27531,27534"
+134,48339.0,110.0,Grand Forks,ND-MN,city,,
+135,42186.0,240.0,Grand Island,NE,city,,"68801,68803"
+136,42239.0,213.0,Grand Junction,CO,city,,"81501,81503,81504,81505,81506"
+137,47989.0,113.0,Grand Rapids-Kentwood,MI,city,,"49503,49504,49505,49506,49507"
+138,39166.0,296.0,Grants Pass,OR,city,,"97526,97527"
+139,45291.0,155.0,Great Falls,MT,city,,"59401,59404,59405"
+140,44173.0,184.0,Greeley,CO,city,,"80631,80634"
+141,49262.0,102.0,Green Bay,WI,city,,"54301,54302,54303,54304,54311"
+142,41701.0,254.0,Greensboro-High Point,NC,city,,"27395,27401,27403,27405,27406"
+143,39873.0,291.0,Greenville,NC,city,,"27834,27858"
+144,42650.0,228.0,Greenville-Anderson,SC,city,,"29621,29624,29625,29626"
+145,35672.0,366.0,Gulfport-Biloxi,MS,city,,"39530,39531,39532"
+146,42144.0,237.0,Hagerstown-Martinsburg,MD-WV,city,,
+147,37474.0,336.0,Hammond,LA,city,,"70401,70403"
+148,34323.0,377.0,Hanford-Corcoran,CA,city,,93212
+149,49987.0,91.0,Harrisburg-Carlisle,PA,city,,"17013,17015"
+150,38469.0,325.0,Harrisonburg,VA,city,,"22801,22802,22803"
+151,61464.0,21.0,Hartford-East Hartford-Middletown,CT,city,,"06108,06118"
+152,37066.0,343.0,Hattiesburg,MS,city,,"39401,39402"
+153,38119.0,322.0,Hickory-Lenoir-Morganton,NC,city,,"28601,28602"
+154,50351.0,85.0,Hilton Head Island-Bluffton,SC,city,,29910
+155,32322.0,379.0,Hinesville,GA,city,,31313
+156,36614.0,354.0,Homosassa Springs,FL,city,,
+157,38629.0,318.0,Hot Springs,AR,city,,"71901,71913,71951"
+158,41605.0,230.0,Houma-Thibodaux,LA,city,,"70360,70363,70364"
+159,53479.0,62.0,Houston-The Woodlands-Sugar Land,TX,city,,"77002,77003,77004,77005,77006"
+160,37901.0,312.0,Huntington-Ashland,WV-KY-OH,city,,
+161,47442.0,127.0,Huntsville,AL,city,,"35801,35802,35803,35805,35806"
+162,43646.0,205.0,Idaho Falls,ID,city,,"83401,83402,83404,83406"
+163,52221.0,74.0,Indianapolis-Carmel-Anderson,IN,city,,"46011,46012,46013,46016,46017"
+164,50819.0,82.0,Iowa City,IA,city,,"52240,52242,52245,52246"
+165,43466.0,209.0,Ithaca,NY,city,,"14850,14853"
+166,38031.0,323.0,Jackson,MI,city,,"49201,49202,49203"
+167,42035.0,242.0,Jackson,MS,city,,"39201,39202,39203,39204,39206"
+168,38565.0,315.0,Jackson,TN,city,,"38301,38305"
+169,47830.0,123.0,Jacksonville,FL,city,,"32099,32202,32204,32205,32206"
+170,44836.0,186.0,Jacksonville,NC,city,,"28540,28546"
+171,42189.0,229.0,Janesville-Beloit,WI,city,,53511
+172,42259.0,241.0,Jefferson City,MO,city,,"65101,65109"
+173,38673.0,309.0,Johnson City,TN,city,,"37601,37604,37615"
+174,40721.0,248.0,Johnstown,PA,city,,"15901,15902,15904,15905,15906"
+175,35330.0,368.0,Jonesboro,AR,city,,"72401,72404"
+176,38856.0,324.0,Joplin,MO,city,,"64801,64804"
+177,47322.0,135.0,Kahului-Wailuku-Lahaina,HI,city,,96732
+178,46675.0,141.0,Kalamazoo-Portage,MI,city,,"49001,49004,49006,49007,49008"
+179,39602.0,290.0,Kankakee,IL,city,,60901
+180,51717.0,80.0,Kansas City,MO-KS,city,,
+181,43064.0,227.0,Kennewick-Richland,WA,city,,"99336,99337,99338"
+182,40717.0,284.0,Killeen-Temple,TX,city,,"76541,76542,76543,76549"
+183,38369.0,317.0,Kingsport-Bristol,TN-VA,city,,
+184,48508.0,114.0,Kingston,NY,city,,12401
+185,43770.0,201.0,Knoxville,TN,city,,"37902,37909,37912,37914,37915"
+186,39916.0,280.0,Kokomo,IN,city,,"46901,46902"
+187,48094.0,116.0,La Crosse-Onalaska,WI-MN,city,,
+188,41832.0,226.0,Lafayette,LA,city,,"70500,70501,70503,70506,70507"
+189,37534.0,320.0,Lafayette-West Lafayette,IN,city,,"47901,47904,47905,47909"
+190,46206.0,136.0,Lake Charles,LA,city,,"70601,70605,70607,70611,70615"
+191,31742.0,381.0,Lake Havasu City-Kingman,AZ,city,,"86401,86409"
+192,34591.0,375.0,Lakeland-Winter Haven,FL,city,,"33801,33803,33805,33809,33810"
+193,49961.0,88.0,Lancaster,PA,city,,"17601,17602,17603,17611"
+194,39981.0,281.0,Lansing-East Lansing,MI,city,,"48823,48824,48825"
+195,30153.0,382.0,Laredo,TX,city,,"78040,78041,78043,78045,78046"
+196,35144.0,369.0,Las Cruces,NM,city,,"88001,88005,88007,88011,88012"
+197,45087.0,164.0,Las Vegas-Henderson-Paradise,NV,city,,"89002,89011,89012,89014,89015"
+198,41899.0,244.0,Lawrence,KS,city,,"66044,66046,66047,66049"
+199,39614.0,288.0,Lawton,OK,city,,"73501,73505,73507"
+200,46194.0,145.0,Lebanon,PA,city,,"17042,17046"
+201,43771.0,208.0,Lewiston,ID-WA,city,,
+202,39600.0,287.0,Lewiston-Auburn,ME,city,,04210
+203,46387.0,153.0,Lexington-Fayette,KY,city,,"40502,40503,40504,40505,40507"
+204,40712.0,262.0,Lima,OH,city,,"45801,45804,45805,45806,45807"
+205,47575.0,122.0,Lincoln,NE,city,,"68502,68503,68504,68505,68506"
+206,43901.0,204.0,Little Rock-North Little Rock-Conway,AR,city,,"72032,72034"
+207,37269.0,342.0,Logan,UT-ID,city,,57722
+208,39526.0,285.0,Longview,TX,city,,"75601,75602,75603,75604,75605"
+209,43046.0,211.0,Longview,WA,city,,98632
+210,60649.0,23.0,Los Angeles-Long Beach-Anaheim,CA,city,,"92801,92802,92804,92805,92806"
+211,48163.0,118.0,Louisville/Jefferson County,KY-IN,city,,
+212,40416.0,272.0,Lubbock,TX,city,,"79401,79402,79403,79404,79405"
+213,38720.0,308.0,Lynchburg,VA,city,,"24501,24502,24503,24504"
+214,39399.0,295.0,Macon-Bibb County,GA,city,,"31201,31204,31206,31210,31211"
+215,38062.0,321.0,Madera,CA,city,,"93636,93637,93638"
+216,56695.0,37.0,Madison,WI,city,,"53703,53704,53705,53706,53711"
+217,58305.0,29.0,Manchester-Nashua,NH,city,,03036
+218,44212.0,194.0,Manhattan,KS,city,,"66502,66503,66506"
+219,44871.0,187.0,Mankato,MN,city,,"56001,56003"
+220,37865.0,334.0,Mansfield,OH,city,,"44902,44903,44904,44905,44906"
+221,25451.0,384.0,McAllen-Edinburg-Mission,TX,city,,"75002,75013"
+222,44533.0,173.0,Medford,OR,city,,"97501,97504"
+223,44655.0,172.0,Memphis,TN-MS-AR,city,,
+224,38037.0,346.0,Merced,CA,city,,"95340,95341,95343,95348"
+225,54409.0,50.0,Miami-Fort Lauderdale-Pompano Beach,FL,city,,"33301,33304,33305,33306,33308"
+226,40561.0,268.0,Michigan City-La Porte,IN,city,,46350
+227,58229.0,33.0,Midland,MI,city,,"48640,48642"
+228,108595.0,1.0,Midland,TX,city,,"79701,79703,79705,79706,79707"
+229,54216.0,51.0,Milwaukee-Waukesha,WI,city,,"53202,53203,53204,53205,53206"
+230,60167.0,24.0,Minneapolis-St. Paul-Bloomington,MN-WI,city,,
+231,47086.0,128.0,Missoula,MT,city,,"59801,59802,59803,59804,59808"
+232,36705.0,350.0,Mobile,AL,city,,"36602,36603,36604,36605,36606"
+233,42354.0,231.0,Modesto,CA,city,,"95350,95351,95354,95355,95356"
+234,38726.0,304.0,Monroe,LA,city,,"71201,71202,71203"
+235,45498.0,156.0,Monroe,MI,city,,"48161,48162"
+236,41592.0,259.0,Montgomery,AL,city,,"36104,36105,36106,36107,36108"
+237,40728.0,269.0,Morgantown,WV,city,,"26501,26505,26506,26508"
+238,34280.0,373.0,Morristown,TN,city,,"37813,37814"
+239,50119.0,84.0,Mount Vernon-Anacortes,WA,city,,98221
+240,35713.0,360.0,Muncie,IN,city,,"47302,47303,47304,47305"
+241,37207.0,335.0,Muskegon,MI,city,,"49440,49441,49442,49444,49445"
+242,37565.0,341.0,Myrtle Beach-Conway-North Myrtle Beach,SC-NC,city,,
+243,69791.0,9.0,Napa,CA,city,,"94558,94559"
+244,87092.0,5.0,Naples-Marco Island,FL,city,,34145
+245,55382.0,46.0,Nashville-Davidson--Murfreesboro--Franklin,TN,city,,"37064,37067,37069"
+246,41547.0,252.0,New Bern,NC,city,,"28560,28562"
+247,53605.0,54.0,New Haven-Milford,CT,city,,"06460,06461"
+248,49799.0,90.0,New Orleans-Metairie,LA,city,,"70001,70002,70003,70005,70006"
+249,72951.0,7.0,New York-Newark-Jersey City,NY-NJ-PA,city,,
+250,45651.0,158.0,Niles,MI,city,,49120
+251,53730.0,58.0,North Port-Sarasota-Bradenton,FL,city,,"34201,34202,34203,34205,34207"
+252,56545.0,39.0,Norwich-New London,CT,city,,06320
+253,35719.0,362.0,Ocala,FL,city,,"34470,34471,34472,34473,34474"
+254,57976.0,32.0,Ocean City,NJ,city,,08226
+255,42548.0,160.0,Odessa,TX,city,,"79761,79762,79763,79764,79765"
+256,41795.0,236.0,Ogden-Clearfield,UT,city,,84015
+257,45951.0,143.0,Oklahoma City,OK,city,,"73102,73103,73104,73105,73106"
+258,48820.0,99.0,Olympia-Lacey-Tumwater,WA,city,,98503
+259,55229.0,45.0,Omaha-Council Bluffs,NE-IA,city,,
+260,41748.0,247.0,Orlando-Kissimmee-Sanford,FL,city,,"34741,34743,34744,34746,34747"
+261,46131.0,151.0,Oshkosh-Neenah,WI,city,,54956
+262,40016.0,289.0,Owensboro,KY,city,,"42301,42303"
+263,58761.0,27.0,Oxnard-Thousand Oaks-Ventura,CA,city,,"93030,93033,93035,93036"
+264,43371.0,207.0,Palm Bay-Melbourne-Titusville,FL,city,,"32901,32904,32934,32935,32940"
+265,41499.0,253.0,Panama City,FL,city,,"32401,32403,32404,32405,32408"
+266,39010.0,277.0,Parkersburg-Vienna,WV,city,,"26101,26104"
+267,41592.0,251.0,Pensacola-Ferry Pass-Brent,FL,city,,"32501,32502,32503,32504,32505"
+268,45851.0,138.0,Peoria,IL,city,,"61602,61603,61604,61605,61606"
+269,61094.0,20.0,Philadelphia-Camden-Wilmington,PA-NJ-DE-MD,city,,
+270,44208.0,190.0,Phoenix-Mesa-Chandler,AZ,city,,"85224,85225,85226,85248,85249"
+271,33224.0,378.0,Pine Bluff,AR,city,,"71601,71603"
+272,54471.0,44.0,Pittsburgh,PA,city,,"15201,15202,15203,15204,15205"
+273,54135.0,57.0,Pittsfield,MA,city,,01201
+274,36884.0,351.0,Pocatello,ID,city,,"83201,83202,83204"
+275,54914.0,47.0,Portland-South Portland,ME,city,,"04101,04102,04103,04109"
+276,54014.0,52.0,Portland-Vancouver-Hillsboro,OR-WA,city,,
+277,51824.0,72.0,Port St. Lucie,FL,city,,"34952,34953,34983,34984,34986"
+278,51658.0,79.0,Poughkeepsie-Newburgh-Middletown,NY,city,,"10940,10941"
+279,38381.0,310.0,Prescott Valley-Prescott,AZ,city,,"86301,86303,86305,86330"
+280,52147.0,71.0,Providence-Warwick,RI-MA,city,,
+281,38802.0,298.0,Provo-Orem,UT,city,,"84057,84058,84097"
+282,37540.0,328.0,Pueblo,CO,city,,"81001,81003,81004,81005,81006"
+283,39868.0,286.0,Punta Gorda,FL,city,,"33950,33955,33980,33982,33983"
+284,47419.0,124.0,Racine,WI,city,,"53402,53403,53404,53405,53406"
+285,52219.0,69.0,Raleigh-Cary,NC,city,,"27511,27513,27518,27519"
+286,47885.0,126.0,Rapid City,SD,city,,"57701,57702,57703"
+287,47412.0,120.0,Reading,PA,city,,"19601,19602,19604,19605,19606"
+288,44480.0,174.0,Redding,CA,city,,"96001,96002,96003"
+289,56120.0,34.0,Reno,NV,city,,"89501,89502,89503,89506,89508"
+290,55282.0,49.0,Richmond,VA,city,,"23219,23220,23221,23222,23223"
+291,38821.0,303.0,Riverside-San Bernardino-Ontario,CA,city,,"91758,91761,91762,91764"
+292,45076.0,167.0,Roanoke,VA,city,,"24011,24012,24013,24014,24015"
+293,51971.0,66.0,Rochester,MN,city,,"55901,55902,55904,55906"
+294,49625.0,104.0,Rochester,NY,city,,"14603,14604,14605,14606,14607"
+295,42121.0,223.0,Rockford,IL,city,,"61101,61102,61103,61104,61107"
+296,37764.0,329.0,Rocky Mount,NC,city,,"27801,27803,27804"
+297,37003.0,345.0,Rome,GA,city,,"30161,30165"
+298,54010.0,59.0,Sacramento-Roseville-Folsom,CA,city,,95630
+299,37286.0,338.0,Saginaw,MI,city,,"48601,48602,48603,48604,48607"
+300,44679.0,175.0,St. Cloud,MN,city,,"56301,56303,56304"
+301,36809.0,337.0,St. George,UT,city,,"84770,84790"
+302,37934.0,333.0,St. Joseph,MO-KS,city,,
+303,52944.0,64.0,St. Louis,MO-IL,city,,
+304,40811.0,264.0,Salem,OR,city,,"97301,97302,97303,97304,97305"
+305,53989.0,61.0,Salinas,CA,city,,"93901,93905,93906,93907,93908"
+306,46722.0,146.0,Salisbury,MD-DE,city,,
+307,49048.0,98.0,Salt Lake City,UT,city,,"84101,84102,84103,84104,84105"
+308,43896.0,179.0,San Angelo,TX,city,,"76901,76903,76904,76905"
+309,44874.0,166.0,San Antonio-New Braunfels,TX,city,,79313
+310,58097.0,28.0,San Diego-Chula Vista-Carlsbad,CA,city,,"92008,92009,92010,92011"
+311,92638.0,4.0,San Francisco-Oakland-Berkeley,CA,city,,"94702,94703,94704,94705,94707"
+312,98690.0,3.0,San Jose-Sunnyvale-Santa Clara,CA,city,,"95101,95110,95111,95112,95113"
+313,55635.0,42.0,San Luis Obispo-Paso Robles,CA,city,,93446
+314,64901.0,15.0,Santa Cruz-Watsonville,CA,city,,"95060,95062,95064,95065"
+315,55273.0,41.0,Santa Fe,NM,city,,"87501,87505,87506,87507,87508"
+316,59633.0,25.0,Santa Maria-Santa Barbara,CA,city,,"93101,93103,93105,93108,93109"
+317,60170.0,19.0,Santa Rosa-Petaluma,CA,city,,"94952,94954,94999"
+318,44755.0,163.0,Savannah,GA,city,,"31401,31404,31405,31406,31407"
+319,43905.0,183.0,Scranton--Wilkes-Barre,PA,city,,"18503,18504,18505,18508,18509"
+320,69913.0,11.0,Seattle-Tacoma-Bellevue,WA,city,,"98004,98005,98006,98007,98008"
+321,72149.0,8.0,Sebastian-Vero Beach,FL,city,,"32958,32976"
+322,32922.0,380.0,Sebring-Avon Park,FL,city,,33825
+323,50722.0,86.0,Sheboygan,WI,city,,"53081,53083"
+324,40662.0,271.0,Sherman-Denison,TX,city,,"75020,75021"
+325,43808.0,177.0,Shreveport-Bossier City,LA,city,,"71111,71112"
+326,39165.0,311.0,Sierra Vista-Douglas,AZ,city,,"85607,86555"
+327,48058.0,112.0,Sioux City,IA-NE-SD,city,,
+328,57299.0,36.0,Sioux Falls,SD,city,,"57103,57104,57105,57106,57107"
+329,45624.0,161.0,South Bend-Mishawaka,IN-MI,city,,NotFound
+330,41783.0,255.0,Spartanburg,SC,city,,"29301,29302,29303,29306,29307"
+331,44006.0,199.0,Spokane-Spokane Valley,WA,city,,"99201,99202,99203,99204,99205"
+332,46056.0,139.0,Springfield,IL,city,,"62701,62702,62703,62704,62707"
+333,50057.0,96.0,Springfield,MA,city,,"01103,01104,01105,01107,01108"
+334,40306.0,282.0,Springfield,MO,city,,"65802,65803,65804,65806,65807"
+335,39235.0,300.0,Springfield,OH,city,,"45502,45503,45504,45505,45506"
+336,44527.0,182.0,State College,PA,city,,"16801,16803"
+337,42622.0,224.0,Staunton,VA,city,,24401
+338,42391.0,210.0,Stockton,CA,city,,"95202,95203,95204,95205,95206"
+339,35768.0,359.0,Sumter,SC,city,,"29150,29153,29154"
+340,48009.0,125.0,Syracuse,NY,city,,"13202,13203,13204,13205,13206"
+341,40605.0,266.0,Tallahassee,FL,city,,"32301,32303,32304,32305,32308"
+342,45313.0,162.0,Tampa-St. Petersburg-Clearwater,FL,city,,"33755,33756,33759,33760,33761"
+343,36789.0,349.0,Terre Haute,IN,city,,"47802,47803,47804,47805,47807"
+344,36485.0,357.0,Texarkana,TX-AR,city,,
+345,44097.0,191.0,The Villages,FL,city,,"32162,32163"
+346,44668.0,169.0,Toledo,OH,city,,"43601,43604,43605,43606,43607"
+347,43758.0,193.0,Topeka,KS,city,,"66603,66604,66605,66606,66607"
+348,65877.0,16.0,Trenton-Princeton,NJ,city,,"08540,08542"
+349,42133.0,234.0,Tucson,AZ,city,,"85701,85704,85705,85706,85708"
+350,51134.0,70.0,Tulsa,OK,city,,"74103,74104,74105,74106,74107"
+351,36396.0,353.0,Tuscaloosa,AL,city,,"35401,35404,35405,35406"
+352,37897.0,332.0,Twin Falls,ID,city,,83301
+353,52034.0,67.0,Tyler,TX,city,,"75701,75702,75703,75704,75705"
+354,57049.0,35.0,Urban Honolulu,HI,city,,"96813,96814,96815,96816,96817"
+355,42790.0,233.0,Utica-Rome,NY,city,,"13440,13441"
+356,34613.0,371.0,Valdosta,GA,city,,"31601,31602,31605,31606"
+357,48364.0,100.0,Vallejo,CA,city,,"94589,94590,94591,94592"
+358,43469.0,197.0,Victoria,TX,city,,"77901,77904,77905"
+359,38630.0,313.0,Vineland-Bridgeton,NJ,city,,08302
+360,48485.0,111.0,Virginia Beach-Norfolk-Newport News,VA-NC,city,,
+361,39018.0,306.0,Visalia,CA,city,,"93277,93291,93292"
+362,39182.0,298.0,Waco,TX,city,,"76701,76704,76705,76706,76707"
+363,44178.0,185.0,Walla Walla,WA,city,,99362
+364,40517.0,279.0,Warner Robins,GA,city,,"31088,31093,31098"
+365,69298.0,13.0,Washington-Arlington-Alexandria,DC-VA-MD-WV,city,,
+366,43591.0,192.0,Waterloo-Cedar Falls,IA,city,,52543
+367,45476.0,168.0,Watertown-Fort Drum,NY,city,,13602
+368,47260.0,130.0,Wausau-Weston,WI,city,,"54401,54403"
+369,38472.0,305.0,Weirton-Steubenville,WV-OH,city,,
+370,48045.0,119.0,Wenatchee,WA,city,,98801
+371,45613.0,137.0,Wheeling,WV-OH,city,,
+372,48818.0,97.0,Wichita,KS,city,,"67202,67203,67204,67205,67206"
+373,41395.0,245.0,Wichita Falls,TX,city,,"76301,76302,76305,76306,76308"
+374,41587.0,239.0,Williamsport,PA,city,,"17701,17702"
+375,41953.0,250.0,Wilmington,NC,city,,"28401,28403,28405,28409,28411"
+376,46303.0,148.0,Winchester,VA-WV,city,,
+377,43306.0,216.0,Winston-Salem,NC,city,,"27101,27103,27104,27105,27106"
+378,53273.0,65.0,Worcester,MA-CT,city,,
+379,41868.0,249.0,Yakima,WA,city,,"98901,98902,98903,98908"
+380,47835.0,117.0,York-Hanover,PA,city,,17331
+381,40496.0,270.0,Youngstown-Warren-Boardman,OH-PA,city,,
+382,41270.0,260.0,Yuba City,CA,city,,"95991,95993"
+383,35049.0,374.0,Yuma,AZ,city,,"85364,85365,85367"
+384,40450.0,,Autauga,Alabama,county,10.0,36003
+385,43989.0,,Baldwin,Alabama,county,4.0,36483
+386,33048.0,,Barbour,Alabama,county,41.0,36051
+387,29081.0,,Bibb,Alabama,county,66.0,
+388,33533.0,,Blount,Alabama,county,43.0,35031
+389,27442.0,,Bullock,Alabama,county,67.0,
+390,34733.0,,Butler,Alabama,county,32.0,36904
+391,35721.0,,Calhoun,Alabama,county,26.0,36515
+392,32583.0,,Chambers,Alabama,county,49.0,36069
+393,33852.0,,Cherokee,Alabama,county,39.0,35616
+394,33416.0,,Chilton,Alabama,county,45.0,35570
+395,36603.0,,Choctaw,Alabama,county,17.0,
+396,34777.0,,Clarke,Alabama,county,33.0,
+397,32017.0,,Clay,Alabama,county,50.0,
+398,34862.0,,Cleburne,Alabama,county,35.0,
+399,41268.0,,Coffee,Alabama,county,6.0,36318
+400,37073.0,,Colbert,Alabama,county,21.0,36720
+401,31267.0,,Conecuh,Alabama,county,57.0,
+402,29926.0,,Coosa,Alabama,county,64.0,36020
+403,34393.0,,Covington,Alabama,county,38.0,36544
+404,35823.0,,Crenshaw,Alabama,county,28.0,
+405,38158.0,,Cullman,Alabama,county,16.0,"35055,35057,35058"
+406,35200.0,,Dale,Alabama,county,29.0,
+407,34282.0,,Dallas,Alabama,county,37.0,
+408,30682.0,,DeKalb,Alabama,county,62.0,
+409,40966.0,,Elmore,Alabama,county,9.0,36025
+410,31641.0,,Escambia,Alabama,county,55.0,35674
+411,35542.0,,Etowah,Alabama,county,27.0,
+412,33492.0,,Fayette,Alabama,county,44.0,35555
+413,32422.0,,Franklin,Alabama,county,47.0,36444
+414,33736.0,,Geneva,Alabama,county,42.0,36340
+415,31388.0,,Greene,Alabama,county,60.0,
+416,35559.0,,Hale,Alabama,county,30.0,35565
+417,38790.0,,Henry,Alabama,county,12.0,
+418,40642.0,,Houston,Alabama,county,8.0,35572
+419,35099.0,,Jackson,Alabama,county,31.0,"36501,36545"
+420,52128.0,,Jefferson,Alabama,county,1.0,
+421,32230.0,,Lamar,Alabama,county,51.0,
+422,35573.0,,Lauderdale,Alabama,county,25.0,35006
+423,32596.0,,Lawrence,Alabama,county,48.0,"35630,35633,35634"
+424,36437.0,,Lee,Alabama,county,23.0,35094
+425,40845.0,,Limestone,Alabama,county,7.0,35773
+426,39011.0,,Lowndes,Alabama,county,18.0,36752
+427,31372.0,,Macon,Alabama,county,56.0,36756
+428,49158.0,,Madison,Alabama,county,3.0,"35756,35757,35758"
+429,37447.0,,Marengo,Alabama,county,15.0,
+430,31807.0,,Marion,Alabama,county,53.0,36756
+431,34579.0,,Marshall,Alabama,county,36.0,
+432,36777.0,,Mobile,Alabama,county,22.0,"36602,36603,36604,36605,36606"
+433,31720.0,,Monroe,Alabama,county,52.0,36460
+434,42211.0,,Montgomery,Alabama,county,5.0,"36104,36105,36106,36107,36108"
+435,38289.0,,Morgan,Alabama,county,14.0,36033
+436,30173.0,,Perry,Alabama,county,65.0,35546
+437,31233.0,,Pickens,Alabama,county,58.0,
+438,36140.0,,Pike,Alabama,county,24.0,36064
+439,31242.0,,Randolph,Alabama,county,59.0,36792
+440,32384.0,,Russell,Alabama,county,54.0,"35653,35654"
+441,36993.0,,St. Clair,Alabama,county,20.0,
+442,51852.0,,Shelby,Alabama,county,2.0,35143
+443,31452.0,,Sumter,Alabama,county,63.0,36580
+444,33282.0,,Talladega,Alabama,county,46.0,35160
+445,38829.0,,Tallapoosa,Alabama,county,11.0,"35401,35404,35405,35406"
+446,37157.0,,Tuscaloosa,Alabama,county,19.0,"35401,35404,35405,35406"
+447,38482.0,,Walker,Alabama,county,13.0,
+448,34882.0,,Washington,Alabama,county,34.0,36722
+449,30929.0,,Wilcox,Alabama,county,61.0,
+450,33679.0,,Winston,Alabama,county,40.0,36453
+451,33679.0,,Winston,Alabama,county,40.0,36453
+452,58210.0,,Aleutians East Borough,Alaska,county,18.0,
+453,52695.0,,Aleutians West Census Area,Alaska,county,20.0,
+454,63173.0,,Anchorage Municipality,Alaska,county,10.0,"99501,99502,99503,99504,99507"
+455,42134.0,,Bethel Census Area,Alaska,county,28.0,
+456,125895.0,,Bristol Bay Borough,Alaska,county,1.0,
+457,78685.0,,Denali Borough,Alaska,county,3.0,99611
+458,58042.0,,Dillingham Census Area,Alaska,county,15.0,
+459,53974.0,,Fairbanks North Star Borough,Alaska,county,19.0,"99701,99709,99712,99775,99790"
+460,62478.0,,Haines Borough,Alaska,county,9.0,99827
+461,59277.0,,Hoonah-Angoon Census Area,Alaska,county,14.0,
+462,65784.0,,Juneau City and Borough,Alaska,county,7.0,"99801,99811"
+463,49697.0,,Kenai Peninsula Borough,Alaska,county,21.0,99611
+464,65179.0,,Ketchikan Gateway Borough,Alaska,county,8.0,99901
+465,61157.0,,Kodiak Island Borough,Alaska,county,12.0,99615
+466,29838.0,,Kusilvak Census Area,Alaska,county,29.0,
+467,61219.0,,Lake and Peninsula Borough,Alaska,county,11.0,
+468,44043.0,,Matanuska-Susitna Borough,Alaska,county,26.0,99835
+469,49518.0,,Nome Census Area,Alaska,county,22.0,
+470,84340.0,,North Slope Borough,Alaska,county,2.0,99705
+471,44861.0,,Northwest Arctic Borough,Alaska,county,24.0,
+472,66703.0,,Petersburg Borough,Alaska,county,6.0,
+473,41456.0,,Prince of Wales-Hyder Census Area,Alaska,county,27.0,
+474,67771.0,,Sitka City and Borough,Alaska,county,5.0,99835
+475,76785.0,,Skagway Municipality,Alaska,county,4.0,
+476,47449.0,,Southeast Fairbanks Census Area,Alaska,county,23.0,"99701,99709,99712,99775,99790"
+477,59736.0,,Valdez-Cordova Census Area,Alaska,county,13.0,
+478,44963.0,,Wrangell City and Borough,Alaska,county,25.0,
+479,55783.0,,Yakutat City and Borough,Alaska,county,17.0,
+480,54874.0,,Yukon-Koyukuk Census Area,Alaska,county,16.0,
+481,54874.0,,Yukon-Koyukuk Census Area,Alaska,county,16.0,
+482,33093.0,,Apache,Arizona,county,10.0,"85117,85119,85120,85178,85217"
+483,39165.0,,Cochise,Arizona,county,5.0,85606
+484,46662.0,,Coconino,Arizona,county,1.0,
+485,38524.0,,Gila,Arizona,county,6.0,85337
+486,30233.0,,Graham,Arizona,county,13.0,
+487,36626.0,,Greenlee,Arizona,county,7.0,85927
+488,29750.0,,La Paz,Arizona,county,14.0,
+489,45667.0,,Maricopa,Arizona,county,2.0,"85138,85139,85238,85239"
+490,31742.0,,Mohave,Arizona,county,11.0,86426
+491,31008.0,,Navajo,Arizona,county,12.0,85321
+492,42133.0,,Pima,Arizona,county,3.0,85543
+493,29587.0,,Pinal,Arizona,county,15.0,
+494,37395.0,,Santa Cruz,Arizona,county,8.0,
+495,38381.0,,Yavapai,Arizona,county,4.0,
+496,35049.0,,Yuma,Arizona,county,9.0,"85364,85365,85367"
+497,35049.0,,Yuma,Arizona,county,9.0,"85364,85365,85367"
+498,43723.0,,Arkansas,Arkansas,county,4.0,
+499,33152.0,,Ashley,Arkansas,county,40.0,72153
+500,35617.0,,Baxter,Arkansas,county,21.0,72011
+501,84658.0,,Benton,Arkansas,county,1.0,"72015,72019"
+502,34263.0,,Boone,Arkansas,county,27.0,72927
+503,37936.0,,Bradley,Arkansas,county,10.0,71826
+504,32803.0,,Calhoun,Arkansas,county,43.0,
+505,33064.0,,Carroll,Arkansas,county,48.0,
+506,35538.0,,Chicot,Arkansas,county,25.0,72326
+507,34822.0,,Clark,Arkansas,county,24.0,
+508,33558.0,,Clay,Arkansas,county,46.0,
+509,36764.0,,Cleburne,Arkansas,county,13.0,72556
+510,38630.0,,Cleveland,Arkansas,county,7.0,72030
+511,36856.0,,Columbia,Arkansas,county,12.0,71831
+512,36781.0,,Conway,Arkansas,county,15.0,"72032,72034"
+513,36323.0,,Craighead,Arkansas,county,19.0,
+514,32042.0,,Crawford,Arkansas,county,53.0,72327
+515,35726.0,,Crittenden,Arkansas,county,22.0,
+516,34595.0,,Cross,Arkansas,county,28.0,71635
+517,33118.0,,Dallas,Arkansas,county,41.0,
+518,36384.0,,Desha,Arkansas,county,16.0,72527
+519,35696.0,,Drew,Arkansas,county,20.0,
+520,36424.0,,Faulkner,Arkansas,county,17.0,
+521,33010.0,,Franklin,Arkansas,county,44.0,72536
+522,27907.0,,Fulton,Arkansas,county,69.0,71838
+523,38629.0,,Garland,Arkansas,county,9.0,71839
+524,37275.0,,Grant,Arkansas,county,14.0,72022
+525,33696.0,,Greene,Arkansas,county,38.0,72638
+526,31369.0,,Hempstead,Arkansas,county,55.0,
+527,29686.0,,Hot Spring,Arkansas,county,68.0,"71901,71913,71951"
+528,34387.0,,Howard,Arkansas,county,34.0,72176
+529,33882.0,,Independence,Arkansas,county,37.0,
+530,29374.0,,Izard,Arkansas,county,67.0,
+531,34236.0,,Jackson,Arkansas,county,30.0,
+532,34006.0,,Jefferson,Arkansas,county,33.0,72079
+533,28649.0,,Johnson,Arkansas,county,70.0,
+534,34903.0,,Lafayette,Arkansas,county,26.0,
+535,33446.0,,Lawrence,Arkansas,county,36.0,
+536,26474.0,,Lee,Arkansas,county,74.0,
+537,25919.0,,Lincoln,Arkansas,county,75.0,72744
+538,33525.0,,Little River,Arkansas,county,47.0,
+539,33540.0,,Logan,Arkansas,county,42.0,71751
+540,37525.0,,Lonoke,Arkansas,county,11.0,72086
+541,36069.0,,Madison,Arkansas,county,31.0,
+542,29517.0,,Marion,Arkansas,county,66.0,72364
+543,32452.0,,Miller,Arkansas,county,50.0,
+544,29581.0,,Mississippi,Arkansas,county,59.0,
+545,32110.0,,Monroe,Arkansas,county,54.0,
+546,29778.0,,Montgomery,Arkansas,county,64.0,
+547,33006.0,,Nevada,Arkansas,county,45.0,
+548,27645.0,,Newton,Arkansas,county,71.0,
+549,35026.0,,Ouachita,Arkansas,county,23.0,
+550,33933.0,,Perry,Arkansas,county,39.0,72125
+551,30148.0,,Phillips,Arkansas,county,62.0,
+552,31759.0,,Pike,Arkansas,county,52.0,71662
+553,30921.0,,Poinsett,Arkansas,county,56.0,
+554,29313.0,,Polk,Arkansas,county,65.0,
+555,33972.0,,Pope,Arkansas,county,35.0,71801
+556,34208.0,,Prairie,Arkansas,county,29.0,72753
+557,49129.0,,Pulaski,Arkansas,county,2.0,
+558,32251.0,,Randolph,Arkansas,county,49.0,72528
+559,27464.0,,St. Francis,Arkansas,county,73.0,
+560,40160.0,,Saline,Arkansas,county,6.0,71920
+561,30330.0,,Scott,Arkansas,county,60.0,72142
+562,27109.0,,Searcy,Arkansas,county,72.0,72143
+563,40486.0,,Sebastian,Arkansas,county,5.0,
+564,30197.0,,Sevier,Arkansas,county,58.0,
+565,31022.0,,Sharp,Arkansas,county,57.0,
+566,29491.0,,Stone,Arkansas,county,63.0,72933
+567,43507.0,,Union,Arkansas,county,3.0,72955
+568,30051.0,,Van Buren,Arkansas,county,61.0,72956
+569,39283.0,,Washington,Arkansas,county,8.0,71862
+570,34232.0,,White,Arkansas,county,32.0,71602
+571,35322.0,,Woodruff,Arkansas,county,18.0,
+572,32100.0,,Yell,Arkansas,county,51.0,72687
+573,32100.0,,Yell,Arkansas,county,51.0,72687
+574,71560.0,,Alameda,California,county,6.0,"94501,94502"
+575,68492.0,,Alpine,California,county,8.0,91901
+576,43405.0,,Amador,California,county,40.0,
+577,42653.0,,Butte,California,county,42.0,95920
+578,47177.0,,Calaveras,California,county,30.0,
+579,45475.0,,Colusa,California,county,31.0,95932
+580,76886.0,,Contra Costa,California,county,5.0,
+581,36172.0,,Del Norte,California,county,56.0,92625
+582,64519.0,,El Dorado,California,county,11.0,95623
+583,41137.0,,Fresno,California,county,45.0,"93650,93701,93702,93703,93704"
+584,44935.0,,Glenn,California,county,33.0,95943
+585,46493.0,,Humboldt,California,county,32.0,
+586,36537.0,,Imperial,California,county,57.0,92251
+587,59340.0,,Inyo,California,county,19.0,93527
+588,38467.0,,Kern,California,county,53.0,93527
+589,34323.0,,Kings,California,county,58.0,
+590,41460.0,,Lake,California,county,44.0,93604
+591,36350.0,,Lassen,California,county,55.0,
+592,59058.0,,Los Angeles,California,county,15.0,"90001,90002,90003,90004,90005"
+593,38062.0,,Madera,California,county,52.0,"93636,93637,93638"
+594,124731.0,,Marin,California,county,1.0,93933
+595,50703.0,,Mariposa,California,county,25.0,95338
+596,47611.0,,Mendocino,California,county,29.0,95460
+597,38037.0,,Merced,California,county,54.0,"95340,95341,95343,95348"
+598,43224.0,,Modoc,California,county,39.0,
+599,51584.0,,Mono,California,county,28.0,
+600,53989.0,,Monterey,California,county,21.0,"93940,93943"
+601,69791.0,,Napa,California,county,7.0,"94558,94559"
+602,58771.0,,Nevada,California,county,16.0,95959
+603,65709.0,,Orange,California,county,10.0,"92862,92865,92866,92867,92868"
+604,64015.0,,Placer,California,county,12.0,95667
+605,50905.0,,Plumas,California,county,24.0,"94952,94954,94999"
+606,38975.0,,Riverside,California,county,49.0,"92501,92503,92504,92505,92506"
+607,50445.0,,Sacramento,California,county,26.0,"95811,95814,95815,95816,95817"
+608,50955.0,,San Benito,California,county,23.0,95045
+609,38648.0,,San Bernardino,California,county,51.0,"92401,92403,92404,92405,92407"
+610,58097.0,,San Diego,California,county,18.0,"92101,92102,92103,92104,92105"
+611,121778.0,,San Francisco,California,county,2.0,"94101,94102,94103,94104,94105"
+612,42391.0,,San Joaquin,California,county,38.0,93660
+613,55635.0,,San Luis Obispo,California,county,20.0,"93401,93405,93407,93410"
+614,117389.0,,San Mateo,California,county,3.0,"94401,94402,94403,94404"
+615,59633.0,,Santa Barbara,California,county,14.0,"93101,93103,93105,93108,93109"
+616,100177.0,,Santa Clara,California,county,4.0,"95050,95051,95054"
+617,64901.0,,Santa Cruz,California,county,9.0,"95060,95062,95064,95065"
+618,44480.0,,Shasta,California,county,36.0,
+619,44508.0,,Sierra,California,county,35.0,96125
+620,43652.0,,Siskiyou,California,county,37.0,
+621,48364.0,,Solano,California,county,27.0,93463
+622,60170.0,,Sonoma,California,county,13.0,95476
+623,42354.0,,Stanislaus,California,county,43.0,
+624,42752.0,,Sutter,California,county,41.0,95982
+625,40374.0,,Tehama,California,county,46.0,
+626,37842.0,,Trinity,California,county,48.0,96091
+627,39018.0,,Tulare,California,county,50.0,93274
+628,46017.0,,Tuolumne,California,county,34.0,95379
+629,58761.0,,Ventura,California,county,17.0,"93001,93003,93004"
+630,52207.0,,Yolo,California,county,22.0,
+631,39409.0,,Yuba,California,county,47.0,"95991,95993"
+632,39409.0,,Yuba,California,county,47.0,"95991,95993"
+633,41170.0,,Adams,Colorado,county,41.0,
+634,35437.0,,Alamosa,Colorado,county,54.0,81101
+635,56789.0,,Arapahoe,Colorado,county,13.0,80802
+636,40753.0,,Archuleta,Colorado,county,46.0,
+637,41045.0,,Baca,Colorado,county,48.0,81123
+638,26363.0,,Bent,Colorado,county,63.0,80102
+639,69298.0,,Boulder,Colorado,county,7.0,"80301,80302,80303,80304,80305"
+640,63170.0,,Broomfield,Colorado,county,10.0,"80020,80021,80023"
+641,44340.0,,Chaffee,Colorado,county,31.0,
+642,56640.0,,Cheyenne,Colorado,county,17.0,80810
+643,57914.0,,Clear Creek,Colorado,county,12.0,
+644,34424.0,,Conejos,Colorado,county,57.0,
+645,32846.0,,Costilla,Colorado,county,60.0,
+646,19263.0,,Crowley,Colorado,county,64.0,
+647,39608.0,,Custer,Colorado,county,47.0,
+648,36373.0,,Delta,Colorado,county,52.0,81416
+649,74396.0,,Denver,Colorado,county,4.0,"80202,80203,80204,80205,80206"
+650,33542.0,,Dolores,Colorado,county,59.0,81323
+651,70029.0,,Douglas,Colorado,county,6.0,
+652,73114.0,,Eagle,Colorado,county,5.0,
+653,54624.0,,Elbert,Colorado,county,16.0,80106
+654,46692.0,,El Paso,Colorado,county,27.0,
+655,33558.0,,Fremont,Colorado,county,58.0,
+656,55931.0,,Garfield,Colorado,county,14.0,81122
+657,45826.0,,Gilpin,Colorado,county,29.0,80470
+658,46817.0,,Grand,Colorado,county,23.0,"81501,81503,81504,81505,81506"
+659,44676.0,,Gunnison,Colorado,county,30.0,"81230,81247"
+660,49886.0,,Hinsdale,Colorado,county,20.0,
+661,40864.0,,Huerfano,Colorado,county,43.0,
+662,45186.0,,Jackson,Colorado,county,24.0,
+663,60206.0,,Jefferson,Colorado,county,11.0,80456
+664,52095.0,,Kiowa,Colorado,county,22.0,80117
+665,37887.0,,Kit Carson,Colorado,county,55.0,80825
+666,34801.0,,Lake,Colorado,county,56.0,
+667,53026.0,,La Plata,Colorado,county,18.0,
+668,51497.0,,Larimer,Colorado,county,19.0,
+669,38267.0,,Las Animas,Colorado,county,49.0,81054
+670,26641.0,,Lincoln,Colorado,county,62.0,80740
+671,47303.0,,Logan,Colorado,county,28.0,80701
+672,42239.0,,Mesa,Colorado,county,37.0,81643
+673,66179.0,,Mineral,Colorado,county,8.0,
+674,39806.0,,Moffat,Colorado,county,45.0,81143
+675,40316.0,,Montezuma,Colorado,county,42.0,
+676,37663.0,,Montrose,Colorado,county,50.0,"81401,81403"
+677,42986.0,,Morgan,Colorado,county,35.0,80701
+678,36194.0,,Otero,Colorado,county,53.0,"81401,81403"
+679,56013.0,,Ouray,Colorado,county,15.0,
+680,43280.0,,Park,Colorado,county,36.0,80510
+681,42654.0,,Phillips,Colorado,county,39.0,
+682,138328.0,,Pitkin,Colorado,county,1.0,
+683,40067.0,,Prowers,Colorado,county,44.0,
+684,37540.0,,Pueblo,Colorado,county,51.0,"81001,81003,81004,81005,81006"
+685,44284.0,,Rio Blanco,Colorado,county,32.0,81123
+686,43609.0,,Rio Grande,Colorado,county,33.0,
+687,78253.0,,Routt,Colorado,county,3.0,
+688,28846.0,,Saguache,Colorado,county,61.0,81149
+689,45219.0,,San Juan,Colorado,county,40.0,
+690,80349.0,,San Miguel,Colorado,county,2.0,
+691,48630.0,,Sedgwick,Colorado,county,26.0,80749
+692,63601.0,,Summit,Colorado,county,9.0,
+693,47164.0,,Teller,Colorado,county,25.0,81435
+694,38071.0,,Washington,Colorado,county,38.0,81021
+695,44173.0,,Weld,Colorado,county,34.0,80653
+696,50062.0,,Yuma,Colorado,county,21.0,80759
+697,50062.0,,Yuma,Colorado,county,21.0,80759
+698,112769.0,,Fairfield,Connecticut,county,1.0,"06824,06825"
+699,61938.0,,Hartford,Connecticut,county,4.0,"06101,06103,06105,06106,06112"
+700,61387.0,,Litchfield,Connecticut,county,3.0,06759
+701,65598.0,,Middlesex,Connecticut,county,2.0,06426
+702,53605.0,,New Haven,Connecticut,county,6.0,"06510,06511,06513,06515,06519"
+703,56545.0,,New London,Connecticut,county,5.0,06320
+704,54193.0,,Tolland,Connecticut,county,7.0,06084
+705,45004.0,,Windham,Connecticut,county,8.0,06280
+706,45004.0,,Windham,Connecticut,county,8.0,06280
+707,40438.0,,Kent,Delaware,county,3.0,
+708,54198.0,,New Castle,Delaware,county,1.0,19720
+709,48601.0,,Sussex,Delaware,county,2.0,
+710,48601.0,,Sussex,Delaware,county,2.0,
+711,48601.0,,Sussex,Delaware,county,2.0,
+712,42455.0,,Alachua,Florida,county,25.0,32615
+713,31076.0,,Baker,Florida,county,50.0,32531
+714,41499.0,,Bay,Florida,county,26.0,
+715,32876.0,,Bradford,Florida,county,46.0,32008
+716,43371.0,,Brevard,Florida,county,21.0,
+717,47977.0,,Broward,Florida,county,12.0,
+718,25901.0,,Calhoun,Florida,county,61.0,
+719,39868.0,,Charlotte,Florida,county,31.0,"33948,33952,33953,33954,33981"
+720,36614.0,,Citrus,Florida,county,35.0,32113
+721,41374.0,,Clay,Florida,county,27.0,
+722,87092.0,,Collier,Florida,county,1.0,
+723,33658.0,,Columbia,Florida,county,44.0,
+724,23869.0,,DeSoto,Florida,county,65.0,
+725,26862.0,,Dixie,Florida,county,60.0,
+726,44458.0,,Duval,Florida,county,19.0,
+727,40825.0,,Escambia,Florida,county,28.0,
+728,44092.0,,Flagler,Florida,county,18.0,32136
+729,33999.0,,Franklin,Florida,county,39.0,
+730,33483.0,,Gadsden,Florida,county,43.0,
+731,33217.0,,Gilchrist,Florida,county,45.0,
+732,23510.0,,Glades,Florida,county,63.0,
+733,33871.0,,Gulf,Florida,county,40.0,"32561,32563"
+734,25063.0,,Hamilton,Florida,county,62.0,
+735,28844.0,,Hardee,Florida,county,59.0,
+736,30693.0,,Hendry,Florida,county,54.0,
+737,35601.0,,Hernando,Florida,county,38.0,34442
+738,32922.0,,Highlands,Florida,county,47.0,
+739,45129.0,,Hillsborough,Florida,county,17.0,
+740,29598.0,,Holmes,Florida,county,56.0,
+741,72149.0,,Indian River,Florida,county,5.0,
+742,30763.0,,Jackson,Florida,county,51.0,"32099,32202,32204,32205,32206"
+743,39715.0,,Jefferson,Florida,county,32.0,
+744,24232.0,,Lafayette,Florida,county,64.0,
+745,40613.0,,Lake,Florida,county,30.0,33839
+746,48872.0,,Lee,Florida,county,11.0,32059
+747,42380.0,,Leon,Florida,county,24.0,32130
+748,34477.0,,Levy,Florida,county,42.0,
+749,23087.0,,Liberty,Florida,county,66.0,
+750,30499.0,,Madison,Florida,county,53.0,32340
+751,45404.0,,Manatee,Florida,county,16.0,
+752,35719.0,,Marion,Florida,county,37.0,32340
+753,79020.0,,Martin,Florida,county,3.0,33050
+754,47813.0,,Miami-Dade,Florida,county,13.0,"33122,33125,33126,33127,33128"
+755,84679.0,,Monroe,Florida,county,2.0,
+756,55738.0,,Nassau,Florida,county,9.0,
+757,47111.0,,Okaloosa,Florida,county,15.0,
+758,30568.0,,Okeechobee,Florida,county,55.0,"34972,34974"
+759,42776.0,,Orange,Florida,county,22.0,32763
+760,32315.0,,Osceola,Florida,county,48.0,
+761,75183.0,,Palm Beach,Florida,county,4.0,33480
+762,38917.0,,Pasco,Florida,county,33.0,32423
+763,50917.0,,Pinellas,Florida,county,10.0,"33781,33782"
+764,34591.0,,Polk,Florida,county,41.0,33868
+765,30823.0,,Putnam,Florida,county,52.0,
+766,65660.0,,St. Johns,Florida,county,6.0,32259
+767,37958.0,,St. Lucie,Florida,county,34.0,"34952,34953,34983,34984,34986"
+768,42972.0,,Santa Rosa,Florida,county,23.0,32459
+769,61378.0,,Sarasota,Florida,county,7.0,"34231,34232,34233,34234,34235"
+770,46782.0,,Seminole,Florida,county,14.0,"33772,33776,33777"
+771,44097.0,,Sumter,Florida,county,20.0,33585
+772,31943.0,,Suwannee,Florida,county,49.0,
+773,28878.0,,Taylor,Florida,county,57.0,
+774,20756.0,,Union,Florida,county,67.0,33865
+775,40566.0,,Volusia,Florida,county,29.0,
+776,35087.0,,Wakulla,Florida,county,36.0,
+777,57822.0,,Walton,Florida,county,8.0,"32547,32548"
+778,28309.0,,Washington,Florida,county,58.0,
+779,28309.0,,Washington,Florida,county,58.0,
+780,32080.0,,Appling,Georgia,county,108.0,30802
+781,28764.0,,Atkinson,Georgia,county,135.0,30145
+782,32775.0,,Bacon,Georgia,county,112.0,31716
+783,35725.0,,Baker,Georgia,county,42.0,
+784,31950.0,,Baldwin,Georgia,county,110.0,30511
+785,35226.0,,Banks,Georgia,county,67.0,
+786,35560.0,,Barrow,Georgia,county,61.0,30413
+787,36844.0,,Bartow,Georgia,county,45.0,30413
+788,29877.0,,Ben Hill,Georgia,county,126.0,
+789,30179.0,,Berrien,Georgia,county,124.0,
+790,39928.0,,Bibb,Georgia,county,27.0,
+791,32278.0,,Bleckley,Georgia,county,107.0,
+792,26353.0,,Brantley,Georgia,county,151.0,31625
+793,33137.0,,Brooks,Georgia,county,89.0,30205
+794,50022.0,,Bryan,Georgia,county,7.0,31020
+795,30825.0,,Bulloch,Georgia,county,120.0,
+796,34394.0,,Burke,Georgia,county,75.0,
+797,32818.0,,Butts,Georgia,county,98.0,
+798,24763.0,,Calhoun,Georgia,county,156.0,30701
+799,34832.0,,Camden,Georgia,county,69.0,
+800,30023.0,,Candler,Georgia,county,127.0,
+801,36814.0,,Carroll,Georgia,county,43.0,"30116,30117"
+802,34048.0,,Catoosa,Georgia,county,84.0,
+803,24489.0,,Charlton,Georgia,county,155.0,30627
+804,45061.0,,Chatham,Georgia,county,13.0,30666
+805,30926.0,,Chattahoochee,Georgia,county,129.0,
+806,29836.0,,Chattooga,Georgia,county,131.0,30218
+807,49084.0,,Cherokee,Georgia,county,8.0,
+808,32419.0,,Clarke,Georgia,county,100.0,30523
+809,29492.0,,Clay,Georgia,county,125.0,30525
+810,27058.0,,Clayton,Georgia,county,148.0,30525
+811,36580.0,,Clinch,Georgia,county,54.0,
+812,54559.0,,Cobb,Georgia,county,5.0,31735
+813,30988.0,,Coffee,Georgia,county,116.0,
+814,31859.0,,Colquitt,Georgia,county,118.0,39837
+815,47688.0,,Columbia,Georgia,county,11.0,"31901,31903,31904,31906,31907"
+816,31086.0,,Cook,Georgia,county,119.0,
+817,44612.0,,Coweta,Georgia,county,16.0,
+818,33208.0,,Crawford,Georgia,county,105.0,30630
+819,31206.0,,Crisp,Georgia,county,117.0,
+820,33720.0,,Dade,Georgia,county,74.0,31620
+821,43455.0,,Dawson,Georgia,county,18.0,39842
+822,35252.0,,Decatur,Georgia,county,68.0,"30030,30032,30033,30034,30035"
+823,48557.0,,DeKalb,Georgia,county,9.0,31041
+824,29702.0,,Dodge,Georgia,county,134.0,
+825,27631.0,,Dooly,Georgia,county,147.0,
+826,34354.0,,Dougherty,Georgia,county,93.0,31795
+827,33855.0,,Douglas,Georgia,county,81.0,"31533,31535"
+828,37889.0,,Early,Georgia,county,39.0,39862
+829,27281.0,,Echols,Georgia,county,149.0,30565
+830,40037.0,,Effingham,Georgia,county,25.0,
+831,34508.0,,Elbert,Georgia,county,77.0,30635
+832,32066.0,,Emanuel,Georgia,county,122.0,
+833,33877.0,,Evans,Georgia,county,82.0,30809
+834,34431.0,,Fannin,Georgia,county,73.0,30217
+835,60677.0,,Fayette,Georgia,county,3.0,30728
+836,37003.0,,Floyd,Georgia,county,44.0,
+837,60227.0,,Forsyth,Georgia,county,4.0,31029
+838,35508.0,,Franklin,Georgia,county,62.0,30217
+839,80683.0,,Fulton,Georgia,county,1.0,
+840,34102.0,,Gilmer,Georgia,county,78.0,
+841,32814.0,,Glascock,Georgia,county,101.0,
+842,43642.0,,Glynn,Georgia,county,17.0,
+843,35514.0,,Gordon,Georgia,county,60.0,31031
+844,33524.0,,Grady,Georgia,county,90.0,31032
+845,53496.0,,Greene,Georgia,county,6.0,31567
+846,39738.0,,Gwinnett,Georgia,county,28.0,
+847,32780.0,,Habersham,Georgia,county,103.0,
+848,41856.0,,Hall,Georgia,county,22.0,31057
+849,28261.0,,Hancock,Georgia,county,141.0,31033
+850,35121.0,,Haralson,Georgia,county,65.0,
+851,45538.0,,Harris,Georgia,county,14.0,30582
+852,36219.0,,Hart,Georgia,county,47.0,31756
+853,30076.0,,Heard,Georgia,county,128.0,31516
+854,37619.0,,Henry,Georgia,county,38.0,30522
+855,41105.0,,Houston,Georgia,county,23.0,30548
+856,30745.0,,Irwin,Georgia,county,115.0,31042
+857,40832.0,,Jackson,Georgia,county,24.0,30233
+858,39111.0,,Jasper,Georgia,county,31.0,30143
+859,28671.0,,Jeff Davis,Georgia,county,140.0,
+860,32925.0,,Jefferson,Georgia,county,99.0,30549
+861,28005.0,,Jenkins,Georgia,county,145.0,30234
+862,24822.0,,Johnson,Georgia,county,154.0,
+863,36159.0,,Jones,Georgia,county,53.0,"30236,30238"
+864,32395.0,,Lamar,Georgia,county,113.0,
+865,26281.0,,Lanier,Georgia,county,150.0,
+866,35528.0,,Laurens,Georgia,county,57.0,
+867,45415.0,,Lee,Georgia,county,15.0,30538
+868,34163.0,,Liberty,Georgia,county,72.0,30628
+869,35936.0,,Lincoln,Georgia,county,58.0,30817
+870,26268.0,,Long,Georgia,county,152.0,30522
+871,35817.0,,Lowndes,Georgia,county,55.0,
+872,35288.0,,Lumpkin,Georgia,county,56.0,31815
+873,35656.0,,McDuffie,Georgia,county,59.0,
+874,28377.0,,McIntosh,Georgia,county,142.0,
+875,30237.0,,Macon,Georgia,county,130.0,"31201,31204,31206,31210,31211"
+876,35261.0,,Madison,Georgia,county,64.0,30650
+877,28317.0,,Marion,Georgia,county,144.0,30557
+878,33285.0,,Meriwether,Georgia,county,91.0,
+879,38229.0,,Miller,Georgia,county,30.0,30442
+880,33964.0,,Mitchell,Georgia,county,86.0,30820
+881,43106.0,,Monroe,Georgia,county,19.0,"30655,30656"
+882,28562.0,,Montgomery,Georgia,county,143.0,30629
+883,48982.0,,Morgan,Georgia,county,10.0,39866
+884,28986.0,,Murray,Georgia,county,139.0,30564
+885,42083.0,,Muscogee,Georgia,county,21.0,
+886,32456.0,,Newton,Georgia,county,106.0,39870
+887,64194.0,,Oconee,Georgia,county,2.0,
+888,36456.0,,Oglethorpe,Georgia,county,52.0,31068
+889,36276.0,,Paulding,Georgia,county,51.0,
+890,37173.0,,Peach,Georgia,county,48.0,30269
+891,45890.0,,Pickens,Georgia,county,12.0,
+892,34908.0,,Pierce,Georgia,county,70.0,
+893,38423.0,,Pike,Georgia,county,35.0,
+894,31150.0,,Polk,Georgia,county,121.0,
+895,29034.0,,Pulaski,Georgia,county,136.0,
+896,40236.0,,Putnam,Georgia,county,26.0,
+897,28699.0,,Quitman,Georgia,county,133.0,31643
+898,39632.0,,Rabun,Georgia,county,29.0,30568
+899,31453.0,,Randolph,Georgia,county,109.0,
+900,36820.0,,Richmond,Georgia,county,46.0,31324
+901,33842.0,,Rockdale,Georgia,county,80.0,
+902,29949.0,,Schley,Georgia,county,132.0,
+903,33079.0,,Screven,Georgia,county,87.0,31560
+904,39963.0,,Seminole,Georgia,county,34.0,
+905,33422.0,,Spalding,Georgia,county,92.0,
+906,37831.0,,Stephens,Georgia,county,40.0,30667
+907,21665.0,,Stewart,Georgia,county,157.0,"31314,31315"
+908,34522.0,,Sumter,Georgia,county,71.0,31789
+909,33643.0,,Talbot,Georgia,county,95.0,31827
+910,32719.0,,Taliaferro,Georgia,county,102.0,
+911,27812.0,,Tattnall,Georgia,county,146.0,
+912,29253.0,,Taylor,Georgia,county,137.0,30178
+913,20338.0,,Telfair,Georgia,county,158.0,
+914,38110.0,,Terrell,Georgia,county,33.0,
+915,42097.0,,Thomas,Georgia,county,20.0,30286
+916,36148.0,,Tift,Georgia,county,50.0,"31793,31794"
+917,33992.0,,Toombs,Georgia,county,76.0,31090
+918,35901.0,,Towns,Georgia,county,49.0,31331
+919,29216.0,,Treutlen,Georgia,county,138.0,
+920,34951.0,,Troup,Georgia,county,66.0,
+921,33212.0,,Turner,Georgia,county,96.0,
+922,37784.0,,Twiggs,Georgia,county,36.0,
+923,35166.0,,Union,Georgia,county,63.0,30291
+924,33922.0,,Upson,Georgia,county,85.0,
+925,31704.0,,Walker,Georgia,county,114.0,
+926,39022.0,,Walton,Georgia,county,32.0,30510
+927,32763.0,,Ware,Georgia,county,104.0,
+928,33231.0,,Warren,Georgia,county,94.0,30828
+929,34386.0,,Washington,Georgia,county,79.0,30673
+930,30164.0,,Wayne,Georgia,county,123.0,30830
+931,32211.0,,Webster,Georgia,county,111.0,31012
+932,19010.0,,Wheeler,Georgia,county,159.0,
+933,33680.0,,White,Georgia,county,88.0,30184
+934,37278.0,,Whitfield,Georgia,county,41.0,31756
+935,26014.0,,Wilcox,Georgia,county,153.0,
+936,38339.0,,Wilkes,Georgia,county,37.0,
+937,34285.0,,Wilkinson,Georgia,county,83.0,30187
+938,32540.0,,Worth,Georgia,county,97.0,30705
+939,32540.0,,Worth,Georgia,county,97.0,30705
+940,40883.0,,Hawaii,Hawaii,county,4.0,
+941,57049.0,,Honolulu,Hawaii,county,1.0,"96813,96814,96815,96816,96817"
+942,47084.0,,Kauai,Hawaii,county,2.0,96734
+943,47322.0,,Maui + Kalawao,Hawaii,county,3.0,96730
+944,47322.0,,Maui + Kalawao,Hawaii,county,3.0,96730
+945,50699.0,,Ada,Idaho,county,2.0,
+946,35945.0,,Adams,Idaho,county,27.0,
+947,36984.0,,Bannock,Idaho,county,24.0,
+948,37484.0,,Bear Lake,Idaho,county,22.0,
+949,35691.0,,Benewah,Idaho,county,28.0,
+950,34615.0,,Bingham,Idaho,county,33.0,
+951,107468.0,,Blaine,Idaho,county,1.0,
+952,41580.0,,Boise,Idaho,county,10.0,"83702,83703,83704,83705,83706"
+953,39444.0,,Bonner,Idaho,county,14.0,83805
+954,46236.0,,Bonneville,Idaho,county,5.0,
+955,34792.0,,Boundary,Idaho,county,29.0,83823
+956,37944.0,,Butte,Idaho,county,19.0,
+957,36314.0,,Camas,Idaho,county,21.0,
+958,31422.0,,Canyon,Idaho,county,43.0,83227
+959,37788.0,,Caribou,Idaho,county,18.0,
+960,42790.0,,Cassia,Idaho,county,7.0,
+961,38537.0,,Clark,Idaho,county,17.0,83811
+962,33881.0,,Clearwater,Idaho,county,41.0,
+963,41476.0,,Custer,Idaho,county,11.0,
+964,35609.0,,Elmore,Idaho,county,31.0,83255
+965,34974.0,,Franklin,Idaho,county,35.0,83237
+966,35350.0,,Fremont (includes Yellowstone National Park),Idaho,county,30.0,83429
+967,36200.0,,Gem,Idaho,county,26.0,83610
+968,53995.0,,Gooding,Idaho,county,3.0,83330
+969,32903.0,,Idaho,Idaho,county,38.0,83631
+970,33745.0,,Jefferson,Idaho,county,39.0,
+971,36699.0,,Jerome,Idaho,county,23.0,83338
+972,43129.0,,Kootenai,Idaho,county,8.0,
+973,39454.0,,Latah,Idaho,county,13.0,83855
+974,39790.0,,Lemhi,Idaho,county,12.0,
+975,43517.0,,Lewis,Idaho,county,6.0,83501
+976,33566.0,,Lincoln,Idaho,county,40.0,
+977,24881.0,,Madison,Idaho,county,44.0,
+978,36149.0,,Minidoka,Idaho,county,25.0,
+979,42907.0,,Nez Perce,Idaho,county,9.0,83543
+980,33614.0,,Oneida,Idaho,county,37.0,83230
+981,32319.0,,Owyhee,Idaho,county,42.0,
+982,38125.0,,Payette,Idaho,county,20.0,83661
+983,35757.0,,Power,Idaho,county,32.0,
+984,34669.0,,Shoshone,Idaho,county,36.0,83352
+985,37567.0,,Teton,Idaho,county,15.0,83451
+986,38230.0,,Twin Falls,Idaho,county,16.0,83301
+987,47866.0,,Valley,Idaho,county,4.0,83622
+988,34870.0,,Washington,Idaho,county,34.0,83420
+989,34870.0,,Washington,Idaho,county,34.0,83420
+990,44055.0,,Adams,Illinois,county,31.0,
+991,32888.0,,Alexander,Illinois,county,100.0,62601
+992,34896.0,,Bond,Illinois,county,90.0,
+993,45005.0,,Boone,Illinois,county,27.0,62816
+994,33448.0,,Brown,Illinois,county,99.0,62818
+995,41897.0,,Bureau,Illinois,county,47.0,
+996,39897.0,,Calhoun,Illinois,county,62.0,62419
+997,43059.0,,Carroll,Illinois,county,64.0,61053
+998,40212.0,,Cass,Illinois,county,60.0,
+999,43106.0,,Champaign,Illinois,county,36.0,"61820,61821,61822"
+1000,39756.0,,Christian,Illinois,county,68.0,61924
+1001,39877.0,,Clark,Illinois,county,54.0,60111
+1002,37175.0,,Clay,Illinois,county,78.0,62824
+1003,45539.0,,Clinton,Illinois,county,24.0,61727
+1004,39098.0,,Coles,Illinois,county,76.0,
+1005,59046.0,,Cook,Illinois,county,4.0,61730
+1006,44969.0,,Crawford,Illinois,county,23.0,61421
+1007,41910.0,,Cumberland,Illinois,county,48.0,60531
+1008,39059.0,,DeKalb,Illinois,county,77.0,60115
+1009,45308.0,,De Witt,Illinois,county,29.0,61735
+1010,48003.0,,Douglas,Illinois,county,13.0,62074
+1011,69106.0,,DuPage,Illinois,county,2.0,
+1012,40549.0,,Edgar,Illinois,county,65.0,
+1013,39111.0,,Edwards,Illinois,county,79.0,61528
+1014,47755.0,,Effingham,Illinois,county,17.0,62401
+1015,33549.0,,Fayette,Illinois,county,98.0,61449
+1016,49742.0,,Ford,Illinois,county,11.0,
+1017,35794.0,,Franklin,Illinois,county,91.0,62638
+1018,36054.0,,Fulton,Illinois,county,86.0,61252
+1019,43830.0,,Gallatin,Illinois,county,43.0,62935
+1020,34425.0,,Greene,Illinois,county,94.0,62642
+1021,49480.0,,Grundy,Illinois,county,12.0,
+1022,43346.0,,Hamilton,Illinois,county,51.0,62341
+1023,43476.0,,Hancock,Illinois,county,33.0,
+1024,36658.0,,Hardin,Illinois,county,93.0,62047
+1025,41657.0,,Henderson,Illinois,county,66.0,
+1026,44073.0,,Henry,Illinois,county,37.0,61537
+1027,41329.0,,Iroquois,Illinois,county,52.0,
+1028,35488.0,,Jackson,Illinois,county,92.0,62650
+1029,42431.0,,Jasper,Illinois,county,35.0,61354
+1030,37681.0,,Jefferson,Illinois,county,81.0,
+1031,39720.0,,Jersey,Illinois,county,70.0,62052
+1032,46417.0,,Jo Daviess,Illinois,county,20.0,61019
+1033,34457.0,,Johnson,Illinois,county,97.0,62850
+1034,48814.0,,Kane,Illinois,county,14.0,62054
+1035,39602.0,,Kankakee,Illinois,county,73.0,60901
+1036,46966.0,,Kendall,Illinois,county,21.0,62853
+1037,37806.0,,Knox,Illinois,county,83.0,61448
+1038,74130.0,,Lake,Illinois,county,1.0,"60012,60014"
+1039,42616.0,,LaSalle,Illinois,county,42.0,61301
+1040,28640.0,,Lawrence,Illinois,county,102.0,62439
+1041,40081.0,,Lee,Illinois,county,67.0,60530
+1042,42784.0,,Livingston,Illinois,county,41.0,
+1043,35922.0,,Logan,Illinois,county,88.0,
+1044,37161.0,,McDonough,Illinois,county,84.0,62544
+1045,52999.0,,McHenry,Illinois,county,7.0,"60050,60051"
+1046,47247.0,,McLean,Illinois,county,19.0,61754
+1047,45425.0,,Macon,Illinois,county,25.0,62544
+1048,38899.0,,Macoupin,Illinois,county,69.0,62544
+1049,44555.0,,Madison,Illinois,county,30.0,62060
+1050,40229.0,,Marion,Illinois,county,53.0,62959
+1051,43764.0,,Marshall,Illinois,county,34.0,62441
+1052,40016.0,,Mason,Illinois,county,63.0,62443
+1053,37218.0,,Massac,Illinois,county,87.0,62257
+1054,43943.0,,Menard,Illinois,county,28.0,
+1055,43836.0,,Mercer,Illinois,county,39.0,60941
+1056,55106.0,,Monroe,Illinois,county,6.0,61052
+1057,34961.0,,Montgomery,Illinois,county,89.0,60538
+1058,38417.0,,Morgan,Illinois,county,72.0,
+1059,57703.0,,Moultrie,Illinois,county,3.0,62446
+1060,44393.0,,Ogle,Illinois,county,32.0,61348
+1061,47963.0,,Peoria,Illinois,county,16.0,"61602,61603,61604,61605,61606"
+1062,35993.0,,Perry,Illinois,county,85.0,
+1063,50502.0,,Piatt,Illinois,county,8.0,
+1064,40413.0,,Pike,Illinois,county,56.0,62033
+1065,29341.0,,Pope,Illinois,county,101.0,
+1066,36471.0,,Pulaski,Illinois,county,96.0,62976
+1067,56849.0,,Putnam,Illinois,county,5.0,61560
+1068,34587.0,,Randolph,Illinois,county,95.0,
+1069,39881.0,,Richland,Illinois,county,61.0,62249
+1070,43156.0,,Rock Island,Illinois,county,40.0,61201
+1071,42933.0,,St. Clair,Illinois,county,38.0,62914
+1072,38524.0,,Saline,Illinois,county,80.0,
+1073,46187.0,,Sangamon,Illinois,county,22.0,
+1074,42046.0,,Schuyler,Illinois,county,45.0,62883
+1075,38749.0,,Scott,Illinois,county,59.0,62225
+1076,37692.0,,Shelby,Illinois,county,71.0,62565
+1077,41674.0,,Stark,Illinois,county,55.0,
+1078,40897.0,,Stephenson,Illinois,county,58.0,
+1079,44855.0,,Tazewell,Illinois,county,26.0,62375
+1080,40905.0,,Union,Illinois,county,57.0,60180
+1081,37461.0,,Vermilion,Illinois,county,82.0,
+1082,42162.0,,Wabash,Illinois,county,50.0,62297
+1083,38885.0,,Warren,Illinois,county,74.0,61087
+1084,47563.0,,Washington,Illinois,county,15.0,61571
+1085,38184.0,,Wayne,Illinois,county,75.0,60184
+1086,46911.0,,White,Illinois,county,18.0,62092
+1087,42325.0,,Whiteside,Illinois,county,46.0,
+1088,50449.0,,Will,Illinois,county,9.0,61489
+1089,42427.0,,Williamson,Illinois,county,44.0,62443
+1090,41579.0,,Winnebago,Illinois,county,49.0,61088
+1091,49424.0,,Woodford,Illinois,county,10.0,60517
+1092,49424.0,,Woodford,Illinois,county,10.0,60517
+1093,37119.0,,Adams,Indiana,county,71.0,
+1094,44182.0,,Allen,Indiana,county,21.0,47281
+1095,47987.0,,Bartholomew,Indiana,county,9.0,
+1096,39639.0,,Benton,Indiana,county,39.0,
+1097,36463.0,,Blackford,Indiana,county,83.0,
+1098,70598.0,,Boone,Indiana,county,2.0,
+1099,45194.0,,Brown,Indiana,county,18.0,46112
+1100,41367.0,,Carroll,Indiana,county,28.0,
+1101,37284.0,,Cass,Indiana,county,75.0,
+1102,42231.0,,Clark,Indiana,county,35.0,47930
+1103,37025.0,,Clay,Indiana,county,76.0,47841
+1104,36455.0,,Clinton,Indiana,county,69.0,47842
+1105,32517.0,,Crawford,Indiana,county,91.0,47933
+1106,40253.0,,Daviess,Indiana,county,47.0,
+1107,45302.0,,Dearborn,Indiana,county,15.0,47525
+1108,41066.0,,Decatur,Indiana,county,40.0,46733
+1109,42213.0,,DeKalb,Indiana,county,30.0,
+1110,35713.0,,Delaware,Indiana,county,86.0,47550
+1111,54443.0,,Dubois,Indiana,county,3.0,47527
+1112,45451.0,,Elkhart,Indiana,county,17.0,"46514,46516,46517"
+1113,38925.0,,Fayette,Indiana,county,56.0,"47906,47907"
+1114,53344.0,,Floyd,Indiana,county,5.0,47119
+1115,38205.0,,Fountain,Indiana,county,55.0,47341
+1116,44614.0,,Franklin,Indiana,county,19.0,46131
+1117,40418.0,,Fulton,Indiana,county,53.0,
+1118,43743.0,,Gibson,Indiana,county,24.0,
+1119,38200.0,,Grant,Indiana,county,60.0,47123
+1120,37637.0,,Greene,Indiana,county,64.0,47833
+1121,71816.0,,Hamilton,Indiana,county,1.0,46742
+1122,48483.0,,Hancock,Indiana,county,8.0,
+1123,40438.0,,Harrison,Indiana,county,49.0,47060
+1124,47740.0,,Hendricks,Indiana,county,10.0,47120
+1125,36561.0,,Henry,Indiana,county,78.0,47126
+1126,39916.0,,Howard,Indiana,county,50.0,
+1127,40203.0,,Huntington,Indiana,county,44.0,46750
+1128,40952.0,,Jackson,Indiana,county,42.0,
+1129,42313.0,,Jasper,Indiana,county,37.0,47546
+1130,37181.0,,Jay,Indiana,county,68.0,
+1131,40448.0,,Jefferson,Indiana,county,48.0,"47130,47190"
+1132,37482.0,,Jennings,Indiana,county,74.0,
+1133,46528.0,,Johnson,Indiana,county,11.0,
+1134,43026.0,,Knox,Indiana,county,26.0,46534
+1135,45728.0,,Kosciusko,Indiana,county,13.0,
+1136,41176.0,,Lagrange,Indiana,county,46.0,46761
+1137,43085.0,,Lake,Indiana,county,25.0,46303
+1138,40561.0,,LaPorte,Indiana,county,43.0,46350
+1139,38846.0,,Lawrence,Indiana,county,59.0,47025
+1140,36675.0,,Madison,Indiana,county,79.0,47250
+1141,50328.0,,Marion,Indiana,county,7.0,"46952,46953"
+1142,40060.0,,Marshall,Indiana,county,54.0,47859
+1143,37659.0,,Martin,Indiana,county,63.0,46151
+1144,33457.0,,Miami,Indiana,county,90.0,46959
+1145,40303.0,,Monroe,Indiana,county,45.0,46772
+1146,38609.0,,Montgomery,Indiana,county,62.0,47558
+1147,42318.0,,Morgan,Indiana,county,29.0,46160
+1148,37763.0,,Newton,Indiana,county,65.0,
+1149,38037.0,,Noble,Indiana,county,66.0,"46060,46062"
+1150,38572.0,,Ohio,Indiana,county,57.0,
+1151,36862.0,,Orange,Indiana,county,80.0,46968
+1152,38500.0,,Owen,Indiana,county,61.0,47453
+1153,35478.0,,Parke,Indiana,county,87.0,47368
+1154,36596.0,,Perry,Indiana,county,82.0,47974
+1155,39773.0,,Pike,Indiana,county,57.0,
+1156,50615.0,,Porter,Indiana,county,6.0,46368
+1157,46946.0,,Posey,Indiana,county,12.0,47633
+1158,42416.0,,Pulaski,Indiana,county,36.0,
+1159,36162.0,,Putnam,Indiana,county,84.0,
+1160,36856.0,,Randolph,Indiana,county,77.0,
+1161,40265.0,,Ripley,Indiana,county,51.0,
+1162,44641.0,,Rush,Indiana,county,16.0,46173
+1163,46068.0,,St. Joseph,Indiana,county,14.0,
+1164,36227.0,,Scott,Indiana,county,85.0,47170
+1165,42331.0,,Shelby,Indiana,county,32.0,
+1166,42970.0,,Spencer,Indiana,county,31.0,47460
+1167,34141.0,,Starke,Indiana,county,88.0,
+1168,41161.0,,Steuben,Indiana,county,38.0,
+1169,33765.0,,Sullivan,Indiana,county,89.0,"47864,47882"
+1170,29016.0,,Switzerland,Indiana,county,92.0,46184
+1171,36852.0,,Tippecanoe,Indiana,county,70.0,46570
+1172,43742.0,,Tipton,Indiana,county,20.0,46072
+1173,36992.0,,Union,Indiana,county,72.0,47390
+1174,44004.0,,Vanderburgh,Indiana,county,22.0,47630
+1175,37312.0,,Vermillion,Indiana,county,67.0,47441
+1176,37443.0,,Vigo,Indiana,county,73.0,
+1177,41382.0,,Wabash,Indiana,county,34.0,46992
+1178,41888.0,,Warren,Indiana,county,23.0,46792
+1179,54188.0,,Warrick,Indiana,county,4.0,
+1180,36417.0,,Washington,Indiana,county,81.0,47501
+1181,39623.0,,Wayne,Indiana,county,52.0,"46802,46803,46804,46805,46806"
+1182,40576.0,,Wells,Indiana,county,41.0,46732
+1183,41273.0,,White,Indiana,county,33.0,46184
+1184,42586.0,,Whitley,Indiana,county,27.0,46787
+1185,42586.0,,Whitley,Indiana,county,27.0,46787
+1186,47956.0,,Adair,Iowa,county,35.0,50002
+1187,60425.0,,Adams,Iowa,county,1.0,
+1188,43516.0,,Allamakee,Iowa,county,62.0,
+1189,36659.0,,Appanoose,Iowa,county,97.0,52581
+1190,45086.0,,Audubon,Iowa,county,54.0,50025
+1191,50585.0,,Benton,Iowa,county,20.0,50835
+1192,42221.0,,Black Hawk,Iowa,county,69.0,
+1193,46263.0,,Boone,Iowa,county,47.0,"50036,50099"
+1194,47251.0,,Bremer,Iowa,county,49.0,
+1195,44342.0,,Buchanan,Iowa,county,60.0,
+1196,45247.0,,Buena Vista,Iowa,county,45.0,52066
+1197,47707.0,,Butler,Iowa,county,46.0,
+1198,45730.0,,Calhoun,Iowa,county,38.0,
+1199,50694.0,,Carroll,Iowa,county,18.0,51401
+1200,44804.0,,Cass,Iowa,county,53.0,
+1201,50258.0,,Cedar,Iowa,county,21.0,52543
+1202,49935.0,,Cerro Gordo,Iowa,county,22.0,
+1203,57693.0,,Cherokee,Iowa,county,4.0,51012
+1204,53786.0,,Chickasaw,Iowa,county,8.0,
+1205,41325.0,,Clarke,Iowa,county,77.0,50524
+1206,47733.0,,Clay,Iowa,county,37.0,
+1207,47824.0,,Clayton,Iowa,county,42.0,50530
+1208,42167.0,,Clinton,Iowa,county,73.0,52732
+1209,39469.0,,Crawford,Iowa,county,90.0,52621
+1210,63620.0,,Dallas,Iowa,county,2.0,50063
+1211,34351.0,,Davis,Iowa,county,98.0,50065
+1212,33322.0,,Decatur,Iowa,county,99.0,50067
+1213,48195.0,,Delaware,Iowa,county,34.0,52036
+1214,48163.0,,Des Moines,Iowa,county,41.0,"50307,50308,50309,50310,50311"
+1215,56603.0,,Dickinson,Iowa,county,7.0,51333
+1216,46242.0,,Dubuque,Iowa,county,50.0,"52001,52002,52003"
+1217,43177.0,,Emmet,Iowa,county,82.0,50536
+1218,42160.0,,Fayette,Iowa,county,72.0,52142
+1219,44460.0,,Floyd,Iowa,county,59.0,50435
+1220,49186.0,,Franklin,Iowa,county,36.0,
+1221,43940.0,,Fremont,Iowa,county,66.0,52561
+1222,45392.0,,Greene,Iowa,county,52.0,50636
+1223,50936.0,,Grundy,Iowa,county,23.0,50638
+1224,49042.0,,Guthrie,Iowa,county,31.0,50115
+1225,46943.0,,Hamilton,Iowa,county,25.0,50116
+1226,51847.0,,Hancock,Iowa,county,17.0,51536
+1227,49143.0,,Hardin,Iowa,county,32.0,51520
+1228,43972.0,,Harrison,Iowa,county,68.0,52229
+1229,40373.0,,Henry,Iowa,county,83.0,50433
+1230,44126.0,,Howard,Iowa,county,55.0,50545
+1231,47403.0,,Humboldt,Iowa,county,43.0,50548
+1232,49798.0,,Ida,Iowa,county,28.0,51445
+1233,51702.0,,Iowa,Iowa,county,16.0,"52240,52242,52245,52246"
+1234,42303.0,,Jackson,Iowa,county,67.0,
+1235,40877.0,,Jasper,Iowa,county,81.0,50222
+1236,38299.0,,Jefferson,Iowa,county,85.0,50129
+1237,50536.0,,Johnson,Iowa,county,33.0,50131
+1238,41572.0,,Jones,Iowa,county,79.0,52739
+1239,41300.0,,Keokuk,Iowa,county,71.0,52632
+1240,50641.0,,Kossuth,Iowa,county,27.0,
+1241,39430.0,,Lee,Iowa,county,87.0,50605
+1242,50374.0,,Linn,Iowa,county,29.0,51033
+1243,38603.0,,Louisa,Iowa,county,94.0,
+1244,39586.0,,Lucas,Iowa,county,88.0,50151
+1245,59337.0,,Lyon,Iowa,county,5.0,50561
+1246,47104.0,,Madison,Iowa,county,48.0,52627
+1247,40057.0,,Mahaska,Iowa,county,76.0,
+1248,45902.0,,Marion,Iowa,county,51.0,52302
+1249,40771.0,,Marshall,Iowa,county,79.0,50158
+1250,53113.0,,Mills,Iowa,county,13.0,50450
+1251,56986.0,,Mitchell,Iowa,county,3.0,50169
+1252,46535.0,,Monona,Iowa,county,56.0,52159
+1253,40394.0,,Monroe,Iowa,county,78.0,50170
+1254,40010.0,,Montgomery,Iowa,county,86.0,50173
+1255,45111.0,,Muscatine,Iowa,county,57.0,52761
+1256,56110.0,,O'Brien,Iowa,county,6.0,50858
+1257,52840.0,,Osceola,Iowa,county,11.0,50213
+1258,38926.0,,Page,Iowa,county,91.0,
+1259,50023.0,,Palo Alto,Iowa,county,26.0,52324
+1260,54505.0,,Plymouth,Iowa,county,9.0,50464
+1261,46807.0,,Pocahontas,Iowa,county,30.0,50574
+1262,51006.0,,Polk,Iowa,county,24.0,50226
+1263,43184.0,,Pottawattamie,Iowa,county,64.0,
+1264,44216.0,,Poweshiek,Iowa,county,58.0,
+1265,42744.0,,Ringgold,Iowa,county,63.0,
+1266,50498.0,,Sac,Iowa,county,12.0,50583
+1267,51985.0,,Scott,Iowa,county,19.0,50859
+1268,49328.0,,Shelby,Iowa,county,39.0,51570
+1269,52054.0,,Sioux,Iowa,county,15.0,51545
+1270,39976.0,,Story,Iowa,county,89.0,50248
+1271,43132.0,,Tama,Iowa,county,61.0,52339
+1272,39947.0,,Taylor,Iowa,county,92.0,51653
+1273,37956.0,,Union,Iowa,county,95.0,50258
+1274,37839.0,,Van Buren,Iowa,county,93.0,
+1275,36928.0,,Wapello,Iowa,county,96.0,52653
+1276,48764.0,,Warren,Iowa,county,40.0,51023
+1277,52712.0,,Washington,Iowa,county,10.0,52353
+1278,40490.0,,Wayne,Iowa,county,75.0,
+1279,42623.0,,Webster,Iowa,county,65.0,52355
+1280,42464.0,,Winnebago,Iowa,county,70.0,
+1281,46862.0,,Winneshiek,Iowa,county,44.0,
+1282,41570.0,,Woodbury,Iowa,county,74.0,50275
+1283,39928.0,,Worth,Iowa,county,84.0,50001
+1284,51704.0,,Wright,Iowa,county,14.0,52540
+1285,51704.0,,Wright,Iowa,county,14.0,52540
+1286,38176.0,,Allen,Kansas,county,86.0,66833
+1287,36673.0,,Anderson,Kansas,county,96.0,67733
+1288,35796.0,,Atchison,Kansas,county,101.0,66002
+1289,38154.0,,Barber,Kansas,county,70.0,66408
+1290,44565.0,,Barton,Kansas,county,34.0,67020
+1291,40056.0,,Bourbon,Kansas,county,67.0,67020
+1292,41260.0,,Brown,Kansas,county,63.0,67521
+1293,43949.0,,Butler,Kansas,county,44.0,67522
+1294,43961.0,,Chase,Kansas,county,43.0,67524
+1295,38320.0,,Chautauqua,Kansas,county,84.0,
+1296,37642.0,,Cherokee,Kansas,county,89.0,66724
+1297,41532.0,,Cheyenne,Kansas,county,37.0,67025
+1298,58054.0,,Clark,Kansas,county,9.0,
+1299,40952.0,,Clay,Kansas,county,76.0,67432
+1300,36765.0,,Cloud,Kansas,county,98.0,66094
+1301,49455.0,,Coffey,Kansas,county,18.0,67337
+1302,43104.0,,Comanche,Kansas,county,46.0,
+1303,36963.0,,Cowley,Kansas,county,94.0,67701
+1304,35923.0,,Crawford,Kansas,county,99.0,67842
+1305,43747.0,,Decatur,Kansas,county,40.0,
+1306,39504.0,,Dickinson,Kansas,county,85.0,67520
+1307,36703.0,,Doniphan,Kansas,county,102.0,
+1308,41899.0,,Douglas,Kansas,county,59.0,67039
+1309,46538.0,,Edwards,Kansas,county,22.0,
+1310,38382.0,,Elk,Kansas,county,83.0,67344
+1311,43805.0,,Ellis,Kansas,county,42.0,67637
+1312,39718.0,,Ellsworth,Kansas,county,61.0,67439
+1313,40772.0,,Finney,Kansas,county,62.0,
+1314,37024.0,,Ford,Kansas,county,93.0,67842
+1315,40397.0,,Franklin,Kansas,county,72.0,66735
+1316,46894.0,,Geary,Kansas,county,31.0,
+1317,54352.0,,Gove,Kansas,county,11.0,67736
+1318,43260.0,,Graham,Kansas,county,29.0,67640
+1319,45644.0,,Grant,Kansas,county,41.0,66429
+1320,66009.0,,Gray,Kansas,county,5.0,67621
+1321,49718.0,,Greeley,Kansas,county,10.0,66033
+1322,40495.0,,Greenwood,Kansas,county,66.0,67447
+1323,55201.0,,Hamilton,Kansas,county,8.0,66853
+1324,44555.0,,Harper,Kansas,county,38.0,67058
+1325,39753.0,,Harvey,Kansas,county,77.0,66431
+1326,53854.0,,Haskell,Kansas,county,20.0,
+1327,44405.0,,Hodgeman,Kansas,county,30.0,67734
+1328,39634.0,,Jackson,Kansas,county,78.0,
+1329,41883.0,,Jefferson,Kansas,county,53.0,67733
+1330,45119.0,,Jewell,Kansas,county,33.0,66949
+1331,70899.0,,Johnson,Kansas,county,2.0,67855
+1332,52343.0,,Kearny,Kansas,county,14.0,
+1333,41770.0,,Kingman,Kansas,county,68.0,67068
+1334,41488.0,,Kiowa,Kansas,county,57.0,67070
+1335,39725.0,,Labette,Kansas,county,74.0,66406
+1336,87016.0,,Lane,Kansas,county,1.0,66042
+1337,41239.0,,Leavenworth,Kansas,county,64.0,66048
+1338,38570.0,,Lincoln,Kansas,county,79.0,67455
+1339,34789.0,,Linn,Kansas,county,103.0,66953
+1340,44743.0,,Logan,Kansas,county,35.0,67646
+1341,36412.0,,Lyon,Kansas,county,97.0,67554
+1342,47518.0,,McPherson,Kansas,county,24.0,67460
+1343,39347.0,,Marion,Kansas,county,80.0,66861
+1344,44167.0,,Marshall,Kansas,county,47.0,
+1345,58921.0,,Meade,Kansas,county,6.0,67864
+1346,46750.0,,Miami,Kansas,county,32.0,
+1347,53613.0,,Mitchell,Kansas,county,16.0,
+1348,35010.0,,Montgomery,Kansas,county,100.0,
+1349,42789.0,,Morris,Kansas,county,71.0,66515
+1350,41977.0,,Morton,Kansas,county,58.0,66439
+1351,52071.0,,Nemaha,Kansas,county,17.0,
+1352,37394.0,,Neosho,Kansas,county,90.0,66758
+1353,50864.0,,Ness,Kansas,county,12.0,67560
+1354,40019.0,,Norton,Kansas,county,75.0,67654
+1355,39172.0,,Osage,Kansas,county,87.0,66523
+1356,43447.0,,Osborne,Kansas,county,45.0,67473
+1357,39515.0,,Ottawa,Kansas,county,81.0,66067
+1358,37888.0,,Pawnee,Kansas,county,91.0,67567
+1359,46978.0,,Phillips,Kansas,county,23.0,67661
+1360,50834.0,,Pottawatomie,Kansas,county,21.0,66067
+1361,44202.0,,Pratt,Kansas,county,36.0,67124
+1362,47608.0,,Rawlins,Kansas,county,15.0,
+1363,39347.0,,Reno,Kansas,county,82.0,67346
+1364,43127.0,,Republic,Kansas,county,56.0,66964
+1365,39592.0,,Rice,Kansas,county,65.0,67570
+1366,40847.0,,Riley,Kansas,county,69.0,66531
+1367,36736.0,,Rooks,Kansas,county,73.0,66524
+1368,40603.0,,Rush,Kansas,county,55.0,67575
+1369,41745.0,,Russell,Kansas,county,54.0,67665
+1370,47831.0,,Saline,Kansas,county,28.0,67401
+1371,67868.0,,Scott,Kansas,county,4.0,66701
+1372,50503.0,,Sedgwick,Kansas,county,19.0,67135
+1373,35581.0,,Seward,Kansas,county,95.0,
+1374,44478.0,,Shawnee,Kansas,county,39.0,"66203,66216,66217,66218,66226"
+1375,47346.0,,Sheridan,Kansas,county,26.0,67361
+1376,39484.0,,Sherman,Kansas,county,51.0,
+1377,42348.0,,Smith,Kansas,county,49.0,66967
+1378,40531.0,,Stafford,Kansas,county,52.0,67578
+1379,52848.0,,Stanton,Kansas,county,7.0,66537
+1380,36189.0,,Stevens,Kansas,county,92.0,
+1381,38969.0,,Sumner,Kansas,county,88.0,66541
+1382,40907.0,,Thomas,Kansas,county,48.0,
+1383,44683.0,,Trego,Kansas,county,25.0,
+1384,48839.0,,Wabaunsee,Kansas,county,27.0,66840
+1385,50115.0,,Wallace,Kansas,county,13.0,67761
+1386,43064.0,,Washington,Kansas,county,50.0,66968
+1387,58829.0,,Wichita,Kansas,county,3.0,"67202,67203,67204,67205,67206"
+1388,40967.0,,Wilson,Kansas,county,60.0,67490
+1389,33592.0,,Woodson,Kansas,county,104.0,67675
+1390,32157.0,,Wyandotte,Kansas,county,105.0,
+1391,32157.0,,Wyandotte,Kansas,county,105.0,
+1392,30140.0,,Adair,Kentucky,county,98.0,42202
+1393,31901.0,,Allen,Kentucky,county,87.0,41601
+1394,38451.0,,Anderson,Kentucky,county,30.0,42420
+1395,37109.0,,Ballard,Kentucky,county,39.0,
+1396,35644.0,,Barren,Kentucky,county,50.0,
+1397,29974.0,,Bath,Kentucky,county,109.0,
+1398,28620.0,,Bell,Kentucky,county,114.0,41073
+1399,45860.0,,Boone,Kentucky,county,8.0,41314
+1400,43104.0,,Bourbon,Kentucky,county,11.0,
+1401,37222.0,,Boyd,Kentucky,county,29.0,
+1402,36537.0,,Boyle,Kentucky,county,42.0,
+1403,35226.0,,Bracken,Kentucky,county,48.0,41804
+1404,32834.0,,Breathitt,Kentucky,county,77.0,40403
+1405,33614.0,,Breckinridge,Kentucky,county,69.0,
+1406,39577.0,,Bullitt,Kentucky,county,23.0,
+1407,33602.0,,Butler,Kentucky,county,70.0,41006
+1408,33639.0,,Caldwell,Kentucky,county,64.0,42023
+1409,34755.0,,Calloway,Kentucky,county,60.0,
+1410,46864.0,,Campbell,Kentucky,county,6.0,40011
+1411,42142.0,,Carlisle,Kentucky,county,13.0,40311
+1412,34421.0,,Carroll,Kentucky,county,55.0,
+1413,30012.0,,Carter,Kentucky,county,105.0,
+1414,30367.0,,Casey,Kentucky,county,99.0,42721
+1415,37237.0,,Christian,Kentucky,county,43.0,
+1416,39105.0,,Clark,Kentucky,county,28.0,42726
+1417,29799.0,,Clay,Kentucky,county,107.0,42404
+1418,30274.0,,Clinton,Kentucky,county,97.0,42031
+1419,33812.0,,Crittenden,Kentucky,county,63.0,41030
+1420,33541.0,,Cumberland,Kentucky,county,61.0,40823
+1421,40420.0,,Daviess,Kentucky,county,20.0,41727
+1422,31542.0,,Edmonson,Kentucky,county,88.0,42129
+1423,21934.0,,Elliott,Kentucky,county,120.0,
+1424,30858.0,,Estill,Kentucky,county,92.0,42717
+1425,48427.0,,Fayette,Kentucky,county,5.0,42254
+1426,32796.0,,Fleming,Kentucky,county,81.0,41041
+1427,35738.0,,Floyd,Kentucky,county,46.0,
+1428,40716.0,,Franklin,Kentucky,county,19.0,42134
+1429,32588.0,,Fulton,Kentucky,county,79.0,42041
+1430,31085.0,,Gallatin,Kentucky,county,90.0,
+1431,33723.0,,Garrard,Kentucky,county,71.0,
+1432,34781.0,,Grant,Kentucky,county,57.0,
+1433,37455.0,,Graves,Kentucky,county,36.0,41772
+1434,32558.0,,Grayson,Kentucky,county,80.0,41143
+1435,34220.0,,Green,Kentucky,county,68.0,"42101,42103,42104"
+1436,38541.0,,Greenup,Kentucky,county,24.0,41144
+1437,35550.0,,Hancock,Kentucky,county,47.0,
+1438,42161.0,,Hardin,Kentucky,county,16.0,42048
+1439,29626.0,,Harlan,Kentucky,county,103.0,40831
+1440,34181.0,,Harrison,Kentucky,county,66.0,41141
+1441,31296.0,,Hart,Kentucky,county,89.0,42347
+1442,38332.0,,Henderson,Kentucky,county,27.0,42420
+1443,36736.0,,Henry,Kentucky,county,38.0,42354
+1444,42615.0,,Hickman,Kentucky,county,10.0,42050
+1445,38817.0,,Hopkins,Kentucky,county,31.0,42240
+1446,27836.0,,Jackson,Kentucky,county,117.0,41339
+1447,49871.0,,Jefferson,Kentucky,county,3.0,41751
+1448,42372.0,,Jessamine,Kentucky,county,15.0,41224
+1449,32007.0,,Johnson,Kentucky,county,84.0,42413
+1450,55101.0,,Kenton,Kentucky,county,2.0,
+1451,29082.0,,Knott,Kentucky,county,112.0,42635
+1452,28678.0,,Knox,Kentucky,county,115.0,"40121,40122"
+1453,35481.0,,Larue,Kentucky,county,52.0,40808
+1454,33066.0,,Laurel,Kentucky,county,75.0,40808
+1455,30289.0,,Lawrence,Kentucky,county,91.0,40342
+1456,31147.0,,Lee,Kentucky,county,111.0,42202
+1457,31632.0,,Leslie,Kentucky,county,86.0,40827
+1458,29386.0,,Letcher,Kentucky,county,104.0,41832
+1459,30030.0,,Lewis,Kentucky,county,101.0,42256
+1460,30755.0,,Lincoln,Kentucky,county,96.0,42031
+1461,36823.0,,Livingston,Kentucky,county,41.0,40445
+1462,35007.0,,Logan,Kentucky,county,59.0,42437
+1463,34694.0,,Lyon,Kentucky,county,49.0,
+1464,46442.0,,McCracken,Kentucky,county,7.0,
+1465,25026.0,,McCreary,Kentucky,county,119.0,41712
+1466,39870.0,,McLean,Kentucky,county,22.0,
+1467,34654.0,,Madison,Kentucky,county,62.0,42431
+1468,29452.0,,Magoffin,Kentucky,county,108.0,
+1469,34997.0,,Marion,Kentucky,county,58.0,42064
+1470,39505.0,,Marshall,Kentucky,county,21.0,41159
+1471,28906.0,,Martin,Kentucky,county,113.0,41649
+1472,38861.0,,Mason,Kentucky,county,25.0,
+1473,38901.0,,Meade,Kentucky,county,26.0,
+1474,29734.0,,Menifee,Kentucky,county,110.0,
+1475,36552.0,,Mercer,Kentucky,county,44.0,
+1476,30660.0,,Metcalfe,Kentucky,county,93.0,40982
+1477,35747.0,,Monroe,Kentucky,county,54.0,42352
+1478,34003.0,,Montgomery,Kentucky,county,67.0,
+1479,26379.0,,Morgan,Kentucky,county,118.0,42437
+1480,33608.0,,Muhlenberg,Kentucky,county,76.0,40845
+1481,40970.0,,Nelson,Kentucky,county,18.0,41840
+1482,33752.0,,Nicholas,Kentucky,county,73.0,40356
+1483,31780.0,,Ohio,Kentucky,county,83.0,
+1484,60029.0,,Oldham,Kentucky,county,1.0,
+1485,32927.0,,Owen,Kentucky,county,74.0,"42301,42303"
+1486,30801.0,,Owsley,Kentucky,county,95.0,
+1487,44473.0,,Pendleton,Kentucky,county,14.0,40055
+1488,36986.0,,Perry,Kentucky,county,33.0,
+1489,35192.0,,Pike,Kentucky,county,56.0,41501
+1490,31108.0,,Powell,Kentucky,county,94.0,41647
+1491,35537.0,,Pulaski,Kentucky,county,45.0,
+1492,31779.0,,Robertson,Kentucky,county,85.0,42252
+1493,30574.0,,Rockcastle,Kentucky,county,100.0,41566
+1494,29803.0,,Rowan,Kentucky,county,106.0,41848
+1495,33229.0,,Russell,Kentucky,county,72.0,41169
+1496,42538.0,,Scott,Kentucky,county,17.0,42164
+1497,43963.0,,Shelby,Kentucky,county,9.0,41563
+1498,37757.0,,Simpson,Kentucky,county,35.0,40067
+1499,42459.0,,Spencer,Kentucky,county,12.0,
+1500,34221.0,,Taylor,Kentucky,county,65.0,40071
+1501,37222.0,,Todd,Kentucky,county,34.0,
+1502,36180.0,,Trigg,Kentucky,county,53.0,40862
+1503,35388.0,,Trimble,Kentucky,county,51.0,40915
+1504,31927.0,,Union,Kentucky,county,78.0,41091
+1505,37140.0,,Warren,Kentucky,county,37.0,
+1506,36996.0,,Washington,Kentucky,county,40.0,
+1507,27485.0,,Wayne,Kentucky,county,116.0,40489
+1508,39000.0,,Webster,Kentucky,county,32.0,40176
+1509,32449.0,,Whitley,Kentucky,county,82.0,42653
+1510,30461.0,,Wolfe,Kentucky,county,102.0,
+1511,49988.0,,Woodford,Kentucky,county,4.0,
+1512,49988.0,,Woodford,Kentucky,county,4.0,
+1513,35481.0,,Acadia,Louisiana,county,46.0,71001
+1514,31754.0,,Allen,Louisiana,county,58.0,70767
+1515,47798.0,,Ascension,Louisiana,county,7.0,
+1516,43897.0,,Assumption,Louisiana,county,15.0,
+1517,36529.0,,Avoyelles,Louisiana,county,43.0,
+1518,41126.0,,Beauregard,Louisiana,county,19.0,70049
+1519,35759.0,,Bienville,Louisiana,county,42.0,71008
+1520,41876.0,,Bossier,Louisiana,county,18.0,"71111,71112"
+1521,45384.0,,Caddo,Louisiana,county,12.0,
+1522,46162.0,,Calcasieu,Louisiana,county,10.0,
+1523,32616.0,,Caldwell,Louisiana,county,54.0,
+1524,47476.0,,Cameron,Louisiana,county,5.0,70631
+1525,33413.0,,Catahoula,Louisiana,county,56.0,"70360,70363,70364"
+1526,33643.0,,Claiborne,Louisiana,county,51.0,
+1527,31599.0,,Concordia,Louisiana,county,59.0,71044
+1528,38585.0,,De Soto,Louisiana,county,30.0,
+1529,48855.0,,East Baton Rouge,Louisiana,county,3.0,"70801,70802,70805,70806,70807"
+1530,36315.0,,East Carroll,Louisiana,county,50.0,71465
+1531,40843.0,,East Feliciana,Louisiana,county,20.0,71063
+1532,32634.0,,Evangeline,Louisiana,county,55.0,70537
+1533,31196.0,,Franklin,Louisiana,county,63.0,70538
+1534,30862.0,,Grant,Louisiana,county,64.0,
+1535,37119.0,,Iberia,Louisiana,county,36.0,"70560,70563"
+1536,39569.0,,Iberville,Louisiana,county,25.0,70510
+1537,32933.0,,Jackson,Louisiana,county,53.0,70748
+1538,48520.0,,Jefferson,Louisiana,county,4.0,71331
+1539,39905.0,,Jefferson Davis,Louisiana,county,21.0,71331
+1540,47467.0,,Lafayette,Louisiana,county,6.0,"70500,70501,70503,70506,70507"
+1541,44136.0,,Lafourche,Louisiana,county,13.0,70732
+1542,30283.0,,LaSalle,Louisiana,county,61.0,
+1543,38492.0,,Lincoln,Louisiana,county,32.0,70722
+1544,39068.0,,Livingston,Louisiana,county,29.0,70754
+1545,31210.0,,Madison,Louisiana,county,60.0,70447
+1546,37648.0,,Morehouse,Louisiana,county,41.0,70559
+1547,37985.0,,Natchitoches,Louisiana,county,34.0,71457
+1548,49436.0,,Orleans,Louisiana,county,2.0,"70112,70113,70114,70115,70116"
+1549,39135.0,,Ouachita,Louisiana,county,27.0,70543
+1550,47225.0,,Plaquemines,Louisiana,county,8.0,70764
+1551,42976.0,,Pointe Coupee,Louisiana,county,17.0,
+1552,44128.0,,Rapides,Louisiana,county,16.0,
+1553,38966.0,,Red River,Louisiana,county,22.0,70452
+1554,35988.0,,Richland,Louisiana,county,45.0,70394
+1555,33001.0,,Sabine,Louisiana,county,52.0,71070
+1556,30974.0,,St. Bernard,Louisiana,county,62.0,70085
+1557,47247.0,,St. Charles,Louisiana,county,9.0,"70601,70605,70607,70611,70615"
+1558,39875.0,,St. Helena,Louisiana,county,23.0,71447
+1559,46155.0,,St. James,Louisiana,county,11.0,70086
+1560,38830.0,,St. John the Baptist,Louisiana,county,31.0,
+1561,39179.0,,St. Landry,Louisiana,county,26.0,71367
+1562,35705.0,,St. Martin,Louisiana,county,44.0,71260
+1563,37142.0,,St. Mary,Louisiana,county,35.0,
+1564,58848.0,,St. Tammany,Louisiana,county,1.0,71449
+1565,37474.0,,Tangipahoa,Louisiana,county,38.0,
+1566,36060.0,,Tensas,Louisiana,county,49.0,
+1567,39379.0,,Terrebonne,Louisiana,county,24.0,
+1568,37117.0,,Union,Louisiana,county,39.0,
+1569,36943.0,,Vermilion,Louisiana,county,37.0,
+1570,38756.0,,Vernon,Louisiana,county,28.0,
+1571,32210.0,,Washington,Louisiana,county,57.0,70589
+1572,38000.0,,Webster,Louisiana,county,33.0,
+1573,45169.0,,West Baton Rouge,Louisiana,county,14.0,"70801,70802,70805,70806,70807"
+1574,34625.0,,West Carroll,Louisiana,county,48.0,71465
+1575,37266.0,,West Feliciana,Louisiana,county,40.0,71063
+1576,35068.0,,Winn,Louisiana,county,47.0,71483
+1577,35068.0,,Winn,Louisiana,county,47.0,71483
+1578,39600.0,,Androscoggin,Maine,county,9.0,
+1579,39387.0,,Aroostook,Maine,county,10.0,
+1580,59331.0,,Cumberland,Maine,county,1.0,04021
+1581,36874.0,,Franklin,Maine,county,13.0,04634
+1582,48782.0,,Hancock,Maine,county,5.0,04640
+1583,43096.0,,Kennebec,Maine,county,7.0,
+1584,49443.0,,Knox,Maine,county,2.0,
+1585,48449.0,,Lincoln,Maine,county,6.0,04457
+1586,36245.0,,Oxford,Maine,county,16.0,04270
+1587,39976.0,,Penobscot,Maine,county,8.0,04476
+1588,36588.0,,Piscataquis,Maine,county,14.0,
+1589,48764.0,,Sagadahoc,Maine,county,4.0,
+1590,36980.0,,Somerset,Maine,county,15.0,
+1591,38833.0,,Waldo,Maine,county,11.0,04572
+1592,38836.0,,Washington,Maine,county,12.0,04574
+1593,49665.0,,York,Maine,county,3.0,03909
+1594,49665.0,,York,Maine,county,3.0,03909
+1595,38754.0,,Allegany,Maryland,county,23.0,
+1596,64519.0,,Anne Arundel,Maryland,county,4.0,
+1597,58638.0,,Baltimore,Maryland,county,9.0,"21201,21202,21205,21206,21209"
+1598,59974.0,,Calvert,Maryland,county,7.0,
+1599,44788.0,,Caroline,Maryland,county,20.0,20832
+1600,60423.0,,Carroll,Maryland,county,6.0,
+1601,45650.0,,Cecil,Maryland,county,17.0,
+1602,54857.0,,Charles,Maryland,county,13.0,
+1603,44916.0,,Dorchester,Maryland,county,19.0,21619
+1604,59455.0,,Frederick,Maryland,county,8.0,"21701,21702,21703,21704"
+1605,43328.0,,Garrett,Maryland,county,21.0,
+1606,56436.0,,Harford,Maryland,county,12.0,20776
+1607,75026.0,,Howard,Maryland,county,2.0,
+1608,58154.0,,Kent,Maryland,county,10.0,21631
+1609,85345.0,,Montgomery,Maryland,county,1.0,20886
+1610,47348.0,,Prince George's,Maryland,county,16.0,
+1611,62287.0,,Queen Anne's,Maryland,county,5.0,21657
+1612,54446.0,,St. Mary's,Maryland,county,14.0,
+1613,31147.0,,Somerset,Maryland,county,24.0,
+1614,69455.0,,Talbot,Maryland,county,3.0,
+1615,45087.0,,Washington,Maryland,county,18.0,20744
+1616,40839.0,,Wicomico,Maryland,county,22.0,
+1617,58054.0,,Worcester,Maryland,county,11.0,21619
+1618,48945.0,,Baltimore City,Maryland,county,15.0,"21201,21202,21205,21206,21209"
+1619,48945.0,,Baltimore City,Maryland,county,15.0,"21201,21202,21205,21206,21209"
+1620,70777.0,,Barnstable,Massachusetts,county,6.0,02630
+1621,54135.0,,Berkshire,Massachusetts,county,10.0,01224
+1622,51710.0,,Bristol,Massachusetts,county,12.0,
+1623,89082.0,,Dukes,Massachusetts,county,2.0,
+1624,64354.0,,Essex,Massachusetts,county,7.0,01929
+1625,52477.0,,Franklin,Massachusetts,county,11.0,02038
+1626,49416.0,,Hampden,Massachusetts,county,14.0,01036
+1627,50857.0,,Hampshire,Massachusetts,county,13.0,01225
+1628,79583.0,,Middlesex,Massachusetts,county,4.0,01929
+1629,117909.0,,Nantucket,Massachusetts,county,1.0,02554
+1630,87474.0,,Norfolk,Massachusetts,county,3.0,02056
+1631,64316.0,,Plymouth,Massachusetts,county,8.0,02360
+1632,77036.0,,Suffolk,Massachusetts,county,5.0,
+1633,54439.0,,Worcester,Massachusetts,county,9.0,"01602,01603,01604,01605,01606"
+1634,54439.0,,Worcester,Massachusetts,county,9.0,"01602,01603,01604,01605,01606"
+1635,36624.0,,Alcona,Michigan,county,53.0,48001
+1636,32245.0,,Alger,Michigan,county,80.0,48610
+1637,42787.0,,Allegan,Michigan,county,20.0,49010
+1638,39510.0,,Alpena,Michigan,county,35.0,49707
+1639,44756.0,,Antrim,Michigan,county,16.0,48069
+1640,36085.0,,Arenac,Michigan,county,62.0,48881
+1641,31664.0,,Baraga,Michigan,county,81.0,49908
+1642,43036.0,,Barry,Michigan,county,23.0,49305
+1643,40192.0,,Bay,Michigan,county,31.0,"48706,48708"
+1644,41620.0,,Benzie,Michigan,county,28.0,49616
+1645,45651.0,,Berrien,Michigan,county,15.0,49102
+1646,35438.0,,Branch,Michigan,county,61.0,49402
+1647,38608.0,,Calhoun,Michigan,county,39.0,
+1648,43298.0,,Cass,Michigan,county,21.0,48726
+1649,49855.0,,Charlevoix,Michigan,county,8.0,49720
+1650,38120.0,,Cheboygan,Michigan,county,41.0,49721
+1651,32579.0,,Chippewa,Michigan,county,76.0,
+1652,32913.0,,Clare,Michigan,county,78.0,48617
+1653,44687.0,,Clinton,Michigan,county,18.0,49236
+1654,32483.0,,Crawford,Michigan,county,74.0,
+1655,38423.0,,Delta,Michigan,county,38.0,49046
+1656,46503.0,,Dickinson,Michigan,county,11.0,48741
+1657,40948.0,,Eaton,Michigan,county,30.0,48827
+1658,54537.0,,Emmet,Michigan,county,6.0,48022
+1659,39380.0,,Genesee,Michigan,county,34.0,
+1660,35674.0,,Gladwin,Michigan,county,65.0,48624
+1661,37352.0,,Gogebic,Michigan,county,44.0,
+1662,48387.0,,Grand Traverse,Michigan,county,9.0,48229
+1663,35599.0,,Gratiot,Michigan,county,59.0,48059
+1664,34569.0,,Hillsdale,Michigan,county,66.0,49242
+1665,35650.0,,Houghton,Michigan,county,60.0,49931
+1666,43446.0,,Huron,Michigan,county,19.0,48060
+1667,38893.0,,Ingham,Michigan,county,36.0,48009
+1668,33339.0,,Ionia,Michigan,county,71.0,48846
+1669,36055.0,,Iosco,Michigan,county,57.0,49947
+1670,42799.0,,Iron,Michigan,county,22.0,49801
+1671,33638.0,,Isabella,Michigan,county,69.0,
+1672,38031.0,,Jackson,Michigan,county,45.0,"49201,49202,49203"
+1673,46675.0,,Kalamazoo,Michigan,county,12.0,"49001,49004,49006,49007,49008"
+1674,33338.0,,Kalkaska,Michigan,county,75.0,49646
+1675,51268.0,,Kent,Michigan,county,7.0,49330
+1676,45092.0,,Keweenaw,Michigan,county,13.0,
+1677,30077.0,,Lake,Michigan,county,83.0,48632
+1678,41744.0,,Lapeer,Michigan,county,26.0,48446
+1679,63559.0,,Leelanau,Michigan,county,2.0,49653
+1680,37956.0,,Lenawee,Michigan,county,46.0,
+1681,55861.0,,Livingston,Michigan,county,5.0,48741
+1682,30252.0,,Luce,Michigan,county,82.0,
+1683,42130.0,,Mackinac,Michigan,county,24.0,
+1684,44645.0,,Macomb,Michigan,county,17.0,"48042,48044"
+1685,36867.0,,Manistee,Michigan,county,51.0,49660
+1686,38349.0,,Marquette,Michigan,county,42.0,49855
+1687,39357.0,,Mason,Michigan,county,32.0,48854
+1688,32527.0,,Mecosta,Michigan,county,77.0,49332
+1689,41393.0,,Menominee,Michigan,county,27.0,49858
+1690,58229.0,,Midland,Michigan,county,3.0,"48640,48642"
+1691,33883.0,,Missaukee,Michigan,county,72.0,
+1692,45498.0,,Monroe,Michigan,county,14.0,"48161,48162"
+1693,33571.0,,Montcalm,Michigan,county,72.0,48801
+1694,35483.0,,Montmorency,Michigan,county,63.0,49256
+1695,37207.0,,Muskegon,Michigan,county,48.0,"49440,49441,49442,49444,49445"
+1696,36579.0,,Newaygo,Michigan,county,54.0,49337
+1697,69410.0,,Oakland,Michigan,county,1.0,48363
+1698,36225.0,,Oceana,Michigan,county,58.0,
+1699,33065.0,,Ogemaw,Michigan,county,70.0,
+1700,38027.0,,Ontonagon,Michigan,county,40.0,49953
+1701,34148.0,,Osceola,Michigan,county,68.0,48750
+1702,32189.0,,Oscoda,Michigan,county,79.0,48750
+1703,38670.0,,Otsego,Michigan,county,37.0,49078
+1704,47043.0,,Ottawa,Michigan,county,10.0,
+1705,37515.0,,Presque Isle,Michigan,county,49.0,49777
+1706,35282.0,,Roscommon,Michigan,county,64.0,48653
+1707,37286.0,,Saginaw,Michigan,county,52.0,"48601,48602,48603,48604,48607"
+1708,42381.0,,St. Clair,Michigan,county,25.0,"48080,48081,48082"
+1709,37161.0,,St. Joseph,Michigan,county,50.0,49085
+1710,36266.0,,Sanilac,Michigan,county,55.0,48469
+1711,37916.0,,Schoolcraft,Michigan,county,43.0,49087
+1712,37681.0,,Shiawassee,Michigan,county,47.0,
+1713,35719.0,,Tuscola,Michigan,county,56.0,
+1714,39606.0,,Van Buren,Michigan,county,33.0,
+1715,56729.0,,Washtenaw,Michigan,county,4.0,
+1716,41115.0,,Wayne,Michigan,county,29.0,48184
+1717,34847.0,,Wexford,Michigan,county,67.0,48729
+1718,34847.0,,Wexford,Michigan,county,67.0,48729
+1719,37916.0,,Aitkin,Minnesota,county,84.0,56431
+1720,49157.0,,Anoka,Minnesota,county,33.0,55303
+1721,45639.0,,Becker,Minnesota,county,56.0,55308
+1722,39503.0,,Beltrami,Minnesota,county,83.0,56517
+1723,42321.0,,Benton,Minnesota,county,71.0,56149
+1724,51112.0,,Big Stone,Minnesota,county,11.0,
+1725,43134.0,,Blue Earth,Minnesota,county,65.0,56013
+1726,50290.0,,Brown,Minnesota,county,23.0,56219
+1727,41096.0,,Carlton,Minnesota,county,76.0,55718
+1728,68645.0,,Carver,Minnesota,county,2.0,55315
+1729,45372.0,,Cass,Minnesota,county,54.0,56633
+1730,46955.0,,Chippewa,Minnesota,county,38.0,
+1731,46871.0,,Chisago,Minnesota,county,45.0,55013
+1732,41400.0,,Clay,Minnesota,county,75.0,
+1733,41620.0,,Clearwater,Minnesota,county,69.0,55320
+1734,52629.0,,Cook,Minnesota,county,16.0,55723
+1735,44907.0,,Cottonwood,Minnesota,county,52.0,56229
+1736,43526.0,,Crow Wing,Minnesota,county,61.0,56592
+1737,58016.0,,Dakota,Minnesota,county,5.0,55925
+1738,43890.0,,Dodge,Minnesota,county,51.0,55927
+1739,51082.0,,Douglas,Minnesota,county,20.0,
+1740,39293.0,,Faribault,Minnesota,county,73.0,55021
+1741,42314.0,,Fillmore,Minnesota,county,62.0,56027
+1742,42680.0,,Freeborn,Minnesota,county,60.0,
+1743,50549.0,,Goodhue,Minnesota,county,21.0,55027
+1744,49241.0,,Grant,Minnesota,county,24.0,
+1745,71259.0,,Hennepin,Minnesota,county,1.0,56551
+1746,49849.0,,Houston,Minnesota,county,25.0,55943
+1747,41490.0,,Hubbard,Minnesota,county,74.0,
+1748,42424.0,,Isanti,Minnesota,county,68.0,55040
+1749,40982.0,,Itasca,Minnesota,county,72.0,
+1750,51130.0,,Jackson,Minnesota,county,22.0,56143
+1751,41568.0,,Kanabec,Minnesota,county,79.0,
+1752,52905.0,,Kandiyohi,Minnesota,county,19.0,56251
+1753,51621.0,,Kittson,Minnesota,county,14.0,
+1754,39101.0,,Koochiching,Minnesota,county,81.0,
+1755,49663.0,,Lac qui Parle,Minnesota,county,13.0,56713
+1756,46072.0,,Lake,Minnesota,county,50.0,56515
+1757,54505.0,,Lake of the Woods,Minnesota,county,10.0,56515
+1758,47571.0,,Le Sueur,Minnesota,county,44.0,56058
+1759,45043.0,,Lincoln,Minnesota,county,47.0,56225
+1760,47254.0,,Lyon,Minnesota,county,41.0,56014
+1761,48060.0,,McLeod,Minnesota,county,42.0,
+1762,35314.0,,Mahnomen,Minnesota,county,87.0,56557
+1763,50165.0,,Marshall,Minnesota,county,29.0,56258
+1764,50035.0,,Martin,Minnesota,county,35.0,
+1765,42780.0,,Meeker,Minnesota,county,70.0,
+1766,40411.0,,Mille Lacs,Minnesota,county,82.0,
+1767,40898.0,,Morrison,Minnesota,county,78.0,55771
+1768,44400.0,,Mower,Minnesota,county,48.0,55790
+1769,52140.0,,Murray,Minnesota,county,18.0,
+1770,48282.0,,Nicollet,Minnesota,county,40.0,56074
+1771,43642.0,,Nobles,Minnesota,county,63.0,56740
+1772,39765.0,,Norman,Minnesota,county,66.0,56654
+1773,55163.0,,Olmsted,Minnesota,county,8.0,
+1774,46460.0,,Otter Tail,Minnesota,county,49.0,56571
+1775,52920.0,,Pennington,Minnesota,county,15.0,56663
+1776,36249.0,,Pine,Minnesota,county,86.0,55014
+1777,55698.0,,Pipestone,Minnesota,county,9.0,56164
+1778,46227.0,,Polk,Minnesota,county,43.0,
+1779,47984.0,,Pope,Minnesota,county,26.0,
+1780,52490.0,,Ramsey,Minnesota,county,17.0,55731
+1781,50000.0,,Red Lake,Minnesota,county,28.0,
+1782,47379.0,,Redwood,Minnesota,county,39.0,56283
+1783,50475.0,,Renville,Minnesota,county,30.0,56284
+1784,42091.0,,Rice,Minnesota,county,67.0,56367
+1785,50413.0,,Rock,Minnesota,county,27.0,
+1786,47835.0,,Roseau,Minnesota,county,32.0,56751
+1787,44863.0,,St. Louis,Minnesota,county,55.0,
+1788,57312.0,,Scott,Minnesota,county,6.0,55724
+1789,45221.0,,Sherburne,Minnesota,county,58.0,56171
+1790,47136.0,,Sibley,Minnesota,county,59.0,56211
+1791,45278.0,,Stearns,Minnesota,county,57.0,
+1792,44454.0,,Steele,Minnesota,county,53.0,56173
+1793,47326.0,,Stevens,Minnesota,county,37.0,56173
+1794,46025.0,,Swift,Minnesota,county,31.0,56682
+1795,40943.0,,Todd,Minnesota,county,80.0,
+1796,51591.0,,Traverse,Minnesota,county,4.0,56166
+1797,46270.0,,Wabasha,Minnesota,county,46.0,55981
+1798,38325.0,,Wadena,Minnesota,county,85.0,56482
+1799,42952.0,,Waseca,Minnesota,county,64.0,56093
+1800,65013.0,,Washington,Minnesota,county,3.0,56187
+1801,42773.0,,Watonwan,Minnesota,county,77.0,55060
+1802,53576.0,,Wilkin,Minnesota,county,7.0,
+1803,47477.0,,Winona,Minnesota,county,36.0,55987
+1804,48381.0,,Wright,Minnesota,county,34.0,55798
+1805,53681.0,,Yellow Medicine,Minnesota,county,12.0,
+1806,53681.0,,Yellow Medicine,Minnesota,county,12.0,
+1807,32428.0,,Adams,Mississippi,county,47.0,
+1808,34364.0,,Alcorn,Mississippi,county,28.0,38628
+1809,32432.0,,Amite,Mississippi,county,51.0,39746
+1810,32603.0,,Attala,Mississippi,county,48.0,39057
+1811,29198.0,,Benton,Mississippi,county,73.0,39039
+1812,36104.0,,Bolivar,Mississippi,county,14.0,
+1813,32079.0,,Calhoun,Mississippi,county,54.0,38916
+1814,36056.0,,Carroll,Mississippi,county,17.0,
+1815,33663.0,,Chickasaw,Mississippi,county,35.0,38773
+1816,31949.0,,Choctaw,Mississippi,county,49.0,
+1817,30364.0,,Claiborne,Mississippi,county,68.0,
+1818,35268.0,,Clarke,Mississippi,county,25.0,39092
+1819,37625.0,,Clay,Mississippi,county,9.0,39054
+1820,32818.0,,Coahoma,Mississippi,county,46.0,38617
+1821,32250.0,,Copiah,Mississippi,county,52.0,38923
+1822,34699.0,,Covington,Mississippi,county,30.0,39056
+1823,39022.0,,DeSoto,Mississippi,county,5.0,
+1824,37202.0,,Forrest,Mississippi,county,10.0,39074
+1825,33236.0,,Franklin,Mississippi,county,44.0,
+1826,31697.0,,George,Mississippi,county,57.0,39078
+1827,27973.0,,Greene,Mississippi,county,77.0,"38701,38703"
+1828,34458.0,,Grenada,Mississippi,county,32.0,38901
+1829,33998.0,,Hancock,Mississippi,county,33.0,
+1830,36087.0,,Harrison,Mississippi,county,20.0,
+1831,37633.0,,Hinds,Mississippi,county,8.0,
+1832,27367.0,,Holmes,Mississippi,county,78.0,
+1833,29932.0,,Humphreys,Mississippi,county,65.0,
+1834,10996.0,,Issaquena,Mississippi,county,82.0,
+1835,33582.0,,Itawamba,Mississippi,county,37.0,
+1836,36297.0,,Jackson,Mississippi,county,19.0,"39201,39202,39203,39204,39206"
+1837,36001.0,,Jasper,Mississippi,county,21.0,
+1838,31910.0,,Jefferson,Mississippi,county,53.0,
+1839,29568.0,,Jefferson Davis,Mississippi,county,74.0,
+1840,36933.0,,Jones,Mississippi,county,15.0,
+1841,28571.0,,Kemper,Mississippi,county,76.0,
+1842,40377.0,,Lafayette,Mississippi,county,3.0,39069
+1843,38885.0,,Lamar,Mississippi,county,6.0,38642
+1844,36534.0,,Lauderdale,Mississippi,county,16.0,39335
+1845,33170.0,,Lawrence,Mississippi,county,40.0,39336
+1846,30286.0,,Leake,Mississippi,county,69.0,39451
+1847,40345.0,,Lee,Mississippi,county,4.0,
+1848,34769.0,,Leflore,Mississippi,county,26.0,
+1849,37484.0,,Lincoln,Mississippi,county,11.0,39056
+1850,36657.0,,Lowndes,Mississippi,county,12.0,
+1851,61566.0,,Madison,Mississippi,county,1.0,39110
+1852,32880.0,,Marion,Mississippi,county,41.0,39342
+1853,31072.0,,Marshall,Mississippi,county,60.0,38646
+1854,33180.0,,Monroe,Mississippi,county,38.0,
+1855,32883.0,,Montgomery,Mississippi,county,43.0,
+1856,35409.0,,Neshoba,Mississippi,county,24.0,
+1857,33778.0,,Newton,Mississippi,county,39.0,39345
+1858,31581.0,,Noxubee,Mississippi,county,56.0,
+1859,32748.0,,Oktibbeha,Mississippi,county,42.0,
+1860,31684.0,,Panola,Mississippi,county,58.0,39149
+1861,34803.0,,Pearl River,Mississippi,county,27.0,39208
+1862,30674.0,,Perry,Mississippi,county,64.0,39170
+1863,29966.0,,Pike,Mississippi,county,70.0,39146
+1864,31956.0,,Pontotoc,Mississippi,county,55.0,38863
+1865,29794.0,,Prentiss,Mississippi,county,72.0,39474
+1866,25162.0,,Quitman,Mississippi,county,81.0,39355
+1867,43135.0,,Rankin,Mississippi,county,2.0,39556
+1868,30866.0,,Scott,Mississippi,county,62.0,
+1869,30238.0,,Sharkey,Mississippi,county,63.0,
+1870,35865.0,,Simpson,Mississippi,county,22.0,
+1871,34495.0,,Smith,Mississippi,county,29.0,39664
+1872,30560.0,,Stone,Mississippi,county,67.0,
+1873,28926.0,,Sunflower,Mississippi,county,71.0,38778
+1874,27157.0,,Tallahatchie,Mississippi,county,79.0,39145
+1875,33572.0,,Tate,Mississippi,county,34.0,
+1876,32614.0,,Tippah,Mississippi,county,45.0,
+1877,31711.0,,Tishomingo,Mississippi,county,50.0,38873
+1878,31035.0,,Tunica,Mississippi,county,59.0,38676
+1879,31432.0,,Union,Mississippi,county,61.0,39365
+1880,31271.0,,Walthall,Mississippi,county,66.0,39771
+1881,37983.0,,Warren,Mississippi,county,7.0,
+1882,35916.0,,Washington,Mississippi,county,18.0,
+1883,33261.0,,Wayne,Mississippi,county,36.0,39367
+1884,36973.0,,Webster,Mississippi,county,13.0,39192
+1885,28516.0,,Wilkinson,Mississippi,county,75.0,
+1886,34214.0,,Winston,Mississippi,county,31.0,
+1887,35020.0,,Yalobusha,Mississippi,county,23.0,38773
+1888,26303.0,,Yazoo,Mississippi,county,80.0,39194
+1889,26303.0,,Yazoo,Mississippi,county,80.0,39194
+1890,31995.0,,Adair,Missouri,county,88.0,
+1891,43627.0,,Andrew,Missouri,county,14.0,
+1892,46852.0,,Atchison,Missouri,county,22.0,64496
+1893,38248.0,,Audrain,Missouri,county,41.0,64720
+1894,32994.0,,Barry,Missouri,county,76.0,63343
+1895,35305.0,,Barton,Missouri,county,68.0,
+1896,37826.0,,Bates,Missouri,county,50.0,64011
+1897,35088.0,,Benton,Missouri,county,65.0,63736
+1898,31359.0,,Bollinger,Missouri,county,96.0,65610
+1899,46027.0,,Boone,Missouri,county,6.0,63628
+1900,38364.0,,Buchanan,Missouri,county,44.0,
+1901,34743.0,,Butler,Missouri,county,71.0,64730
+1902,35671.0,,Caldwell,Missouri,county,59.0,63829
+1903,37438.0,,Callaway,Missouri,county,53.0,63534
+1904,37080.0,,Camden,Missouri,county,52.0,64017
+1905,44258.0,,Cape Girardeau,Missouri,county,10.0,"63701,63703"
+1906,44818.0,,Carroll,Missouri,county,15.0,64633
+1907,31202.0,,Carter,Missouri,county,100.0,64835
+1908,45599.0,,Cass,Missouri,county,8.0,65625
+1909,30695.0,,Cedar,Missouri,county,101.0,63016
+1910,42176.0,,Chariton,Missouri,county,25.0,63834
+1911,38955.0,,Christian,Missouri,county,39.0,
+1912,34877.0,,Clark,Missouri,county,77.0,65243
+1913,46747.0,,Clay,Missouri,county,4.0,
+1914,42067.0,,Clinton,Missouri,county,18.0,64735
+1915,45975.0,,Cole,Missouri,county,5.0,65325
+1916,37778.0,,Cooper,Missouri,county,48.0,
+1917,34420.0,,Crawford,Missouri,county,64.0,63441
+1918,33394.0,,Dade,Missouri,county,81.0,65635
+1919,31995.0,,Dallas,Missouri,county,92.0,65766
+1920,33550.0,,Daviess,Missouri,county,78.0,
+1921,27762.0,,DeKalb,Missouri,county,112.0,64440
+1922,31694.0,,Dent,Missouri,county,91.0,65020
+1923,27092.0,,Douglas,Missouri,county,111.0,
+1924,32503.0,,Dunklin,Missouri,county,83.0,65051
+1925,43552.0,,Franklin,Missouri,county,11.0,65250
+1926,38720.0,,Gasconade,Missouri,county,38.0,
+1927,42137.0,,Gentry,Missouri,county,29.0,64453
+1928,43187.0,,Greene,Missouri,county,16.0,63334
+1929,33951.0,,Grundy,Missouri,county,75.0,
+1930,37243.0,,Harrison,Missouri,county,55.0,64701
+1931,41289.0,,Henry,Missouri,county,17.0,64453
+1932,26925.0,,Hickory,Missouri,county,115.0,
+1933,46192.0,,Holt,Missouri,county,13.0,64048
+1934,37770.0,,Howard,Missouri,county,51.0,
+1935,32414.0,,Howell,Missouri,county,84.0,65730
+1936,32809.0,,Iron,Missouri,county,82.0,63648
+1937,45310.0,,Jackson,Missouri,county,9.0,63755
+1938,39267.0,,Jasper,Missouri,county,42.0,64755
+1939,40783.0,,Jefferson,Missouri,county,20.0,"65101,65109"
+1940,35492.0,,Johnson,Missouri,county,62.0,
+1941,32511.0,,Knox,Missouri,county,94.0,63446
+1942,35355.0,,Laclede,Missouri,county,63.0,64651
+1943,41244.0,,Lafayette,Missouri,county,26.0,65248
+1944,32930.0,,Lawrence,Missouri,county,80.0,63437
+1945,34177.0,,Lewis,Missouri,county,72.0,63452
+1946,39371.0,,Lincoln,Missouri,county,32.0,65338
+1947,37897.0,,Linn,Missouri,county,36.0,65051
+1948,38646.0,,Livingston,Missouri,county,45.0,64650
+1949,27565.0,,McDonald,Missouri,county,114.0,63552
+1950,40803.0,,Macon,Missouri,county,23.0,63552
+1951,35592.0,,Madison,Missouri,county,61.0,65263
+1952,31914.0,,Maries,Missouri,county,89.0,65275
+1953,39193.0,,Marion,Missouri,county,31.0,65705
+1954,34160.0,,Mercer,Missouri,county,97.0,64661
+1955,34602.0,,Miller,Missouri,county,70.0,65707
+1956,32205.0,,Mississippi,Missouri,county,98.0,
+1957,36487.0,,Moniteau,Missouri,county,58.0,65591
+1958,39876.0,,Monroe,Missouri,county,21.0,63456
+1959,41245.0,,Montgomery,Missouri,county,35.0,63361
+1960,41398.0,,Morgan,Missouri,county,19.0,65345
+1961,32116.0,,New Madrid,Missouri,county,86.0,63869
+1962,38011.0,,Newton,Missouri,county,46.0,64667
+1963,29854.0,,Nodaway,Missouri,county,102.0,
+1964,28216.0,,Oregon,Missouri,county,110.0,64473
+1965,44031.0,,Osage,Missouri,county,12.0,65065
+1966,29019.0,,Ozark,Missouri,county,105.0,65721
+1967,31486.0,,Pemiscot,Missouri,county,93.0,
+1968,39990.0,,Perry,Missouri,county,30.0,63462
+1969,36732.0,,Pettis,Missouri,county,56.0,
+1970,37711.0,,Phelps,Missouri,county,47.0,
+1971,34128.0,,Pike,Missouri,county,74.0,
+1972,57099.0,,Platte,Missouri,county,2.0,64079
+1973,32640.0,,Polk,Missouri,county,87.0,65727
+1974,39638.0,,Pulaski,Missouri,county,34.0,
+1975,33888.0,,Putnam,Missouri,county,85.0,
+1976,40118.0,,Ralls,Missouri,county,33.0,65255
+1977,38342.0,,Randolph,Missouri,county,43.0,
+1978,40694.0,,Ray,Missouri,county,24.0,64624
+1979,33096.0,,Reynolds,Missouri,county,73.0,
+1980,30026.0,,Ripley,Missouri,county,104.0,65286
+1981,51137.0,,St. Charles,Missouri,county,3.0,"63301,63303,63304"
+1982,29011.0,,St. Clair,Missouri,county,106.0,63077
+1983,38041.0,,Ste. Genevieve,Missouri,county,27.0,63670
+1984,32899.0,,St. Francois,Missouri,county,79.0,
+1985,67368.0,,St. Louis,Missouri,county,1.0,63367
+1986,38453.0,,Saline,Missouri,county,54.0,63670
+1987,27926.0,,Schuyler,Missouri,county,109.0,64635
+1988,32456.0,,Scotland,Missouri,county,90.0,65567
+1989,39067.0,,Scott,Missouri,county,40.0,63780
+1990,28352.0,,Shannon,Missouri,county,103.0,
+1991,38567.0,,Shelby,Missouri,county,36.0,63469
+1992,36037.0,,Stoddard,Missouri,county,60.0,
+1993,37272.0,,Stone,Missouri,county,49.0,
+1994,39075.0,,Sullivan,Missouri,county,57.0,63080
+1995,34736.0,,Taney,Missouri,county,66.0,65759
+1996,27080.0,,Texas,Missouri,county,113.0,
+1997,36117.0,,Vernon,Missouri,county,67.0,65712
+1998,39778.0,,Warren,Missouri,county,28.0,64093
+1999,28414.0,,Washington,Missouri,county,107.0,63090
+2000,29061.0,,Wayne,Missouri,county,108.0,65583
+2001,31583.0,,Webster,Missouri,county,95.0,
+2002,36159.0,,Worth,Missouri,county,69.0,64499
+2003,30860.0,,Wright,Missouri,county,99.0,63390
+2004,45137.0,,St. Louis City,Missouri,county,7.0,63735
+2005,45137.0,,St. Louis City,Missouri,county,7.0,63735
+2006,43053.0,,Beaverhead,Montana,county,28.0,
+2007,28131.0,,Big Horn,Montana,county,56.0,59010
+2008,29329.0,,Blaine,Montana,county,55.0,59006
+2009,38075.0,,Broadwater,Montana,county,43.0,59416
+2010,44912.0,,Carbon,Montana,county,19.0,59720
+2011,45046.0,,Carter,Montana,county,32.0,59420
+2012,45291.0,,Cascade,Montana,county,18.0,59421
+2013,32696.0,,Chouteau,Montana,county,46.0,59422
+2014,43211.0,,Custer,Montana,county,27.0,59024
+2015,36517.0,,Daniels,Montana,county,16.0,
+2016,41391.0,,Dawson,Montana,county,24.0,
+2017,37837.0,,Deer Lodge,Montana,county,45.0,59722
+2018,48075.0,,Fallon,Montana,county,8.0,59326
+2019,41218.0,,Fergus,Montana,county,33.0,
+2020,45604.0,,Flathead,Montana,county,20.0,
+2021,52337.0,,Gallatin,Montana,county,2.0,59730
+2022,35337.0,,Garfield,Montana,county,47.0,59436
+2023,32465.0,,Glacier,Montana,county,53.0,
+2024,45549.0,,Golden Valley,Montana,county,10.0,
+2025,41675.0,,Granite,Montana,county,34.0,
+2026,42696.0,,Hill,Montana,county,25.0,59837
+2027,46643.0,,Jefferson,Montana,county,17.0,
+2028,45571.0,,Judith Basin,Montana,county,7.0,
+2029,37473.0,,Lake,Montana,county,42.0,
+2030,47214.0,,Lewis and Clark,Montana,county,13.0,
+2031,35086.0,,Liberty,Montana,county,39.0,59243
+2032,33901.0,,Lincoln,Montana,county,50.0,59639
+2033,37820.0,,McCone,Montana,county,38.0,59061
+2034,46822.0,,Madison,Montana,county,11.0,59925
+2035,43317.0,,Meagher,Montana,county,22.0,
+2036,37968.0,,Mineral,Montana,county,40.0,
+2037,47086.0,,Missoula,Montana,county,9.0,"59801,59802,59803,59804,59808"
+2038,40034.0,,Musselshell,Montana,county,35.0,59059
+2039,46050.0,,Park,Montana,county,15.0,
+2040,34908.0,,Petroleum,Montana,county,49.0,
+2041,36841.0,,Phillips,Montana,county,44.0,59858
+2042,38417.0,,Pondera,Montana,county,36.0,
+2043,32616.0,,Powder River,Montana,county,54.0,59762
+2044,38803.0,,Powell,Montana,county,41.0,59468
+2045,42098.0,,Prairie,Montana,county,26.0,
+2046,42519.0,,Ravalli,Montana,county,29.0,59863
+2047,55123.0,,Richland,Montana,county,1.0,59260
+2048,33611.0,,Roosevelt,Montana,county,52.0,
+2049,40705.0,,Rosebud,Montana,county,37.0,59347
+2050,33508.0,,Sanders,Montana,county,51.0,59076
+2051,51826.0,,Sheridan,Montana,county,3.0,59749
+2052,47009.0,,Silver Bow,Montana,county,12.0,59081
+2053,49065.0,,Stillwater,Montana,county,5.0,
+2054,42167.0,,Sweet Grass,Montana,county,30.0,59484
+2055,41597.0,,Teton,Montana,county,31.0,59430
+2056,41874.0,,Toole,Montana,county,23.0,
+2057,43436.0,,Treasure,Montana,county,14.0,
+2058,44298.0,,Valley,Montana,county,21.0,
+2059,33292.0,,Wheatland,Montana,county,48.0,59529
+2060,48000.0,,Wibaux,Montana,county,6.0,59353
+2061,49899.0,,Yellowstone,Montana,county,4.0,59758
+2062,49899.0,,Yellowstone,Montana,county,4.0,59758
+2063,46838.0,,Adams,Nebraska,county,39.0,68301
+2064,46749.0,,Antelope,Nebraska,county,58.0,
+2065,38440.0,,Arthur,Nebraska,county,59.0,69121
+2066,47049.0,,Banner,Nebraska,county,5.0,68831
+2067,50623.0,,Blaine,Nebraska,county,63.0,68008
+2068,51707.0,,Boone,Nebraska,county,15.0,
+2069,45096.0,,Box Butte,Nebraska,county,52.0,68722
+2070,47471.0,,Boyd,Nebraska,county,11.0,
+2071,47401.0,,Brown,Nebraska,county,25.0,68321
+2072,51634.0,,Buffalo,Nebraska,county,14.0,68304
+2073,47778.0,,Burt,Nebraska,county,31.0,68324
+2074,44557.0,,Butler,Nebraska,county,54.0,69127
+2075,50955.0,,Cass,Nebraska,county,18.0,
+2076,49736.0,,Cedar,Nebraska,county,20.0,68015
+2077,45521.0,,Chase,Nebraska,county,37.0,69142
+2078,44551.0,,Cherry,Nebraska,county,68.0,
+2079,47667.0,,Cheyenne,Nebraska,county,47.0,
+2080,44165.0,,Clay,Nebraska,county,55.0,68933
+2081,39161.0,,Colfax,Nebraska,county,81.0,
+2082,56805.0,,Cuming,Nebraska,county,4.0,
+2083,44158.0,,Custer,Nebraska,county,73.0,68327
+2084,40534.0,,Dakota,Nebraska,county,85.0,68731
+2085,36124.0,,Dawes,Nebraska,county,93.0,68337
+2086,40642.0,,Dawson,Nebraska,county,82.0,68337
+2087,39143.0,,Deuel,Nebraska,county,74.0,
+2088,41756.0,,Dixon,Nebraska,county,75.0,68732
+2089,45367.0,,Dodge,Nebraska,county,53.0,68633
+2090,60202.0,,Douglas,Nebraska,county,2.0,68344
+2091,49255.0,,Dundy,Nebraska,county,19.0,
+2092,54567.0,,Fillmore,Nebraska,county,8.0,68357
+2093,43032.0,,Franklin,Nebraska,county,56.0,68939
+2094,41620.0,,Frontier,Nebraska,county,72.0,
+2095,44954.0,,Furnas,Nebraska,county,41.0,
+2096,47267.0,,Gage,Nebraska,county,34.0,68766
+2097,39119.0,,Garden,Nebraska,county,88.0,
+2098,41369.0,,Garfield,Nebraska,county,78.0,68938
+2099,45414.0,,Gosper,Nebraska,county,22.0,68421
+2100,39233.0,,Grant,Nebraska,county,83.0,69140
+2101,41735.0,,Greeley,Nebraska,county,69.0,68842
+2102,41813.0,,Hall,Nebraska,county,80.0,68368
+2103,52577.0,,Hamilton,Nebraska,county,13.0,68843
+2104,40488.0,,Harlan,Nebraska,county,50.0,68360
+2105,41504.0,,Hayes,Nebraska,county,66.0,69032
+2106,36388.0,,Hitchcock,Nebraska,county,90.0,
+2107,51310.0,,Holt,Nebraska,county,26.0,
+2108,51251.0,,Hooker,Nebraska,county,23.0,68031
+2109,41389.0,,Howard,Nebraska,county,87.0,68943
+2110,45580.0,,Jefferson,Nebraska,county,44.0,68733
+2111,36160.0,,Johnson,Nebraska,county,92.0,68378
+2112,53680.0,,Kearney,Nebraska,county,10.0,"68845,68847"
+2113,42074.0,,Keith,Nebraska,county,62.0,
+2114,57783.0,,Keya Paha,Nebraska,county,3.0,
+2115,43458.0,,Kimball,Nebraska,county,77.0,69145
+2116,43274.0,,Knox,Nebraska,county,46.0,
+2117,47565.0,,Lancaster,Nebraska,county,33.0,
+2118,44829.0,,Lincoln,Nebraska,county,60.0,"68502,68503,68504,68505,68506"
+2119,41823.0,,Logan,Nebraska,county,91.0,68406
+2120,49483.0,,Loup,Nebraska,county,67.0,68853
+2121,47877.0,,McPherson,Nebraska,county,65.0,68733
+2122,47981.0,,Madison,Nebraska,county,29.0,68748
+2123,45743.0,,Merrick,Nebraska,county,51.0,
+2124,46306.0,,Morrill,Nebraska,county,40.0,69358
+2125,36183.0,,Nance,Nebraska,county,89.0,69301
+2126,48198.0,,Nemaha,Nebraska,county,43.0,68414
+2127,45687.0,,Nuckolls,Nebraska,county,28.0,
+2128,51478.0,,Otoe,Nebraska,county,17.0,68417
+2129,43716.0,,Pawnee,Nebraska,county,42.0,68420
+2130,51096.0,,Perkins,Nebraska,county,12.0,
+2131,51269.0,,Phelps,Nebraska,county,21.0,68865
+2132,51176.0,,Pierce,Nebraska,county,7.0,68767
+2133,46431.0,,Platte,Nebraska,county,36.0,69101
+2134,47203.0,,Polk,Nebraska,county,27.0,68654
+2135,43499.0,,Red Willow,Nebraska,county,61.0,69171
+2136,46076.0,,Richardson,Nebraska,county,48.0,68337
+2137,53598.0,,Rock,Nebraska,county,38.0,68942
+2138,41042.0,,Saline,Nebraska,county,79.0,68055
+2139,48385.0,,Sarpy,Nebraska,county,30.0,
+2140,49967.0,,Saunders,Nebraska,county,24.0,69027
+2141,41969.0,,Scotts Bluff,Nebraska,county,76.0,69361
+2142,47742.0,,Seward,Nebraska,county,35.0,68434
+2143,42935.0,,Sheridan,Nebraska,county,57.0,68029
+2144,38751.0,,Sherman,Nebraska,county,70.0,68029
+2145,43225.0,,Sioux,Nebraska,county,84.0,68776
+2146,44814.0,,Stanton,Nebraska,county,49.0,68779
+2147,49838.0,,Thayer,Nebraska,county,6.0,
+2148,51695.0,,Thomas,Nebraska,county,16.0,
+2149,41500.0,,Thurston,Nebraska,county,86.0,68062
+2150,42957.0,,Valley,Nebraska,county,64.0,68064
+2151,54969.0,,Washington,Nebraska,county,9.0,68068
+2152,43428.0,,Wayne,Nebraska,county,71.0,68787
+2153,45263.0,,Webster,Nebraska,county,45.0,68464
+2154,60085.0,,Wheeler,Nebraska,county,1.0,
+2155,47461.0,,York,Nebraska,county,32.0,68467
+2156,47461.0,,York,Nebraska,county,32.0,68467
+2157,41609.0,,Churchill,Nevada,county,10.0,
+2158,45087.0,,Clark,Nevada,county,6.0,
+2159,70128.0,,Douglas,Nevada,county,1.0,
+2160,44746.0,,Elko,Nevada,county,8.0,89801
+2161,43346.0,,Esmeralda,Nevada,county,11.0,
+2162,37990.0,,Eureka,Nevada,county,12.0,89316
+2163,45977.0,,Humboldt,Nevada,county,7.0,
+2164,60805.0,,Lander,Nevada,county,2.0,89010
+2165,35087.0,,Lincoln,Nevada,county,16.0,
+2166,36999.0,,Lyon,Nevada,county,13.0,
+2167,36585.0,,Mineral,Nevada,county,14.0,
+2168,36551.0,,Nye,Nevada,county,15.0,89415
+2169,32938.0,,Pershing,Nevada,county,17.0,
+2170,52606.0,,Storey,Nevada,county,3.0,89301
+2171,56151.0,,Washoe,Nevada,county,4.0,89704
+2172,42007.0,,White Pine,Nevada,county,9.0,
+2173,48065.0,,Carson City,Nevada,county,5.0,"89701,89703,89705,89706"
+2174,48065.0,,Carson City,Nevada,county,5.0,"89701,89703,89705,89706"
+2175,58036.0,,Belknap,New Hampshire,county,3.0,
+2176,56486.0,,Carroll,New Hampshire,county,5.0,
+2177,49671.0,,Cheshire,New Hampshire,county,7.0,03870
+2178,41448.0,,Coos,New Hampshire,county,10.0,
+2179,57494.0,,Grafton,New Hampshire,county,4.0,03240
+2180,58305.0,,Hillsborough,New Hampshire,county,2.0,03244
+2181,55169.0,,Merrimack,New Hampshire,county,6.0,03054
+2182,70163.0,,Rockingham,New Hampshire,county,1.0,03581
+2183,48263.0,,Strafford,New Hampshire,county,9.0,03884
+2184,49427.0,,Sullivan,New Hampshire,county,8.0,03445
+2185,49427.0,,Sullivan,New Hampshire,county,8.0,03445
+2186,46549.0,,Atlantic,New Jersey,county,19.0,08401
+2187,81483.0,,Bergen,New Jersey,county,4.0,07621
+2188,59389.0,,Burlington,New Jersey,county,10.0,08016
+2189,51852.0,,Camden,New Jersey,county,16.0,"08102,08103,08104,08105"
+2190,57976.0,,Cape May,New Jersey,county,13.0,08204
+2191,38630.0,,Cumberland,New Jersey,county,21.0,08009
+2192,64232.0,,Essex,New Jersey,county,8.0,07021
+2193,52455.0,,Gloucester,New Jersey,county,15.0,08030
+2194,62461.0,,Hudson,New Jersey,county,9.0,
+2195,84958.0,,Hunterdon,New Jersey,county,3.0,
+2196,65877.0,,Mercer,New Jersey,county,6.0,
+2197,58172.0,,Middlesex,New Jersey,county,12.0,08846
+2198,75762.0,,Monmouth,New Jersey,county,5.0,07703
+2199,93555.0,,Morris,New Jersey,county,2.0,07950
+2200,49749.0,,Ocean,New Jersey,county,17.0,08226
+2201,48294.0,,Passaic,New Jersey,county,18.0,07055
+2202,46435.0,,Salem,New Jersey,county,20.0,08079
+2203,99533.0,,Somerset,New Jersey,county,1.0,08873
+2204,58717.0,,Sussex,New Jersey,county,11.0,07461
+2205,65036.0,,Union,New Jersey,county,7.0,07083
+2206,53405.0,,Warren,New Jersey,county,14.0,07059
+2207,53405.0,,Warren,New Jersey,county,14.0,07059
+2208,42112.0,,Bernalillo,New Mexico,county,6.0,87004
+2209,30739.0,,Catron,New Mexico,county,29.0,
+2210,38118.0,,Chaves,New Mexico,county,11.0,
+2211,27098.0,,Cibola,New Mexico,county,32.0,
+2212,38637.0,,Colfax,New Mexico,county,12.0,
+2213,43467.0,,Curry,New Mexico,county,5.0,
+2214,38634.0,,De Baca,New Mexico,county,13.0,87557
+2215,35144.0,,Doña Ana,New Mexico,county,19.0,
+2216,47687.0,,Eddy,New Mexico,county,3.0,
+2217,38237.0,,Grant,New Mexico,county,10.0,87020
+2218,31501.0,,Guadalupe,New Mexico,county,27.0,87722
+2219,36820.0,,Harding,New Mexico,county,16.0,
+2220,38969.0,,Hidalgo,New Mexico,county,8.0,
+2221,38167.0,,Lea,New Mexico,county,4.0,87009
+2222,39661.0,,Lincoln,New Mexico,county,7.0,88338
+2223,67791.0,,Los Alamos,New Mexico,county,1.0,87544
+2224,29887.0,,Luna,New Mexico,county,30.0,
+2225,26636.0,,McKinley,New Mexico,county,33.0,
+2226,34013.0,,Mora,New Mexico,county,20.0,87732
+2227,33339.0,,Otero,New Mexico,county,23.0,87743
+2228,36686.0,,Quay,New Mexico,county,18.0,88433
+2229,33084.0,,Rio Arriba,New Mexico,county,24.0,87560
+2230,39614.0,,Roosevelt,New Mexico,county,14.0,
+2231,39928.0,,Sandoval,New Mexico,county,9.0,
+2232,33613.0,,San Juan,New Mexico,county,21.0,
+2233,32971.0,,San Miguel,New Mexico,county,25.0,
+2234,55273.0,,Santa Fe,New Mexico,county,2.0,"87501,87505,87506,87507,87508"
+2235,38415.0,,Sierra,New Mexico,county,15.0,87575
+2236,32718.0,,Socorro,New Mexico,county,22.0,87801
+2237,36575.0,,Taos,New Mexico,county,17.0,87571
+2238,29072.0,,Torrance,New Mexico,county,31.0,
+2239,32519.0,,Union,New Mexico,county,28.0,
+2240,32111.0,,Valencia,New Mexico,county,26.0,
+2241,32111.0,,Valencia,New Mexico,county,26.0,
+2242,59429.0,,Albany,New York,county,7.0,"12202,12203,12204,12205,12206"
+2243,34137.0,,Allegany,New York,county,62.0,14706
+2244,36321.0,,Bronx,New York,county,61.0,"10451,10452,10453,10454,10455"
+2245,42970.0,,Broome,New York,county,35.0,"13440,13441"
+2246,38988.0,,Cattaraugus,New York,county,53.0,14719
+2247,40976.0,,Cayuga,New York,county,43.0,13034
+2248,40102.0,,Chautauqua,New York,county,49.0,
+2249,42745.0,,Chemung,New York,county,37.0,14825
+2250,40907.0,,Chenango,New York,county,45.0,
+2251,43228.0,,Clinton,New York,county,38.0,13323
+2252,53880.0,,Columbia,New York,county,11.0,
+2253,39592.0,,Cortland,New York,county,50.0,13045
+2254,38175.0,,Delaware,New York,county,55.0,10580
+2255,53918.0,,Dutchess,New York,county,10.0,
+2256,49957.0,,Erie,New York,county,19.0,
+2257,44298.0,,Essex,New York,county,28.0,12936
+2258,37006.0,,Franklin,New York,county,60.0,13775
+2259,42068.0,,Fulton,New York,county,42.0,13069
+2260,42425.0,,Genesee,New York,county,40.0,14754
+2261,46011.0,,Greene,New York,county,24.0,13778
+2262,51880.0,,Hamilton,New York,county,12.0,13346
+2263,40487.0,,Herkimer,New York,county,47.0,13350
+2264,45476.0,,Jefferson,New York,county,25.0,12093
+2265,50301.0,,Kings,New York,county,17.0,11754
+2266,43095.0,,Lewis,New York,county,39.0,12950
+2267,44054.0,,Livingston,New York,county,30.0,
+2268,43019.0,,Madison,New York,county,36.0,13402
+2269,51316.0,,Monroe,New York,county,14.0,10950
+2270,41112.0,,Montgomery,New York,county,46.0,12549
+2271,85168.0,,Nassau,New York,county,3.0,12123
+2272,182821.0,,New York,New York,county,1.0,"10001,10002,10003,10004,10005"
+2273,44181.0,,Niagara,New York,county,31.0,"14301,14303,14304,14305"
+2274,43413.0,,Oneida,New York,county,34.0,13421
+2275,51012.0,,Onondaga,New York,county,15.0,12068
+2276,51842.0,,Ontario,New York,county,13.0,14519
+2277,49912.0,,Orange,New York,county,18.0,10962
+2278,38049.0,,Orleans,New York,county,57.0,14760
+2279,39285.0,,Oswego,New York,county,51.0,13126
+2280,42188.0,,Otsego,New York,county,41.0,13825
+2281,62662.0,,Putnam,New York,county,6.0,12861
+2282,47956.0,,Queens,New York,county,22.0,"11427,11428,11429"
+2283,47797.0,,Rensselaer,New York,county,23.0,12144
+2284,54563.0,,Richmond,New York,county,9.0,11418
+2285,57966.0,,Rockland,New York,county,8.0,13144
+2286,36935.0,,St. Lawrence,New York,county,59.0,11559
+2287,64977.0,,Saratoga,New York,county,5.0,12866
+2288,49202.0,,Schenectady,New York,county,20.0,"12302,12303,12304,12305,12306"
+2289,39357.0,,Schoharie,New York,county,48.0,12157
+2290,40772.0,,Schuyler,New York,county,44.0,12985
+2291,37724.0,,Seneca,New York,county,58.0,
+2292,43582.0,,Steuben,New York,county,33.0,
+2293,65445.0,,Suffolk,New York,county,4.0,
+2294,44483.0,,Sullivan,New York,county,26.0,
+2295,44115.0,,Tioga,New York,county,29.0,
+2296,43466.0,,Tompkins,New York,county,32.0,10986
+2297,48508.0,,Ulster,New York,county,21.0,12487
+2298,50611.0,,Warren,New York,county,16.0,12885
+2299,39189.0,,Washington,New York,county,52.0,11050
+2300,45153.0,,Wayne,New York,county,27.0,
+2301,103169.0,,Westchester,New York,county,2.0,10709
+2302,39139.0,,Wyoming,New York,county,54.0,14591
+2303,38824.0,,Yates,New York,county,56.0,12015
+2304,38824.0,,Yates,New York,county,56.0,12015
+2305,38141.0,,Alamance,North Carolina,county,42.0,
+2306,36178.0,,Alexander,North Carolina,county,55.0,28701
+2307,36949.0,,Alleghany,North Carolina,county,54.0,
+2308,33531.0,,Anson,North Carolina,county,81.0,27553
+2309,35368.0,,Ashe,North Carolina,county,64.0,"27203,27205"
+2310,34942.0,,Avery,North Carolina,county,63.0,28787
+2311,40279.0,,Beaufort,North Carolina,county,30.0,28516
+2312,33839.0,,Bertie,North Carolina,county,79.0,
+2313,33917.0,,Bladen,North Carolina,county,83.0,28320
+2314,41619.0,,Brunswick,North Carolina,county,27.0,
+2315,46143.0,,Buncombe,North Carolina,county,12.0,
+2316,33747.0,,Burke,North Carolina,county,75.0,28393
+2317,43546.0,,Cabarrus,North Carolina,county,22.0,28020
+2318,33792.0,,Caldwell,North Carolina,county,74.0,28098
+2319,43656.0,,Camden,North Carolina,county,19.0,27921
+2320,47248.0,,Carteret,North Carolina,county,10.0,
+2321,34566.0,,Caswell,North Carolina,county,73.0,27928
+2322,43318.0,,Catawba,North Carolina,county,18.0,28609
+2323,59921.0,,Chatham,North Carolina,county,2.0,
+2324,31101.0,,Cherokee,North Carolina,county,96.0,28719
+2325,38904.0,,Chowan,North Carolina,county,34.0,
+2326,32611.0,,Clay,North Carolina,county,86.0,"27520,27527,27528"
+2327,36182.0,,Cleveland,North Carolina,county,53.0,27013
+2328,31351.0,,Columbus,North Carolina,county,95.0,28722
+2329,41831.0,,Craven,North Carolina,county,23.0,
+2330,36990.0,,Cumberland,North Carolina,county,45.0,
+2331,43885.0,,Currituck,North Carolina,county,17.0,27929
+2332,53834.0,,Dare,North Carolina,county,5.0,
+2333,37867.0,,Davidson,North Carolina,county,43.0,"28035,28036"
+2334,45965.0,,Davie,North Carolina,county,13.0,
+2335,33900.0,,Duplin,North Carolina,county,88.0,
+2336,48051.0,,Durham,North Carolina,county,8.0,"27701,27703,27704,27705,27706"
+2337,33327.0,,Edgecombe,North Carolina,county,78.0,28436
+2338,47062.0,,Forsyth,North Carolina,county,11.0,
+2339,34674.0,,Franklin,North Carolina,county,65.0,28734
+2340,39795.0,,Gaston,North Carolina,county,31.0,27832
+2341,35418.0,,Gates,North Carolina,county,67.0,27937
+2342,31517.0,,Graham,North Carolina,county,90.0,27253
+2343,36852.0,,Granville,North Carolina,county,46.0,"27834,27858"
+2344,32493.0,,Greene,North Carolina,county,94.0,28438
+2345,44268.0,,Guilford,North Carolina,county,15.0,
+2346,34615.0,,Halifax,North Carolina,county,68.0,27839
+2347,33064.0,,Harnett,North Carolina,county,82.0,
+2348,38634.0,,Haywood,North Carolina,county,37.0,
+2349,41286.0,,Henderson,North Carolina,county,26.0,"27536,27537"
+2350,31830.0,,Hertford,North Carolina,county,93.0,27944
+2351,29898.0,,Hoke,North Carolina,county,97.0,28510
+2352,42039.0,,Hyde,North Carolina,county,25.0,
+2353,48027.0,,Iredell,North Carolina,county,9.0,27591
+2354,31851.0,,Jackson,North Carolina,county,91.0,27845
+2355,38249.0,,Johnston,North Carolina,county,40.0,
+2356,38420.0,,Jones,North Carolina,county,47.0,28642
+2357,38287.0,,Lee,North Carolina,county,38.0,
+2358,39268.0,,Lenoir,North Carolina,county,33.0,28645
+2359,43920.0,,Lincoln,North Carolina,county,16.0,28092
+2360,32721.0,,McDowell,North Carolina,county,85.0,28098
+2361,38762.0,,Macon,North Carolina,county,39.0,27551
+2362,32655.0,,Madison,North Carolina,county,87.0,27025
+2363,33727.0,,Martin,North Carolina,county,80.0,28752
+2364,58539.0,,Mecklenburg,North Carolina,county,3.0,28425
+2365,34699.0,,Mitchell,North Carolina,county,69.0,
+2366,33760.0,,Montgomery,North Carolina,county,72.0,
+2367,49257.0,,Moore,North Carolina,county,7.0,28114
+2368,40255.0,,Nash,North Carolina,county,29.0,27856
+2369,43722.0,,New Hanover,North Carolina,county,21.0,28526
+2370,33064.0,,Northampton,North Carolina,county,84.0,
+2371,44836.0,,Onslow,North Carolina,county,14.0,
+2372,63460.0,,Orange,North Carolina,county,1.0,28551
+2373,41610.0,,Pamlico,North Carolina,county,24.0,
+2374,38091.0,,Pasquotank,North Carolina,county,41.0,
+2375,35296.0,,Pender,North Carolina,county,70.0,28159
+2376,39533.0,,Perquimans,North Carolina,county,35.0,27553
+2377,36510.0,,Person,North Carolina,county,51.0,
+2378,39873.0,,Pitt,North Carolina,county,32.0,27312
+2379,43202.0,,Polk,North Carolina,county,20.0,28135
+2380,35910.0,,Randolph,North Carolina,county,58.0,
+2381,34272.0,,Richmond,North Carolina,county,76.0,28574
+2382,28270.0,,Robeson,North Carolina,county,100.0,27504
+2383,35862.0,,Rockingham,North Carolina,county,56.0,28379
+2384,36576.0,,Rowan,North Carolina,county,52.0,28383
+2385,31351.0,,Rutherford,North Carolina,county,92.0,
+2386,36130.0,,Sampson,North Carolina,county,71.0,
+2387,31732.0,,Scotland,North Carolina,county,89.0,27874
+2388,37703.0,,Stanly,North Carolina,county,44.0,28164
+2389,35623.0,,Stokes,North Carolina,county,59.0,27884
+2390,37284.0,,Surry,North Carolina,county,48.0,
+2391,37192.0,,Swain,North Carolina,county,50.0,28384
+2392,40066.0,,Transylvania,North Carolina,county,28.0,28779
+2393,29728.0,,Tyrrell,North Carolina,county,99.0,28682
+2394,49251.0,,Union,North Carolina,county,6.0,28689
+2395,33671.0,,Vance,North Carolina,county,77.0,28586
+2396,55860.0,,Wake,North Carolina,county,4.0,27587
+2397,29360.0,,Warren,North Carolina,county,98.0,28693
+2398,34757.0,,Washington,North Carolina,county,66.0,27889
+2399,35384.0,,Watauga,North Carolina,county,61.0,
+2400,37309.0,,Wayne,North Carolina,county,49.0,"28785,28786"
+2401,35681.0,,Wilkes,North Carolina,county,62.0,28659
+2402,38746.0,,Wilson,North Carolina,county,36.0,"27893,27896"
+2403,36046.0,,Yadkin,North Carolina,county,57.0,27055
+2404,34410.0,,Yancey,North Carolina,county,60.0,27379
+2405,34410.0,,Yancey,North Carolina,county,60.0,27379
+2406,59898.0,,Adams,North Dakota,county,16.0,58210
+2407,51317.0,,Barnes,North Dakota,county,24.0,58008
+2408,31802.0,,Benson,North Dakota,county,52.0,58478
+2409,73638.0,,Billings,North Dakota,county,1.0,
+2410,50630.0,,Bottineau,North Dakota,county,18.0,58318
+2411,58542.0,,Bowman,North Dakota,county,11.0,58623
+2412,61857.0,,Burke,North Dakota,county,5.0,
+2413,56041.0,,Burleigh,North Dakota,county,19.0,58564
+2414,53945.0,,Cass,North Dakota,county,22.0,58012
+2415,57084.0,,Cavalier,North Dakota,county,3.0,58220
+2416,46920.0,,Dickey,North Dakota,county,33.0,58431
+2417,48780.0,,Divide,North Dakota,county,45.0,
+2418,58392.0,,Dunn,North Dakota,county,14.0,58626
+2419,50853.0,,Eddy,North Dakota,county,30.0,
+2420,46819.0,,Emmons,North Dakota,county,42.0,
+2421,62124.0,,Foster,North Dakota,county,7.0,
+2422,42654.0,,Golden Valley,North Dakota,county,48.0,58541
+2423,49288.0,,Grand Forks,North Dakota,county,37.0,"58201,58202,58203"
+2424,43501.0,,Grant,North Dakota,county,49.0,"58201,58202,58203"
+2425,53404.0,,Griggs,North Dakota,county,25.0,
+2426,49252.0,,Hettinger,North Dakota,county,38.0,58639
+2427,46102.0,,Kidder,North Dakota,county,40.0,58640
+2428,45878.0,,LaMoure,North Dakota,county,21.0,58458
+2429,54915.0,,Logan,North Dakota,county,13.0,
+2430,46146.0,,McHenry,North Dakota,county,34.0,58464
+2431,57695.0,,McIntosh,North Dakota,county,15.0,58261
+2432,58378.0,,McKenzie,North Dakota,county,8.0,
+2433,48957.0,,McLean,North Dakota,county,28.0,
+2434,58294.0,,Mercer,North Dakota,county,20.0,58559
+2435,50301.0,,Morton,North Dakota,county,35.0,58061
+2436,53085.0,,Mountrail,North Dakota,county,17.0,58262
+2437,60168.0,,Nelson,North Dakota,county,12.0,58601
+2438,46260.0,,Oliver,North Dakota,county,46.0,
+2439,52261.0,,Pembina,North Dakota,county,41.0,58271
+2440,46147.0,,Pierce,North Dakota,county,36.0,
+2441,46644.0,,Ramsey,North Dakota,county,47.0,58651
+2442,50854.0,,Ransom,North Dakota,county,23.0,58033
+2443,51213.0,,Renville,North Dakota,county,10.0,58741
+2444,49749.0,,Richland,North Dakota,county,32.0,
+2445,34033.0,,Rolette,North Dakota,county,50.0,58366
+2446,58106.0,,Sargent,North Dakota,county,4.0,58650
+2447,31244.0,,Sheridan,North Dakota,county,51.0,
+2448,27871.0,,Sioux,North Dakota,county,53.0,
+2449,44331.0,,Slope,North Dakota,county,43.0,
+2450,59310.0,,Stark,North Dakota,county,9.0,58377
+2451,58300.0,,Steele,North Dakota,county,6.0,58482
+2452,49889.0,,Stutsman,North Dakota,county,29.0,
+2453,45601.0,,Towner,North Dakota,county,31.0,58788
+2454,50421.0,,Traill,North Dakota,county,39.0,
+2455,47825.0,,Walsh,North Dakota,county,44.0,58281
+2456,51354.0,,Ward,North Dakota,county,27.0,
+2457,55222.0,,Wells,North Dakota,county,26.0,58017
+2458,65617.0,,Williams,North Dakota,county,2.0,58801
+2459,65617.0,,Williams,North Dakota,county,2.0,58801
+2460,33343.0,,Adams,Ohio,county,82.0,45810
+2461,40712.0,,Allen,Ohio,county,40.0,43021
+2462,36962.0,,Ashland,Ohio,county,70.0,44805
+2463,37112.0,,Ashtabula,Ohio,county,68.0,44004
+2464,32414.0,,Athens,Ohio,county,85.0,45701
+2465,46638.0,,Auglaize,Ohio,county,18.0,
+2466,39612.0,,Belmont,Ohio,county,43.0,43718
+2467,35830.0,,Brown,Ohio,county,75.0,
+2468,45335.0,,Butler,Ohio,county,21.0,44822
+2469,38047.0,,Carroll,Ohio,county,59.0,43112
+2470,39658.0,,Champaign,Ohio,county,51.0,
+2471,39235.0,,Clark,Ohio,county,53.0,43115
+2472,51123.0,,Clermont,Ohio,county,9.0,44628
+2473,43518.0,,Clinton,Ohio,county,29.0,44216
+2474,36481.0,,Columbiana,Ohio,county,73.0,44408
+2475,33511.0,,Coshocton,Ohio,county,80.0,43812
+2476,37139.0,,Crawford,Ohio,county,64.0,45308
+2477,52313.0,,Cuyahoga,Ohio,county,8.0,"44221,44223"
+2478,40146.0,,Darke,Ohio,county,41.0,
+2479,39462.0,,Defiance,Ohio,county,48.0,43512
+2480,71434.0,,Delaware,Ohio,county,1.0,43015
+2481,59366.0,,Erie,Ohio,county,3.0,
+2482,44441.0,,Fairfield,Ohio,county,26.0,45014
+2483,37148.0,,Fayette,Ohio,county,69.0,43521
+2484,48659.0,,Franklin,Ohio,county,15.0,45005
+2485,43517.0,,Fulton,Ohio,county,30.0,43321
+2486,37425.0,,Gallia,Ohio,county,58.0,"45801,45804,45805,45806,45807"
+2487,65854.0,,Geauga,Ohio,county,2.0,
+2488,48224.0,,Greene,Ohio,county,16.0,
+2489,38473.0,,Guernsey,Ohio,county,57.0,
+2490,56795.0,,Hamilton,Ohio,county,5.0,"45011,45013,45015"
+2491,49251.0,,Hancock,Ohio,county,11.0,
+2492,31427.0,,Hardin,Ohio,county,84.0,44024
+2493,37514.0,,Harrison,Ohio,county,67.0,45030
+2494,43622.0,,Henry,Ohio,county,28.0,45883
+2495,35029.0,,Highland,Ohio,county,78.0,
+2496,36851.0,,Hocking,Ohio,county,72.0,
+2497,42772.0,,Holmes,Ohio,county,32.0,44633
+2498,39074.0,,Huron,Ohio,county,56.0,44839
+2499,34597.0,,Jackson,Ohio,county,79.0,45640
+2500,37350.0,,Jefferson,Ohio,county,61.0,44047
+2501,40700.0,,Knox,Ohio,county,44.0,45871
+2502,48600.0,,Lake,Ohio,county,14.0,44012
+2503,36580.0,,Lawrence,Ohio,county,65.0,44666
+2504,44464.0,,Licking,Ohio,county,27.0,
+2505,41115.0,,Logan,Ohio,county,39.0,43138
+2506,44299.0,,Lorain,Ohio,county,25.0,"44052,44053,44055"
+2507,44230.0,,Lucas,Ohio,county,23.0,44843
+2508,40598.0,,Madison,Ohio,county,45.0,44057
+2509,41326.0,,Mahoning,Ohio,county,38.0,43843
+2510,36753.0,,Marion,Ohio,county,71.0,43302
+2511,53364.0,,Medina,Ohio,county,6.0,44256
+2512,33091.0,,Meigs,Ohio,county,83.0,
+2513,47672.0,,Mercer,Ohio,county,12.0,
+2514,45639.0,,Miami,Ohio,county,20.0,45342
+2515,31984.0,,Monroe,Ohio,county,81.0,45050
+2516,44998.0,,Montgomery,Ohio,county,22.0,45809
+2517,31810.0,,Morgan,Ohio,county,86.0,43138
+2518,37585.0,,Morrow,Ohio,county,66.0,45152
+2519,39195.0,,Muskingum,Ohio,county,54.0,
+2520,25881.0,,Noble,Ohio,county,88.0,
+2521,49171.0,,Ottawa,Ohio,county,10.0,45875
+2522,38111.0,,Paulding,Ohio,county,52.0,45879
+2523,36048.0,,Perry,Ohio,county,76.0,44081
+2524,39759.0,,Pickaway,Ohio,county,50.0,
+2525,36186.0,,Pike,Ohio,county,74.0,45661
+2526,42176.0,,Portage,Ohio,county,34.0,43451
+2527,38751.0,,Preble,Ohio,county,55.0,45660
+2528,46590.0,,Putnam,Ohio,county,17.0,
+2529,37865.0,,Richland,Ohio,county,62.0,
+2530,35512.0,,Ross,Ohio,county,77.0,
+2531,39827.0,,Sandusky,Ohio,county,47.0,44870
+2532,36917.0,,Scioto,Ohio,county,63.0,43988
+2533,38104.0,,Seneca,Ohio,county,60.0,43780
+2534,44072.0,,Shelby,Ohio,county,24.0,44875
+2535,43297.0,,Stark,Ohio,county,33.0,
+2536,48894.0,,Summit,Ohio,county,13.0,
+2537,39457.0,,Trumbull,Ohio,county,49.0,
+2538,41603.0,,Tuscarawas,Ohio,county,37.0,
+2539,53461.0,,Union,Ohio,county,7.0,45390
+2540,39815.0,,Van Wert,Ohio,county,42.0,45891
+2541,32114.0,,Vinton,Ohio,county,87.0,45686
+2542,57376.0,,Warren,Ohio,county,4.0,"44481,44483,44484,44485"
+2543,40332.0,,Washington,Ohio,county,36.0,44854
+2544,42143.0,,Wayne,Ohio,county,35.0,43466
+2545,39838.0,,Williams,Ohio,county,46.0,45176
+2546,45082.0,,Wood,Ohio,county,19.0,44122
+2547,42162.0,,Wyandot,Ohio,county,31.0,
+2548,42162.0,,Wyandot,Ohio,county,31.0,
+2549,28197.0,,Adair,Oklahoma,county,76.0,74330
+2550,38924.0,,Alfalfa,Oklahoma,county,33.0,74080
+2551,30968.0,,Atoka,Oklahoma,county,66.0,"74525,74542"
+2552,47038.0,,Beaver,Oklahoma,county,7.0,73932
+2553,35662.0,,Beckham,Oklahoma,county,40.0,
+2554,39136.0,,Blaine,Oklahoma,county,28.0,74555
+2555,33396.0,,Bryan,Oklahoma,county,56.0,73565
+2556,33526.0,,Caddo,Oklahoma,county,53.0,74729
+2557,43108.0,,Canadian,Oklahoma,county,15.0,74425
+2558,40816.0,,Carter,Oklahoma,county,22.0,73627
+2559,30907.0,,Cherokee,Oklahoma,county,68.0,73728
+2560,30521.0,,Choctaw,Oklahoma,county,70.0,73020
+2561,59361.0,,Cimarron,Oklahoma,county,3.0,
+2562,43042.0,,Cleveland,Oklahoma,county,14.0,74020
+2563,31645.0,,Coal,Oklahoma,county,59.0,74538
+2564,39667.0,,Comanche,Oklahoma,county,27.0,73529
+2565,38520.0,,Cotton,Oklahoma,county,25.0,
+2566,34497.0,,Craig,Oklahoma,county,50.0,
+2567,38749.0,,Creek,Oklahoma,county,32.0,74636
+2568,39009.0,,Custer,Oklahoma,county,26.0,73639
+2569,30427.0,,Delaware,Oklahoma,county,74.0,74027
+2570,40245.0,,Dewey,Oklahoma,county,16.0,74029
+2571,51419.0,,Ellis,Oklahoma,county,5.0,73550
+2572,42493.0,,Garfield,Oklahoma,county,17.0,73546
+2573,36372.0,,Garvin,Oklahoma,county,39.0,74736
+2574,38134.0,,Grady,Oklahoma,county,35.0,73546
+2575,44908.0,,Grant,Oklahoma,county,12.0,74738
+2576,26804.0,,Greer,Oklahoma,county,77.0,73738
+2577,35064.0,,Harmon,Oklahoma,county,52.0,73650
+2578,44080.0,,Harper,Oklahoma,county,10.0,
+2579,31417.0,,Haskell,Oklahoma,county,67.0,74436
+2580,30335.0,,Hughes,Oklahoma,county,71.0,
+2581,37594.0,,Jackson,Oklahoma,county,38.0,74427
+2582,31246.0,,Jefferson,Oklahoma,county,69.0,
+2583,34105.0,,Johnston,Oklahoma,county,45.0,73049
+2584,38992.0,,Kay,Oklahoma,county,31.0,
+2585,46572.0,,Kingfisher,Oklahoma,county,6.0,73750
+2586,32195.0,,Kiowa,Oklahoma,county,65.0,74553
+2587,31867.0,,Latimer,Oklahoma,county,62.0,
+2588,31925.0,,Le Flore,Oklahoma,county,64.0,
+2589,34087.0,,Lincoln,Oklahoma,county,51.0,73601
+2590,41299.0,,Logan,Oklahoma,county,20.0,73938
+2591,36160.0,,Love,Oklahoma,county,41.0,73553
+2592,43174.0,,McClain,Oklahoma,county,13.0,74944
+2593,31105.0,,McCurtain,Oklahoma,county,72.0,74944
+2594,32223.0,,McIntosh,Oklahoma,county,61.0,
+2595,40204.0,,Major,Oklahoma,county,19.0,
+2596,31695.0,,Marshall,Oklahoma,county,63.0,73056
+2597,33357.0,,Mayes,Oklahoma,county,54.0,73851
+2598,40754.0,,Murray,Oklahoma,county,24.0,
+2599,35112.0,,Muskogee,Oklahoma,county,44.0,"74401,74403"
+2600,40176.0,,Noble,Oklahoma,county,30.0,73068
+2601,34386.0,,Nowata,Oklahoma,county,47.0,74048
+2602,28627.0,,Okfuskee,Oklahoma,county,75.0,
+2603,48979.0,,Oklahoma,Oklahoma,county,4.0,"73102,73103,73104,73105,73106"
+2604,32391.0,,Okmulgee,Oklahoma,county,58.0,74447
+2605,33687.0,,Osage,Oklahoma,county,55.0,74054
+2606,34453.0,,Ottawa,Oklahoma,county,49.0,
+2607,34381.0,,Pawnee,Oklahoma,county,48.0,74058
+2608,35285.0,,Payne,Oklahoma,county,43.0,73095
+2609,36456.0,,Pittsburg,Oklahoma,county,37.0,74560
+2610,40802.0,,Pontotoc,Oklahoma,county,21.0,
+2611,36010.0,,Pottawatomie,Oklahoma,county,42.0,
+2612,30841.0,,Pushmataha,Oklahoma,county,73.0,
+2613,43257.0,,Roger Mills,Oklahoma,county,8.0,
+2614,43717.0,,Rogers,Oklahoma,county,11.0,
+2615,32016.0,,Seminole,Oklahoma,county,57.0,74868
+2616,32171.0,,Sequoyah,Oklahoma,county,60.0,
+2617,38772.0,,Stephens,Oklahoma,county,29.0,
+2618,44897.0,,Texas,Oklahoma,county,9.0,73668
+2619,40902.0,,Tillman,Oklahoma,county,34.0,
+2620,58024.0,,Tulsa,Oklahoma,county,2.0,"74103,74104,74105,74106,74107"
+2621,37728.0,,Wagoner,Oklahoma,county,36.0,74467
+2622,57820.0,,Washington,Oklahoma,county,1.0,73093
+2623,33857.0,,Washita,Oklahoma,county,46.0,73094
+2624,40195.0,,Woods,Oklahoma,county,23.0,73768
+2625,41901.0,,Woodward,Oklahoma,county,18.0,73801
+2626,41901.0,,Woodward,Oklahoma,county,18.0,73801
+2627,38217.0,,Baker,Oregon,county,26.0,97814
+2628,44519.0,,Benton,Oregon,county,8.0,97146
+2629,55478.0,,Clackamas,Oregon,county,2.0,97015
+2630,43220.0,,Clatsop,Oregon,county,13.0,
+2631,42135.0,,Columbia,Oregon,county,15.0,97018
+2632,41682.0,,Coos,Oregon,county,18.0,97420
+2633,39763.0,,Crook,Oregon,county,25.0,97415
+2634,40885.0,,Curry,Oregon,county,21.0,
+2635,53033.0,,Deschutes,Oregon,county,5.0,
+2636,38822.0,,Douglas,Oregon,county,28.0,
+2637,45345.0,,Gilliam,Oregon,county,7.0,97544
+2638,39949.0,,Grant,Oregon,county,22.0,"97526,97527"
+2639,36911.0,,Harney,Oregon,county,32.0,
+2640,52750.0,,Hood River,Oregon,county,4.0,97031
+2641,44533.0,,Jackson,Oregon,county,9.0,97530
+2642,31738.0,,Jefferson,Oregon,county,35.0,97352
+2643,39166.0,,Josephine,Oregon,county,24.0,97846
+2644,38367.0,,Klamath,Oregon,county,29.0,
+2645,37029.0,,Lake,Oregon,county,30.0,
+2646,43960.0,,Lane,Oregon,county,10.0,97451
+2647,42009.0,,Lincoln,Oregon,county,16.0,97367
+2648,40865.0,,Linn,Oregon,county,20.0,97068
+2649,29463.0,,Malheur,Oregon,county,36.0,
+2650,41119.0,,Marion,Oregon,county,19.0,97843
+2651,38728.0,,Morrow,Oregon,county,33.0,97039
+2652,54726.0,,Multnomah,Oregon,county,3.0,97042
+2653,39554.0,,Polk,Oregon,county,23.0,
+2654,47700.0,,Sherman,Oregon,county,6.0,97730
+2655,42509.0,,Tillamook,Oregon,county,14.0,97141
+2656,37734.0,,Umatilla,Oregon,county,31.0,97882
+2657,38138.0,,Union,Oregon,county,27.0,97883
+2658,43005.0,,Wallowa,Oregon,county,12.0,97885
+2659,42170.0,,Wasco,Oregon,county,17.0,97065
+2660,57787.0,,Washington,Oregon,county,1.0,97812
+2661,35534.0,,Wheeler,Oregon,county,34.0,
+2662,43328.0,,Yamhill,Oregon,county,11.0,97148
+2663,43328.0,,Yamhill,Oregon,county,11.0,97148
+2664,47020.0,,Adams,Pennsylvania,county,19.0,15611
+2665,58965.0,,Allegheny,Pennsylvania,county,5.0,
+2666,42553.0,,Armstrong,Pennsylvania,county,31.0,19014
+2667,45923.0,,Beaver,Pennsylvania,county,21.0,15009
+2668,40551.0,,Bedford,Pennsylvania,county,47.0,15522
+2669,47412.0,,Berks,Pennsylvania,county,18.0,
+2670,44160.0,,Blair,Pennsylvania,county,26.0,17213
+2671,39497.0,,Bradford,Pennsylvania,county,59.0,16701
+2672,69658.0,,Bucks,Pennsylvania,county,3.0,17867
+2673,55614.0,,Butler,Pennsylvania,county,7.0,"16001,16002"
+2674,40721.0,,Cambria,Pennsylvania,county,45.0,
+2675,45312.0,,Cameron,Pennsylvania,county,22.0,
+2676,47605.0,,Carbon,Pennsylvania,county,16.0,18407
+2677,44527.0,,Centre,Pennsylvania,county,28.0,16828
+2678,78645.0,,Chester,Pennsylvania,county,1.0,19013
+2679,39286.0,,Clarion,Pennsylvania,county,57.0,16214
+2680,42452.0,,Clearfield,Pennsylvania,county,40.0,16830
+2681,38201.0,,Clinton,Pennsylvania,county,65.0,15026
+2682,40499.0,,Columbia,Pennsylvania,county,55.0,17512
+2683,38698.0,,Crawford,Pennsylvania,county,62.0,16701
+2684,52703.0,,Cumberland,Pennsylvania,county,10.0,17070
+2685,48733.0,,Dauphin,Pennsylvania,county,15.0,17018
+2686,62877.0,,Delaware,Pennsylvania,county,4.0,
+2687,45932.0,,Elk,Pennsylvania,county,20.0,19027
+2688,42308.0,,Erie,Pennsylvania,county,37.0,"16501,16502,16503,16504,16505"
+2689,40343.0,,Fayette,Pennsylvania,county,52.0,15438
+2690,21458.0,,Forest,Pennsylvania,county,67.0,18421
+2691,44239.0,,Franklin,Pennsylvania,county,27.0,16323
+2692,42503.0,,Fulton,Pennsylvania,county,30.0,17322
+2693,42063.0,,Greene,Pennsylvania,county,38.0,18425
+2694,36339.0,,Huntingdon,Pennsylvania,county,66.0,16652
+2695,37668.0,,Indiana,Pennsylvania,county,63.0,15701
+2696,41582.0,,Jefferson,Pennsylvania,county,41.0,15344
+2697,43589.0,,Juniata,Pennsylvania,county,34.0,
+2698,45388.0,,Lackawanna,Pennsylvania,county,25.0,18435
+2699,49961.0,,Lancaster,Pennsylvania,county,13.0,"17601,17602,17603,17611"
+2700,41382.0,,Lawrence,Pennsylvania,county,43.0,15055
+2701,46194.0,,Lebanon,Pennsylvania,county,23.0,"17042,17046"
+2702,50697.0,,Lehigh,Pennsylvania,county,12.0,
+2703,43015.0,,Luzerne,Pennsylvania,county,36.0,18709
+2704,41587.0,,Lycoming,Pennsylvania,county,44.0,18644
+2705,42841.0,,McKean,Pennsylvania,county,35.0,16426
+2706,40648.0,,Mercer,Pennsylvania,county,46.0,16137
+2707,37730.0,,Mifflin,Pennsylvania,county,64.0,17058
+2708,40393.0,,Monroe,Pennsylvania,county,51.0,18832
+2709,75872.0,,Montgomery,Pennsylvania,county,2.0,17752
+2710,55164.0,,Montour,Pennsylvania,county,8.0,17754
+2711,51895.0,,Northampton,Pennsylvania,county,11.0,18067
+2712,40024.0,,Northumberland,Pennsylvania,county,58.0,17857
+2713,42789.0,,Perry,Pennsylvania,county,39.0,15473
+2714,52629.0,,Philadelphia,Pennsylvania,county,9.0,"19102,19103,19104,19106,19107"
+2715,45340.0,,Pike,Pennsylvania,county,24.0,
+2716,40149.0,,Potter,Pennsylvania,county,50.0,16871
+2717,40585.0,,Schuylkill,Pennsylvania,county,49.0,17972
+2718,40322.0,,Snyder,Pennsylvania,county,53.0,16257
+2719,39845.0,,Somerset,Pennsylvania,county,56.0,15501
+2720,43405.0,,Sullivan,Pennsylvania,county,29.0,16844
+2721,42589.0,,Susquehanna,Pennsylvania,county,32.0,18847
+2722,39154.0,,Tioga,Pennsylvania,county,61.0,16946
+2723,39668.0,,Union,Pennsylvania,county,60.0,17066
+2724,39572.0,,Venango,Pennsylvania,county,54.0,16440
+2725,40267.0,,Warren,Pennsylvania,county,48.0,16365
+2726,55749.0,,Washington,Pennsylvania,county,6.0,15301
+2727,41630.0,,Wayne,Pennsylvania,county,42.0,19087
+2728,49062.0,,Westmoreland,Pennsylvania,county,14.0,15692
+2729,42827.0,,Wyoming,Pennsylvania,county,33.0,18644
+2730,47835.0,,York,Pennsylvania,county,17.0,"17401,17402,17403,17404,17406"
+2731,47835.0,,York,Pennsylvania,county,17.0,"17401,17402,17403,17404,17406"
+2732,74445.0,,Bristol,Rhode Island,county,1.0,02809
+2733,56928.0,,Kent,Rhode Island,county,4.0,"02860,02861"
+2734,65072.0,,Newport,Rhode Island,county,2.0,"02840,02841"
+2735,46164.0,,Providence,Rhode Island,county,5.0,"02903,02904,02905,02906,02907"
+2736,60848.0,,Washington,Rhode Island,county,3.0,02806
+2737,60848.0,,Washington,Rhode Island,county,3.0,02806
+2738,32937.0,,Abbeville,South Carolina,county,30.0,29620
+2739,40893.0,,Aiken,South Carolina,county,11.0,"29801,29803,29805"
+2740,31593.0,,Allendale,South Carolina,county,34.0,29810
+2741,38391.0,,Anderson,South Carolina,county,15.0,"29621,29624,29625,29626"
+2742,31915.0,,Bamberg,South Carolina,county,37.0,29003
+2743,32117.0,,Barnwell,South Carolina,county,33.0,29812
+2744,53766.0,,Beaufort,South Carolina,county,2.0,"29902,29906"
+2745,38885.0,,Berkeley,South Carolina,county,14.0,
+2746,37199.0,,Calhoun,South Carolina,county,19.0,29628
+2747,58588.0,,Charleston,South Carolina,county,1.0,"29401,29403,29406,29407,29412"
+2748,31686.0,,Cherokee,South Carolina,county,35.0,
+2749,32650.0,,Chester,South Carolina,county,31.0,29706
+2750,29480.0,,Chesterfield,South Carolina,county,44.0,29709
+2751,31979.0,,Clarendon,South Carolina,county,35.0,
+2752,34184.0,,Colleton,South Carolina,county,27.0,
+2753,35965.0,,Darlington,South Carolina,county,22.0,"29532,29540"
+2754,27035.0,,Dillon,South Carolina,county,46.0,29536
+2755,37282.0,,Dorchester,South Carolina,county,16.0,29437
+2756,35426.0,,Edgefield,South Carolina,county,26.0,29824
+2757,35558.0,,Fairfield,South Carolina,county,25.0,
+2758,39941.0,,Florence,South Carolina,county,12.0,"29501,29505,29506"
+2759,45167.0,,Georgetown,South Carolina,county,5.0,29440
+2760,46922.0,,Greenville,South Carolina,county,4.0,"29601,29605,29607,29609,29611"
+2761,36067.0,,Greenwood,South Carolina,county,23.0,"29646,29649"
+2762,31054.0,,Hampton,South Carolina,county,41.0,29924
+2763,35971.0,,Horry,South Carolina,county,24.0,
+2764,27920.0,,Jasper,South Carolina,county,45.0,
+2765,40130.0,,Kershaw,South Carolina,county,13.0,29067
+2766,47281.0,,Lancaster,South Carolina,county,3.0,29720
+2767,33422.0,,Laurens,South Carolina,county,28.0,29360
+2768,31553.0,,Lee,South Carolina,county,40.0,29070
+2769,45533.0,,Lexington,South Carolina,county,7.0,"29072,29073"
+2770,36014.0,,McCormick,South Carolina,county,18.0,29835
+2771,30135.0,,Marion,South Carolina,county,43.0,29571
+2772,29857.0,,Marlboro,South Carolina,county,42.0,
+2773,36802.0,,Newberry,South Carolina,county,21.0,29108
+2774,41722.0,,Oconee,South Carolina,county,9.0,
+2775,32849.0,,Orangeburg,South Carolina,county,32.0,"29115,29118"
+2776,36973.0,,Pickens,South Carolina,county,20.0,29671
+2777,44250.0,,Richland,South Carolina,county,8.0,
+2778,33625.0,,Saluda,South Carolina,county,29.0,29138
+2779,41783.0,,Spartanburg,South Carolina,county,10.0,"29301,29302,29303,29306,29307"
+2780,36978.0,,Sumter,South Carolina,county,17.0,"29150,29153,29154"
+2781,31618.0,,Union,South Carolina,county,38.0,29379
+2782,31437.0,,Williamsburg,South Carolina,county,39.0,
+2783,44804.0,,York,South Carolina,county,6.0,29745
+2784,44804.0,,York,South Carolina,county,6.0,29745
+2785,42188.0,,Aurora,South Dakota,county,47.0,57002
+2786,46034.0,,Beadle,South Dakota,county,35.0,57217
+2787,28660.0,,Bennett,South Dakota,county,60.0,
+2788,35017.0,,Bon Homme,South Dakota,county,54.0,
+2789,43952.0,,Brookings,South Dakota,county,45.0,57006
+2790,50189.0,,Brown,South Dakota,county,17.0,57056
+2791,42426.0,,Brule,South Dakota,county,44.0,57548
+2792,22737.0,,Buffalo,South Dakota,county,65.0,57720
+2793,36758.0,,Butte,South Dakota,county,55.0,57625
+2794,44080.0,,Campbell,South Dakota,county,29.0,
+2795,39423.0,,Charles Mix,South Dakota,county,48.0,57571
+2796,41859.0,,Clark,South Dakota,county,39.0,57225
+2797,36999.0,,Clay,South Dakota,county,53.0,
+2798,46732.0,,Codington,South Dakota,county,34.0,57445
+2799,26699.0,,Corson,South Dakota,county,59.0,57227
+2800,46334.0,,Custer,South Dakota,county,38.0,57730
+2801,48035.0,,Davison,South Dakota,county,27.0,57021
+2802,42440.0,,Day,South Dakota,county,42.0,57050
+2803,48310.0,,Deuel,South Dakota,county,23.0,
+2804,35572.0,,Dewey,South Dakota,county,58.0,
+2805,53839.0,,Douglas,South Dakota,county,9.0,
+2806,44492.0,,Edmunds,South Dakota,county,22.0,
+2807,45055.0,,Fall River,South Dakota,county,43.0,
+2808,36548.0,,Faulk,South Dakota,county,51.0,57438
+2809,51817.0,,Grant,South Dakota,county,11.0,57218
+2810,45911.0,,Gregory,South Dakota,county,40.0,57533
+2811,46388.0,,Haakon,South Dakota,county,31.0,
+2812,41278.0,,Hamlin,South Dakota,county,49.0,57642
+2813,46450.0,,Hand,South Dakota,county,12.0,57346
+2814,62500.0,,Hanson,South Dakota,county,6.0,57344
+2815,50483.0,,Harding,South Dakota,county,25.0,
+2816,51341.0,,Hughes,South Dakota,county,15.0,
+2817,47139.0,,Hutchinson,South Dakota,county,14.0,57620
+2818,53192.0,,Hyde,South Dakota,county,21.0,
+2819,25153.0,,Jackson,South Dakota,county,62.0,
+2820,49664.0,,Jerauld,South Dakota,county,13.0,
+2821,49127.0,,Jones,South Dakota,county,8.0,57317
+2822,44774.0,,Kingsbury,South Dakota,county,26.0,
+2823,51089.0,,Lake,South Dakota,county,20.0,57226
+2824,47991.0,,Lawrence,South Dakota,county,29.0,57373
+2825,65423.0,,Lincoln,South Dakota,county,5.0,
+2826,39763.0,,Lyman,South Dakota,county,41.0,57017
+2827,48903.0,,McCook,South Dakota,county,19.0,
+2828,34336.0,,McPherson,South Dakota,county,56.0,
+2829,42075.0,,Marshall,South Dakota,county,37.0,
+2830,41862.0,,Meade,South Dakota,county,50.0,
+2831,27828.0,,Mellette,South Dakota,county,61.0,57461
+2832,47041.0,,Miner,South Dakota,county,16.0,57362
+2833,55037.0,,Minnehaha,South Dakota,county,10.0,
+2834,46213.0,,Moody,South Dakota,county,33.0,
+2835,23987.0,,Oglala Lakota,South Dakota,county,64.0,57764
+2836,49414.0,,Pennington,South Dakota,county,24.0,57737
+2837,44019.0,,Perkins,South Dakota,county,52.0,
+2838,63212.0,,Potter,South Dakota,county,4.0,
+2839,33352.0,,Roberts,South Dakota,county,57.0,
+2840,45654.0,,Sanborn,South Dakota,county,36.0,
+2841,47123.0,,Spink,South Dakota,county,18.0,57747
+2842,66251.0,,Stanley,South Dakota,county,3.0,
+2843,64360.0,,Sully,South Dakota,county,2.0,
+2844,24450.0,,Todd,South Dakota,county,63.0,
+2845,44446.0,,Tripp,South Dakota,county,32.0,57376
+2846,59210.0,,Turner,South Dakota,county,7.0,
+2847,103772.0,,Union,South Dakota,county,1.0,57787
+2848,43197.0,,Walworth,South Dakota,county,46.0,57075
+2849,47715.0,,Yankton,South Dakota,county,28.0,57078
+2850,19879.0,,Ziebach,South Dakota,county,66.0,
+2851,19879.0,,Ziebach,South Dakota,county,66.0,
+2852,40106.0,,Anderson,Tennessee,county,19.0,37705
+2853,35799.0,,Bedford,Tennessee,county,48.0,38316
+2854,32715.0,,Benton,Tennessee,county,68.0,37307
+2855,25154.0,,Bledsoe,Tennessee,county,94.0,
+2856,41190.0,,Blount,Tennessee,county,12.0,37617
+2857,37766.0,,Bradley,Tennessee,county,35.0,
+2858,32569.0,,Campbell,Tennessee,county,65.0,38006
+2859,34664.0,,Cannon,Tennessee,county,52.0,
+2860,34777.0,,Carroll,Tennessee,county,53.0,
+2861,33088.0,,Carter,Tennessee,county,59.0,38569
+2862,41769.0,,Cheatham,Tennessee,county,10.0,
+2863,32532.0,,Chester,Tennessee,county,69.0,37355
+2864,33910.0,,Claiborne,Tennessee,county,57.0,
+2865,30471.0,,Clay,Tennessee,county,84.0,
+2866,30637.0,,Cocke,Tennessee,county,81.0,38326
+2867,37323.0,,Coffee,Tennessee,county,39.0,37361
+2868,34675.0,,Crockett,Tennessee,county,51.0,
+2869,35518.0,,Cumberland,Tennessee,county,50.0,37724
+2870,62876.0,,Davidson,Tennessee,county,2.0,37302
+2871,40812.0,,Decatur,Tennessee,county,15.0,37322
+2872,38125.0,,DeKalb,Tennessee,county,28.0,
+2873,38766.0,,Dickson,Tennessee,county,27.0,37055
+2874,38310.0,,Dyer,Tennessee,county,26.0,38330
+2875,52993.0,,Fayette,Tennessee,county,3.0,37334
+2876,31029.0,,Fentress,Tennessee,county,79.0,
+2877,37289.0,,Franklin,Tennessee,county,36.0,"37064,37067,37069"
+2878,37414.0,,Gibson,Tennessee,county,40.0,
+2879,37842.0,,Giles,Tennessee,county,37.0,
+2880,31892.0,,Grainger,Tennessee,county,71.0,38334
+2881,38618.0,,Greene,Tennessee,county,29.0,"37743,37745"
+2882,29839.0,,Grundy,Tennessee,county,85.0,
+2883,35134.0,,Hamblen,Tennessee,county,49.0,
+2884,49813.0,,Hamilton,Tennessee,county,4.0,37118
+2885,25777.0,,Hancock,Tennessee,county,93.0,
+2886,28288.0,,Hardeman,Tennessee,county,89.0,37748
+2887,37778.0,,Hardin,Tennessee,county,34.0,37723
+2888,32806.0,,Hawkins,Tennessee,county,62.0,
+2889,30348.0,,Haywood,Tennessee,county,80.0,38220
+2890,34542.0,,Henderson,Tennessee,county,56.0,38340
+2891,40561.0,,Henry,Tennessee,county,18.0,38231
+2892,31401.0,,Hickman,Tennessee,county,75.0,38567
+2893,32184.0,,Houston,Tennessee,county,74.0,
+2894,38135.0,,Humphreys,Tennessee,county,38.0,
+2895,29939.0,,Jackson,Tennessee,county,83.0,"38301,38305"
+2896,34289.0,,Jefferson,Tennessee,county,55.0,37760
+2897,31510.0,,Johnson,Tennessee,county,78.0,"37601,37604,37615"
+2898,47574.0,,Knox,Tennessee,county,5.0,"37902,37909,37912,37914,37915"
+2899,22576.0,,Lake,Tennessee,county,95.0,37769
+2900,27910.0,,Lauderdale,Tennessee,county,91.0,
+2901,33873.0,,Lawrence,Tennessee,county,58.0,38464
+2902,32996.0,,Lewis,Tennessee,county,60.0,37091
+2903,39511.0,,Lincoln,Tennessee,county,20.0,37716
+2904,46340.0,,Loudon,Tennessee,county,9.0,37774
+2905,34645.0,,McMinn,Tennessee,county,54.0,37110
+2906,31310.0,,McNairy,Tennessee,county,76.0,
+2907,32787.0,,Macon,Tennessee,county,73.0,
+2908,40781.0,,Madison,Tennessee,county,13.0,37115
+2909,36950.0,,Marion,Tennessee,county,42.0,38237
+2910,36075.0,,Marshall,Tennessee,county,45.0,38040
+2911,40901.0,,Maury,Tennessee,county,14.0,
+2912,32771.0,,Meigs,Tennessee,county,70.0,
+2913,31971.0,,Monroe,Tennessee,county,72.0,38573
+2914,40461.0,,Montgomery,Tennessee,county,22.0,38574
+2915,39731.0,,Moore,Tennessee,county,21.0,37811
+2916,28339.0,,Morgan,Tennessee,county,90.0,
+2917,39042.0,,Obion,Tennessee,county,25.0,38240
+2918,32381.0,,Overton,Tennessee,county,67.0,37080
+2919,33301.0,,Perry,Tennessee,county,61.0,37359
+2920,38598.0,,Pickett,Tennessee,county,31.0,
+2921,32647.0,,Polk,Tennessee,county,66.0,
+2922,38079.0,,Putnam,Tennessee,county,32.0,
+2923,32842.0,,Rhea,Tennessee,county,63.0,
+2924,39241.0,,Roane,Tennessee,county,24.0,37687
+2925,40211.0,,Robertson,Tennessee,county,17.0,
+2926,39262.0,,Rutherford,Tennessee,county,22.0,38369
+2927,28106.0,,Scott,Tennessee,county,88.0,38374
+2928,36474.0,,Sequatchie,Tennessee,county,43.0,37374
+2929,37910.0,,Sevier,Tennessee,county,33.0,"37862,37876"
+2930,47338.0,,Shelby,Tennessee,county,6.0,37160
+2931,36263.0,,Smith,Tennessee,county,44.0,37166
+2932,39111.0,,Stewart,Tennessee,county,30.0,37175
+2933,40810.0,,Sullivan,Tennessee,county,16.0,
+2934,46465.0,,Sumner,Tennessee,county,8.0,38483
+2935,37085.0,,Tipton,Tennessee,county,41.0,
+2936,28849.0,,Trousdale,Tennessee,county,87.0,
+2937,35836.0,,Unicoi,Tennessee,county,46.0,37692
+2938,30516.0,,Union,Tennessee,county,82.0,38261
+2939,30207.0,,Van Buren,Tennessee,county,86.0,37029
+2940,33253.0,,Warren,Tennessee,county,64.0,37183
+2941,41539.0,,Washington,Tennessee,county,11.0,38002
+2942,27448.0,,Wayne,Tennessee,county,92.0,38485
+2943,36146.0,,Weakley,Tennessee,county,47.0,
+2944,31628.0,,White,Tennessee,county,77.0,37187
+2945,91001.0,,Williamson,Tennessee,county,1.0,38076
+2946,46989.0,,Wilson,Tennessee,county,7.0,38076
+2947,46989.0,,Wilson,Tennessee,county,7.0,38076
+2948,32547.0,,Anderson,Texas,county,220.0,77830
+2949,45092.0,,Andrews,Texas,county,53.0,79714
+2950,37004.0,,Angelina,Texas,county,169.0,78621
+2951,44891.0,,Aransas,Texas,county,59.0,78336
+2952,47302.0,,Archer,Texas,county,50.0,
+2953,44118.0,,Armstrong,Texas,county,62.0,
+2954,35464.0,,Atascosa,Texas,county,192.0,78002
+2955,48552.0,,Austin,Texas,county,49.0,"78701,78702,78703,78704,78705"
+2956,43956.0,,Bailey,Texas,county,115.0,
+2957,41696.0,,Bandera,Texas,county,100.0,78003
+2958,34895.0,,Bastrop,Texas,county,196.0,78602
+2959,39407.0,,Baylor,Texas,county,128.0,76574
+2960,27543.0,,Bee,Texas,county,248.0,78102
+2961,41905.0,,Bell,Texas,county,111.0,77401
+2962,43878.0,,Bexar,Texas,county,74.0,75750
+2963,49915.0,,Blanco,Texas,county,43.0,78606
+2964,52707.0,,Borden,Texas,county,11.0,
+2965,40266.0,,Bosque,Texas,county,131.0,
+2966,38758.0,,Bowie,Texas,county,150.0,76230
+2967,45575.0,,Brazoria,Texas,county,67.0,77422
+2968,37278.0,,Brazos,Texas,county,163.0,77422
+2969,42271.0,,Brewster,Texas,county,79.0,
+2970,33565.0,,Briscoe,Texas,county,209.0,79011
+2971,33258.0,,Brooks,Texas,county,222.0,77423
+2972,37219.0,,Brown,Texas,county,170.0,79316
+2973,40718.0,,Burleson,Texas,county,112.0,76028
+2974,44593.0,,Burnet,Texas,county,70.0,78611
+2975,32083.0,,Caldwell,Texas,county,223.0,77836
+2976,36603.0,,Calhoun,Texas,county,171.0,76436
+2977,37170.0,,Callahan,Texas,county,161.0,75933
+2978,27427.0,,Cameron,Texas,county,246.0,76520
+2979,37235.0,,Camp,Texas,county,172.0,78833
+2980,42974.0,,Carson,Texas,county,72.0,
+2981,35274.0,,Cass,Texas,county,191.0,
+2982,50578.0,,Castro,Texas,county,110.0,78009
+2983,52075.0,,Chambers,Texas,county,37.0,76357
+2984,33534.0,,Cherokee,Texas,county,219.0,76832
+2985,28853.0,,Childress,Texas,county,242.0,79201
+2986,40793.0,,Clay,Texas,county,117.0,
+2987,40119.0,,Cochran,Texas,county,174.0,78838
+2988,39046.0,,Coke,Texas,county,125.0,79011
+2989,38663.0,,Coleman,Texas,county,141.0,76834
+2990,63468.0,,Collin,Texas,county,9.0,76233
+2991,35124.0,,Collingsworth,Texas,county,227.0,77420
+2992,45012.0,,Colorado,Texas,county,68.0,79512
+2993,56325.0,,Comal,Texas,county,22.0,76442
+2994,39960.0,,Comanche,Texas,county,116.0,76442
+2995,18998.0,,Concho,Texas,county,254.0,
+2996,50624.0,,Cooke,Texas,county,36.0,79005
+2997,33142.0,,Coryell,Texas,county,221.0,
+2998,57757.0,,Cottle,Texas,county,25.0,
+2999,42497.0,,Crane,Texas,county,64.0,79731
+3000,38073.0,,Crockett,Texas,county,134.0,75835
+3001,30754.0,,Crosby,Texas,county,235.0,77532
+3002,47328.0,,Culberson,Texas,county,35.0,76427
+3003,53368.0,,Dallam,Texas,county,42.0,"75201,75202,75203,75204,75205"
+3004,55947.0,,Dallas,Texas,county,19.0,"75201,75202,75203,75204,75205"
+3005,35739.0,,Dawson,Texas,county,189.0,76639
+3006,41626.0,,Deaf Smith,Texas,county,145.0,
+3007,34263.0,,Delta,Texas,county,211.0,78536
+3008,53763.0,,Denton,Texas,county,30.0,"76201,76205,76207,76208,76209"
+3009,51763.0,,DeWitt,Texas,county,34.0,76643
+3010,31270.0,,Dickens,Texas,county,234.0,79229
+3011,34316.0,,Dimmit,Texas,county,194.0,79027
+3012,42778.0,,Donley,Texas,county,78.0,75838
+3013,34884.0,,Duval,Texas,county,199.0,78801
+3014,61573.0,,Eastland,Texas,county,6.0,76448
+3015,42548.0,,Ector,Texas,county,66.0,75439
+3016,32845.0,,Edwards,Texas,county,210.0,
+3017,42741.0,,Ellis,Texas,county,88.0,
+3018,34242.0,,El Paso,Texas,county,203.0,"79901,79902,79903,79904,79905"
+3019,37707.0,,Erath,Texas,county,156.0,76238
+3020,31999.0,,Falls,Texas,county,215.0,78113
+3021,36567.0,,Fannin,Texas,county,185.0,
+3022,50750.0,,Fayette,Texas,county,38.0,78940
+3023,35079.0,,Fisher,Texas,county,71.0,78623
+3024,36911.0,,Floyd,Texas,county,186.0,79235
+3025,39486.0,,Foard,Texas,county,106.0,76638
+3026,55217.0,,Fort Bend,Texas,county,24.0,
+3027,37675.0,,Franklin,Texas,county,154.0,77856
+3028,35528.0,,Freestone,Texas,county,190.0,76041
+3029,27076.0,,Frio,Texas,county,251.0,79035
+3030,35234.0,,Gaines,Texas,county,201.0,76240
+3031,49618.0,,Galveston,Texas,county,44.0,"77550,77551,77554"
+3032,27844.0,,Garza,Texas,county,243.0,79783
+3033,57351.0,,Gillespie,Texas,county,18.0,76861
+3034,91960.0,,Glasscock,Texas,county,3.0,
+3035,41448.0,,Goliad,Texas,county,95.0,77963
+3036,41211.0,,Gonzales,Texas,county,102.0,78629
+3037,42217.0,,Gray,Texas,county,92.0,75643
+3038,40662.0,,Grayson,Texas,county,118.0,76427
+3039,43101.0,,Gregg,Texas,county,80.0,76657
+3040,33946.0,,Grimes,Texas,county,207.0,
+3041,43161.0,,Guadalupe,Texas,county,84.0,79353
+3042,30784.0,,Hale,Texas,county,229.0,79041
+3043,26903.0,,Hall,Texas,county,241.0,77964
+3044,57022.0,,Hamilton,Texas,county,17.0,76531
+3045,61180.0,,Hansford,Texas,county,13.0,
+3046,37991.0,,Hardeman,Texas,county,176.0,
+3047,44273.0,,Hardin,Texas,county,76.0,
+3048,53708.0,,Harris,Texas,county,28.0,"75460,75462"
+3049,39812.0,,Harrison,Texas,county,124.0,75946
+3050,64268.0,,Hartley,Texas,county,14.0,79044
+3051,33593.0,,Haskell,Texas,county,216.0,79521
+3052,41539.0,,Hays,Texas,county,97.0,
+3053,55393.0,,Hemphill,Texas,county,20.0,75948
+3054,37992.0,,Henderson,Texas,county,155.0,"75652,75654"
+3055,25451.0,,Hidalgo,Texas,county,252.0,78557
+3056,37228.0,,Hill,Texas,county,164.0,75104
+3057,38165.0,,Hockley,Texas,county,168.0,77447
+3058,48989.0,,Hood,Texas,county,48.0,76544
+3059,37630.0,,Hopkins,Texas,county,166.0,75765
+3060,35966.0,,Houston,Texas,county,179.0,"77002,77003,77004,77005,77006"
+3061,36824.0,,Howard,Texas,county,148.0,
+3062,31643.0,,Hudspeth,Texas,county,228.0,
+3063,36753.0,,Hunt,Texas,county,181.0,78024
+3064,39702.0,,Hutchinson,Texas,county,132.0,75141
+3065,63268.0,,Irion,Texas,county,7.0,79035
+3066,39458.0,,Jack,Texas,county,91.0,76458
+3067,39122.0,,Jackson,Texas,county,127.0,75766
+3068,39391.0,,Jasper,Texas,county,139.0,75951
+3069,39037.0,,Jeff Davis,Texas,county,107.0,79734
+3070,42223.0,,Jefferson,Texas,county,90.0,75657
+3071,29753.0,,Jim Hogg,Texas,county,236.0,
+3072,38766.0,,Jim Wells,Texas,county,144.0,
+3073,40237.0,,Johnson,Texas,county,129.0,78636
+3074,29605.0,,Jones,Texas,county,237.0,76538
+3075,46427.0,,Karnes,Texas,county,55.0,78118
+3076,41440.0,,Kaufman,Texas,county,109.0,75142
+3077,81411.0,,Kendall,Texas,county,4.0,78027
+3078,48206.0,,Kenedy,Texas,county,98.0,78119
+3079,47512.0,,Kent,Texas,county,33.0,76432
+3080,47670.0,,Kerr,Texas,county,52.0,
+3081,40848.0,,Kimble,Texas,county,103.0,
+3082,43682.0,,King,Texas,county,31.0,78638
+3083,28883.0,,Kinney,Texas,county,240.0,"75069,75070,75071"
+3084,37388.0,,Kleberg,Texas,county,167.0,
+3085,35560.0,,Knox,Texas,county,173.0,79529
+3086,40213.0,,Lamar,Texas,county,140.0,79331
+3087,37320.0,,Lamb,Texas,county,175.0,
+3088,48084.0,,Lampasas,Texas,county,57.0,76550
+3089,34012.0,,La Salle,Texas,county,204.0,
+3090,48444.0,,Lavaca,Texas,county,46.0,77979
+3091,44829.0,,Lee,Texas,county,69.0,"76541,76542,76543,76549"
+3092,37335.0,,Leon,Texas,county,147.0,76444
+3093,36112.0,,Liberty,Texas,county,187.0,77575
+3094,33679.0,,Limestone,Texas,county,205.0,
+3095,60405.0,,Lipscomb,Texas,county,10.0,79056
+3096,33333.0,,Live Oak,Texas,county,206.0,75453
+3097,45617.0,,Llano,Texas,county,65.0,78643
+3098,50853.0,,Loving,Texas,county,27.0,76460
+3099,40717.0,,Lubbock,Texas,county,114.0,"79401,79402,79403,79404,79405"
+3100,34432.0,,Lynn,Texas,county,226.0,
+3101,36784.0,,McCulloch,Texas,county,182.0,
+3102,39680.0,,McLennan,Texas,county,136.0,79057
+3103,68178.0,,McMullen,Texas,county,5.0,"78501,78503,78504"
+3104,29391.0,,Madison,Texas,county,239.0,77864
+3105,35869.0,,Marion,Texas,county,180.0,78124
+3106,51647.0,,Martin,Texas,county,29.0,76820
+3107,43190.0,,Mason,Texas,county,85.0,76856
+3108,40088.0,,Matagorda,Texas,county,143.0,
+3109,28590.0,,Maverick,Texas,county,238.0,75554
+3110,37878.0,,Medina,Texas,county,160.0,78055
+3111,33800.0,,Menard,Texas,county,208.0,76859
+3112,110511.0,,Midland,Texas,county,2.0,"79701,79703,79705,79706,79707"
+3113,35117.0,,Milam,Texas,county,200.0,75959
+3114,36251.0,,Mills,Texas,county,188.0,75135
+3115,30799.0,,Mitchell,Texas,county,232.0,
+3116,39683.0,,Montague,Texas,county,120.0,76251
+3117,60783.0,,Montgomery,Texas,county,12.0,"77316,77356"
+3118,40370.0,,Moore,Texas,county,135.0,78057
+3119,41091.0,,Morris,Texas,county,101.0,79062
+3120,28478.0,,Motley,Texas,county,245.0,76374
+3121,35922.0,,Nacogdoches,Texas,county,184.0,"75961,75964,75965"
+3122,36495.0,,Navarro,Texas,county,183.0,
+3123,32100.0,,Newton,Texas,county,225.0,75966
+3124,40545.0,,Nolan,Texas,county,105.0,79537
+3125,42474.0,,Nueces,Texas,county,87.0,
+3126,53656.0,,Ochiltree,Texas,county,26.0,
+3127,47670.0,,Oldham,Texas,county,58.0,
+3128,43217.0,,Orange,Texas,county,83.0,"77630,77632"
+3129,37631.0,,Palo Pinto,Texas,county,165.0,76484
+3130,40093.0,,Panola,Texas,county,99.0,
+3131,51441.0,,Parker,Texas,county,40.0,
+3132,47208.0,,Parmer,Texas,county,82.0,75152
+3133,34110.0,,Pecos,Texas,county,195.0,79772
+3134,37969.0,,Polk,Texas,county,158.0,75969
+3135,41721.0,,Potter,Texas,county,93.0,77365
+3136,39788.0,,Presidio,Texas,county,108.0,79845
+3137,32763.0,,Rains,Texas,county,224.0,78101
+3138,46249.0,,Randall,Texas,county,63.0,75114
+3139,42138.0,,Reagan,Texas,county,60.0,76680
+3140,33159.0,,Real,Texas,county,213.0,78376
+3141,39187.0,,Red River,Texas,county,142.0,76554
+3142,33617.0,,Reeves,Texas,county,159.0,
+3143,40243.0,,Refugio,Texas,county,113.0,78377
+3144,37902.0,,Roberts,Texas,county,123.0,76569
+3145,38039.0,,Robertson,Texas,county,146.0,75684
+3146,58872.0,,Rockwall,Texas,county,16.0,"75032,75087"
+3147,38087.0,,Runnels,Texas,county,153.0,
+3148,34630.0,,Rusk,Texas,county,198.0,75785
+3149,33646.0,,Sabine,Texas,county,214.0,77655
+3150,36961.0,,San Augustine,Texas,county,152.0,75972
+3151,33448.0,,San Jacinto,Texas,county,217.0,78589
+3152,41936.0,,San Patricio,Texas,county,93.0,78589
+3153,36449.0,,San Saba,Texas,county,137.0,76877
+3154,35685.0,,Schleicher,Texas,county,149.0,76238
+3155,40083.0,,Scurry,Texas,county,119.0,75158
+3156,108260.0,,Shackelford,Texas,county,1.0,78569
+3157,38733.0,,Shelby,Texas,county,130.0,75973
+3158,63291.0,,Sherman,Texas,county,56.0,"75090,75092"
+3159,52034.0,,Smith,Texas,county,32.0,76827
+3160,43767.0,,Somervell,Texas,county,77.0,77879
+3161,25447.0,,Starr,Texas,county,253.0,
+3162,36060.0,,Stephens,Texas,county,162.0,76401
+3163,53915.0,,Sterling,Texas,county,21.0,76951
+3164,49890.0,,Stonewall,Texas,county,39.0,78671
+3165,57984.0,,Sutton,Texas,county,15.0,79782
+3166,43685.0,,Swisher,Texas,county,122.0,76238
+3167,48892.0,,Tarrant,Texas,county,45.0,79783
+3168,42874.0,,Taylor,Texas,county,81.0,76574
+3169,44418.0,,Terrell,Texas,county,61.0,"75160,75161"
+3170,31760.0,,Terry,Texas,county,231.0,75639
+3171,33231.0,,Throckmorton,Texas,county,202.0,76483
+3172,33215.0,,Titus,Texas,county,212.0,
+3173,43536.0,,Tom Green,Texas,county,75.0,76837
+3174,63418.0,,Travis,Texas,county,8.0,
+3175,33099.0,,Trinity,Texas,county,217.0,75862
+3176,31071.0,,Tyler,Texas,county,230.0,"75701,75702,75703,75704,75705"
+3177,34832.0,,Upshur,Texas,county,193.0,75481
+3178,40889.0,,Upton,Texas,county,86.0,77835
+3179,37788.0,,Uvalde,Texas,county,157.0,78801
+3180,34655.0,,Val Verde,Texas,county,197.0,78163
+3181,36756.0,,Van Zandt,Texas,county,177.0,75790
+3182,43635.0,,Victoria,Texas,county,73.0,"77901,77904,77905"
+3183,26880.0,,Walker,Texas,county,250.0,77484
+3184,38663.0,,Waller,Texas,county,151.0,77484
+3185,42704.0,,Ward,Texas,county,54.0,
+3186,49737.0,,Washington,Texas,county,41.0,77880
+3187,30153.0,,Webb,Texas,county,233.0,
+3188,40086.0,,Wharton,Texas,county,133.0,77488
+3189,39820.0,,Wheeler,Texas,county,126.0,79096
+3190,41049.0,,Wichita,Texas,county,104.0,"76301,76302,76305,76306,76308"
+3191,40141.0,,Wilbarger,Texas,county,121.0,
+3192,29508.0,,Willacy,Texas,county,247.0,
+3193,48308.0,,Williamson,Texas,county,47.0,76856
+3194,42643.0,,Wilson,Texas,county,89.0,79381
+3195,47719.0,,Winkler,Texas,county,23.0,
+3196,42208.0,,Wise,Texas,county,96.0,
+3197,36996.0,,Wood,Texas,county,178.0,76801
+3198,39067.0,,Yoakum,Texas,county,138.0,77995
+3199,47634.0,,Young,Texas,county,51.0,
+3200,26723.0,,Zapata,Texas,county,249.0,78076
+3201,27144.0,,Zavala,Texas,county,244.0,75980
+3202,27144.0,,Zavala,Texas,county,244.0,75980
+3203,32777.0,,Beaver,Utah,county,23.0,84713
+3204,35800.0,,Box Elder,Utah,county,15.0,
+3205,37518.0,,Cache,Utah,county,12.0,84304
+3206,36013.0,,Carbon,Utah,county,14.0,84520
+3207,38788.0,,Daggett,Utah,county,8.0,
+3208,43882.0,,Davis,Utah,county,6.0,
+3209,35387.0,,Duchesne,Utah,county,17.0,84021
+3210,30630.0,,Emery,Utah,county,25.0,
+3211,36486.0,,Garfield,Utah,county,18.0,84015
+3212,50409.0,,Grand,Utah,county,2.0,84312
+3213,30840.0,,Iron,Utah,county,26.0,84304
+3214,34560.0,,Juab,Utah,county,19.0,
+3215,39099.0,,Kane,Utah,county,10.0,
+3216,35195.0,,Millard,Utah,county,21.0,84340
+3217,49753.0,,Morgan,Utah,county,5.0,84050
+3218,33200.0,,Piute,Utah,county,24.0,
+3219,34189.0,,Rich,Utah,county,20.0,84701
+3220,49866.0,,Salt Lake,Utah,county,4.0,84054
+3221,25344.0,,San Juan,Utah,county,29.0,
+3222,27821.0,,Sanpete,Utah,county,28.0,
+3223,31954.0,,Sevier,Utah,county,22.0,84766
+3224,123795.0,,Summit,Utah,county,1.0,
+3225,35253.0,,Tooele,Utah,county,16.0,84074
+3226,30135.0,,Uintah,Utah,county,27.0,
+3227,38880.0,,Utah,Utah,county,9.0,
+3228,50664.0,,Wasatch,Utah,county,3.0,
+3229,36809.0,,Washington,Utah,county,13.0,84780
+3230,36512.0,,Wayne,Utah,county,11.0,
+3231,39832.0,,Weber,Utah,county,7.0,84032
+3232,39832.0,,Weber,Utah,county,7.0,84032
+3233,49834.0,,Addison,Vermont,county,8.0,
+3234,51601.0,,Bennington,Vermont,county,5.0,05201
+3235,39877.0,,Caledonia,Vermont,county,13.0,
+3236,58562.0,,Chittenden,Vermont,county,1.0,05737
+3237,35279.0,,Essex,Vermont,county,14.0,
+3238,44824.0,,Franklin,Vermont,county,11.0,05457
+3239,57266.0,,Grand Isle,Vermont,county,3.0,05458
+3240,51212.0,,Lamoille,Vermont,county,6.0,
+3241,45331.0,,Orange,Vermont,county,10.0,
+3242,42121.0,,Orleans,Vermont,county,12.0,05860
+3243,49838.0,,Rutland,Vermont,county,7.0,05701
+3244,57865.0,,Washington,Vermont,county,2.0,05675
+3245,48976.0,,Windham,Vermont,county,9.0,05361
+3246,55418.0,,Windsor,Vermont,county,4.0,05089
+3247,55418.0,,Windsor,Vermont,county,4.0,05089
+3248,40715.0,,Accomack,Virginia,county,56.0,23301
+3249,43064.0,,Amelia,Virginia,county,47.0,23002
+3250,35527.0,,Amherst,Virginia,county,85.0,24521
+3251,36727.0,,Appomattox,Virginia,county,78.0,24522
+3252,90893.0,,Arlington,Virginia,county,2.0,"22201,22202,22203,22204,22205"
+3253,60042.0,,Bath,Virginia,county,13.0,24473
+3254,44602.0,,Bedford,Virginia,county,40.0,24523
+3255,35331.0,,Bland,Virginia,county,83.0,24315
+3256,48228.0,,Botetourt,Virginia,county,35.0,
+3257,31653.0,,Brunswick,Virginia,county,99.0,
+3258,34449.0,,Buchanan,Virginia,county,88.0,24066
+3259,29450.0,,Buckingham,Virginia,county,104.0,23921
+3260,40604.0,,Caroline,Virginia,county,61.0,23829
+3261,43500.0,,Charles City,Virginia,county,45.0,23030
+3262,34509.0,,Charlotte,Virginia,county,90.0,23923
+3263,52024.0,,Chesterfield,Virginia,county,24.0,"23832,23838"
+3264,63517.0,,Clarke,Virginia,county,9.0,
+3265,36710.0,,Craig,Virginia,county,79.0,24430
+3266,44445.0,,Culpeper,Virginia,county,42.0,22701
+3267,37457.0,,Cumberland,Virginia,county,76.0,23040
+3268,31026.0,,Dickenson,Virginia,county,101.0,24580
+3269,40721.0,,Essex,Virginia,county,59.0,
+3270,67525.0,,Fauquier,Virginia,county,7.0,
+3271,36744.0,,Floyd,Virginia,county,73.0,24091
+3272,42829.0,,Fluvanna,Virginia,county,48.0,
+3273,39004.0,,Franklin,Virginia,county,64.0,23851
+3274,38194.0,,Giles,Virginia,county,68.0,
+3275,48145.0,,Gloucester,Virginia,county,34.0,23061
+3276,96584.0,,Goochland,Virginia,county,1.0,23063
+3277,31518.0,,Grayson,Virginia,county,97.0,
+3278,42446.0,,Greene,Virginia,county,49.0,22427
+3279,35571.0,,Halifax,Virginia,county,82.0,24558
+3280,58166.0,,Hanover,Virginia,county,14.0,23069
+3281,64355.0,,Henrico,Virginia,county,10.0,"23075,23228,23229,23231,23233"
+3282,43308.0,,Highland,Virginia,county,44.0,24315
+3283,53048.0,,Isle of Wight,Virginia,county,21.0,
+3284,41480.0,,King and Queen,Virginia,county,54.0,23085
+3285,51051.0,,King George,Virginia,county,25.0,22485
+3286,45135.0,,King William,Virginia,county,41.0,23086
+3287,56871.0,,Lancaster,Virginia,county,15.0,22503
+3288,29135.0,,Lee,Virginia,county,105.0,23801
+3289,74878.0,,Loudoun,Virginia,county,5.0,
+3290,41125.0,,Louisa,Virginia,county,57.0,23093
+3291,32208.0,,Lunenburg,Virginia,county,95.0,23952
+3292,46555.0,,Madison,Virginia,county,38.0,22727
+3293,53624.0,,Mathews,Virginia,county,20.0,23109
+3294,35764.0,,Mecklenburg,Virginia,county,84.0,23952
+3295,49250.0,,Middlesex,Virginia,county,29.0,
+3296,48296.0,,Nelson,Virginia,county,32.0,24580
+3297,68728.0,,New Kent,Virginia,county,8.0,23124
+3298,45890.0,,Northampton,Virginia,county,36.0,"23661,23663,23664,23665,23666"
+3299,49102.0,,Northumberland,Virginia,county,26.0,23128
+3300,33522.0,,Nottoway,Virginia,county,92.0,
+3301,46906.0,,Orange,Virginia,county,37.0,22960
+3302,37451.0,,Page,Virginia,county,72.0,
+3303,32885.0,,Patrick,Virginia,county,93.0,24133
+3304,54715.0,,Powhatan,Virginia,county,18.0,23139
+3305,30979.0,,Prince Edward,Virginia,county,102.0,24149
+3306,38384.0,,Pulaski,Virginia,county,65.0,24301
+3307,61609.0,,Rappahannock,Virginia,county,12.0,22560
+3308,35508.0,,Richmond,Virginia,county,87.0,"23219,23220,23221,23222,23223"
+3309,32004.0,,Russell,Virginia,county,96.0,
+3310,32258.0,,Scott,Virginia,county,94.0,24589
+3311,42958.0,,Shenandoah,Virginia,county,46.0,22849
+3312,35729.0,,Smyth,Virginia,county,86.0,
+3313,52940.0,,Stafford,Virginia,county,22.0,"22554,22556"
+3314,42826.0,,Surry,Virginia,county,43.0,23883
+3315,30082.0,,Sussex,Virginia,county,103.0,
+3316,37042.0,,Tazewell,Virginia,county,74.0,24651
+3317,44910.0,,Warren,Virginia,county,39.0,"20186,20187"
+3318,41296.0,,Westmoreland,Virginia,county,55.0,22967
+3319,33997.0,,Wythe,Virginia,county,91.0,24382
+3320,84059.0,,Alexandria,Virginia,county,3.0,"22301,22302,22303,22304,22305"
+3321,48528.0,,Chesapeake,Virginia,county,33.0,"23320,23321,23322,23323,23324"
+3322,41931.0,,Hampton,Virginia,county,51.0,"23661,23663,23664,23665,23666"
+3323,41684.0,,Newport News,Virginia,county,52.0,"23601,23602,23603,23605,23606"
+3324,40107.0,,Norfolk,Virginia,county,60.0,"23502,23503,23504,23505,23507"
+3325,39585.0,,Portsmouth,Virginia,county,62.0,"23701,23702,23703,23704,23707"
+3326,54139.0,,Richmond,Virginia,county,19.0,"23219,23220,23221,23222,23223"
+3327,41824.0,,Roanoke,Virginia,county,53.0,"24011,24012,24013,24014,24015"
+3328,49703.0,,Suffolk,Virginia,county,28.0,"23432,23433,23434,23435,23436"
+3329,55731.0,,Virginia Beach,Virginia,county,17.0,"23451,23452,23453,23454,23455"
+3330,70832.0,,Albemarle + Charlottesville,Virginia,county,6.0,"22901,22902,22903,22904,22911"
+3331,38161.0,,Alleghany + Covington,Virginia,county,69.0,24426
+3332,42622.0,,"Augusta, Staunton + Waynesboro",Virginia,county,50.0,24401
+3333,36317.0,,Campbell + Lynchburg,Virginia,county,81.0,"24501,24502,24503,24504"
+3334,34908.0,,Carroll + Galax,Virginia,county,89.0,24333
+3335,39201.0,,"Dinwiddie, Colonial Heights + Petersburg",Virginia,county,66.0,23834
+3336,78430.0,,"Fairfax, Fairfax City + Falls Church",Virginia,county,4.0,"22030,22031,22032,22033,22034"
+3337,48870.0,,Frederick + Winchester,Virginia,county,30.0,"23831,23836"
+3338,31774.0,,Greensville + Emporia,Virginia,county,100.0,23847
+3339,37642.0,,Henry + Martinsville,Virginia,county,71.0,24102
+3340,62671.0,,James City + Williamsburg,Virginia,county,11.0,"23185,23188"
+3341,36020.0,,Montgomery + Radford,Virginia,county,80.0,23850
+3342,36970.0,,Pittsylvania + Danville,Virginia,county,77.0,"24540,24541"
+3343,37675.0,,Prince George + Hopewell,Virginia,county,75.0,23860
+3344,52555.0,,"Prince William, Manassas + Manassas Park",Virginia,county,23.0,"20109,20110,20111,20112"
+3345,50124.0,,Roanoke + Salem,Virginia,county,27.0,"24011,24012,24013,24014,24015"
+3346,39150.0,,"Rockbridge, Buena Vista + Lexington",Virginia,county,67.0,24416
+3347,38469.0,,Rockingham + Harrisonburg,Virginia,county,70.0,"22801,22802,22803"
+3348,41300.0,,Southampton + Franklin,Virginia,county,58.0,23851
+3349,48759.0,,Spotsylvania + Fredericksburg,Virginia,county,31.0,"22401,22405,22406,22407,22408"
+3350,39269.0,,Washington + Bristol,Virginia,county,63.0,"24201,24202"
+3351,31587.0,,Wise + Norton,Virginia,county,98.0,24273
+3352,56549.0,,York + Poquoson,Virginia,county,16.0,23662
+3353,56549.0,,York + Poquoson,Virginia,county,16.0,23662
+3354,42314.0,,Adams,Washington,county,26.0,
+3355,45322.0,,Asotin,Washington,county,16.0,99402
+3356,46034.0,,Benton,Washington,county,15.0,99320
+3357,52454.0,,Chelan,Washington,county,6.0,98816
+3358,44045.0,,Clallam,Washington,county,20.0,98326
+3359,50766.0,,Clark,Washington,county,7.0,99403
+3360,47011.0,,Columbia,Washington,county,12.0,
+3361,43046.0,,Cowlitz,Washington,county,22.0,
+3362,40050.0,,Douglas,Washington,county,33.0,
+3363,36027.0,,Ferry,Washington,county,39.0,
+3364,36666.0,,Franklin,Washington,county,38.0,99341
+3365,42659.0,,Garfield,Washington,county,23.0,99130
+3366,39488.0,,Grant,Washington,county,36.0,99133
+3367,38942.0,,Grays Harbor,Washington,county,35.0,98250
+3368,52459.0,,Island,Washington,county,5.0,98303
+3369,50090.0,,Jefferson,Washington,county,9.0,98247
+3370,84542.0,,King,Washington,county,1.0,98346
+3371,52833.0,,Kitsap,Washington,county,3.0,
+3372,41114.0,,Kittitas,Washington,county,28.0,
+3373,46695.0,,Klickitat,Washington,county,14.0,98628
+3374,41100.0,,Lewis,Washington,county,24.0,
+3375,45266.0,,Lincoln,Washington,county,18.0,99147
+3376,40735.0,,Mason,Washington,county,27.0,98831
+3377,41514.0,,Okanogan,Washington,county,29.0,98840
+3378,40409.0,,Pacific,Washington,county,31.0,98047
+3379,40008.0,,Pend Oreille,Washington,county,32.0,98635
+3380,49137.0,,Pierce,Washington,county,10.0,99167
+3381,72862.0,,San Juan,Washington,county,2.0,
+3382,50119.0,,Skagit,Washington,county,8.0,
+3383,43372.0,,Skamania,Washington,county,21.0,98647
+3384,52453.0,,Snohomish,Washington,county,4.0,"98290,98296"
+3385,44552.0,,Spokane,Washington,county,17.0,"99201,99202,99203,99204,99205"
+3386,37812.0,,Stevens,Washington,county,37.0,98258
+3387,48820.0,,Thurston,Washington,county,11.0,99176
+3388,40917.0,,Wahkiakum,Washington,county,30.0,98670
+3389,44178.0,,Walla Walla,Washington,county,19.0,99362
+3390,46719.0,,Whatcom,Washington,county,13.0,
+3391,38557.0,,Whitman,Washington,county,34.0,98952
+3392,41868.0,,Yakima,Washington,county,25.0,"98901,98902,98903,98908"
+3393,41868.0,,Yakima,Washington,county,25.0,"98901,98902,98903,98908"
+3394,30382.0,,Barbour,West Virginia,county,43.0,25504
+3395,39677.0,,Berkeley,West Virginia,county,14.0,25411
+3396,31671.0,,Boone,West Virginia,county,39.0,25030
+3397,29945.0,,Braxton,West Virginia,county,46.0,26562
+3398,39736.0,,Brooke,West Virginia,county,12.0,26404
+3399,40154.0,,Cabell,West Virginia,county,8.0,25015
+3400,28331.0,,Calhoun,West Virginia,county,52.0,26257
+3401,29274.0,,Clay,West Virginia,county,47.0,25043
+3402,26739.0,,Doddridge,West Virginia,county,54.0,25902
+3403,32740.0,,Fayette,West Virginia,county,34.0,25840
+3404,27975.0,,Gilmer,West Virginia,county,53.0,25621
+3405,36184.0,,Grant,West Virginia,county,27.0,
+3406,36291.0,,Greenbrier,West Virginia,county,22.0,24945
+3407,33715.0,,Hampshire,West Virginia,county,32.0,
+3408,40043.0,,Hancock,West Virginia,county,10.0,
+3409,33805.0,,Hardy,West Virginia,county,36.0,25827
+3410,44879.0,,Harrison,West Virginia,county,4.0,25545
+3411,35504.0,,Jackson,West Virginia,county,21.0,26377
+3412,47932.0,,Jefferson,West Virginia,county,2.0,25545
+3413,45416.0,,Kanawha,West Virginia,county,3.0,25115
+3414,36503.0,,Lewis,West Virginia,county,18.0,24901
+3415,28802.0,,Lincoln,West Virginia,county,48.0,26384
+3416,34605.0,,Logan,West Virginia,county,29.0,25601
+3417,29370.0,,McDowell,West Virginia,county,50.0,24925
+3418,40236.0,,Marion,West Virginia,county,11.0,26755
+3419,38082.0,,Marshall,West Virginia,county,16.0,
+3420,31690.0,,Mason,West Virginia,county,40.0,25260
+3421,35745.0,,Mercer,West Virginia,county,23.0,
+3422,37261.0,,Mineral,West Virginia,county,19.0,26150
+3423,30457.0,,Mingo,West Virginia,county,45.0,25811
+3424,42782.0,,Monongalia,West Virginia,county,6.0,
+3425,29430.0,,Monroe,West Virginia,county,51.0,26283
+3426,33190.0,,Morgan,West Virginia,county,35.0,"26501,26505,26506,26508"
+3427,31916.0,,Nicholas,West Virginia,county,37.0,
+3428,60899.0,,Ohio,West Virginia,county,1.0,25854
+3429,35236.0,,Pendleton,West Virginia,county,31.0,25965
+3430,41357.0,,Pleasants,West Virginia,county,7.0,25550
+3431,36785.0,,Pocahontas,West Virginia,county,20.0,25159
+3432,34296.0,,Preston,West Virginia,county,30.0,26141
+3433,43973.0,,Putnam,West Virginia,county,5.0,
+3434,38646.0,,Raleigh,West Virginia,county,15.0,
+3435,34896.0,,Randolph,West Virginia,county,28.0,
+3436,34962.0,,Ritchie,West Virginia,county,25.0,
+3437,32902.0,,Roane,West Virginia,county,33.0,25165
+3438,31876.0,,Summers,West Virginia,county,42.0,26651
+3439,37954.0,,Taylor,West Virginia,county,17.0,
+3440,40081.0,,Tucker,West Virginia,county,13.0,
+3441,35457.0,,Tyler,West Virginia,county,24.0,
+3442,31213.0,,Upshur,West Virginia,county,41.0,
+3443,31596.0,,Wayne,West Virginia,county,38.0,25570
+3444,27011.0,,Webster,West Virginia,county,55.0,26288
+3445,33106.0,,Wetzel,West Virginia,county,26.0,
+3446,30138.0,,Wirt,West Virginia,county,44.0,26062
+3447,39614.0,,Wood,West Virginia,county,9.0,26031
+3448,28818.0,,Wyoming,West Virginia,county,49.0,24898
+3449,28818.0,,Wyoming,West Virginia,county,49.0,24898
+3450,38296.0,,Adams,Wisconsin,county,70.0,53910
+3451,39041.0,,Ashland,Wisconsin,county,65.0,54806
+3452,46722.0,,Barron,Wisconsin,county,21.0,54812
+3453,45766.0,,Bayfield,Wisconsin,county,22.0,54814
+3454,50295.0,,Brown,Wisconsin,county,10.0,53006
+3455,43191.0,,Buffalo,Wisconsin,county,48.0,
+3456,41293.0,,Burnett,Wisconsin,county,58.0,53922
+3457,49038.0,,Calumet,Wisconsin,county,16.0,
+3458,44108.0,,Chippewa,Wisconsin,county,38.0,54729
+3459,39389.0,,Clark,Wisconsin,county,67.0,54005
+3460,48837.0,,Columbia,Wisconsin,county,14.0,53925
+3461,40294.0,,Crawford,Wisconsin,county,62.0,54484
+3462,58522.0,,Dane,Wisconsin,county,4.0,53529
+3463,42808.0,,Dodge,Wisconsin,county,47.0,54625
+3464,60281.0,,Door,Wisconsin,county,3.0,
+3465,40800.0,,Douglas,Wisconsin,county,57.0,54618
+3466,38216.0,,Dunn,Wisconsin,county,68.0,
+3467,45852.0,,Eau Claire,Wisconsin,county,24.0,"54701,54703"
+3468,50884.0,,Florence,Wisconsin,county,7.0,54121
+3469,46203.0,,Fond du Lac,Wisconsin,county,25.0,"54935,54937"
+3470,39608.0,,Forest,Wisconsin,county,61.0,53532
+3471,41598.0,,Grant,Wisconsin,county,53.0,54840
+3472,49039.0,,Green,Wisconsin,county,15.0,"54301,54302,54303,54304,54311"
+3473,43894.0,,Green Lake,Wisconsin,county,39.0,54941
+3474,46211.0,,Iowa,Wisconsin,county,27.0,54945
+3475,48743.0,,Iron,Wisconsin,county,12.0,
+3476,43876.0,,Jackson,Wisconsin,county,34.0,53037
+3477,44085.0,,Jefferson,Wisconsin,county,36.0,53549
+3478,36478.0,,Juneau,Wisconsin,county,71.0,53039
+3479,44674.0,,Kenosha,Wisconsin,county,32.0,"53140,53142,53143,53144"
+3480,45165.0,,Kewaunee,Wisconsin,county,37.0,54216
+3481,47816.0,,La Crosse,Wisconsin,county,18.0,"54601,54603"
+3482,41984.0,,Lafayette,Wisconsin,county,56.0,
+3483,42067.0,,Langlade,Wisconsin,county,55.0,
+3484,43826.0,,Lincoln,Wisconsin,county,43.0,53525
+3485,46174.0,,Manitowoc,Wisconsin,county,29.0,54220
+3486,47965.0,,Marathon,Wisconsin,county,17.0,54448
+3487,42214.0,,Marinette,Wisconsin,county,52.0,54143
+3488,39504.0,,Marquette,Wisconsin,county,64.0,
+3489,29065.0,,Menominee,Wisconsin,county,72.0,53051
+3490,45338.0,,Milwaukee,Wisconsin,county,30.0,"53202,53203,53204,53205,53206"
+3491,40214.0,,Monroe,Wisconsin,county,60.0,53566
+3492,44284.0,,Oconto,Wisconsin,county,45.0,54153
+3493,49310.0,,Oneida,Wisconsin,county,11.0,54155
+3494,49360.0,,Outagamie,Wisconsin,county,13.0,
+3495,79764.0,,Ozaukee,Wisconsin,county,1.0,
+3496,46734.0,,Pepin,Wisconsin,county,28.0,54759
+3497,44273.0,,Pierce,Wisconsin,county,40.0,54465
+3498,44972.0,,Polk,Wisconsin,county,35.0,
+3499,44020.0,,Portage,Wisconsin,county,42.0,53901
+3500,44184.0,,Price,Wisconsin,county,46.0,54556
+3501,47419.0,,Racine,Wisconsin,county,20.0,"53402,53403,53404,53405,53406"
+3502,41440.0,,Richland,Wisconsin,county,54.0,53581
+3503,42189.0,,Rock,Wisconsin,county,50.0,53556
+3504,42647.0,,Rusk,Wisconsin,county,51.0,53574
+3505,53225.0,,St. Croix,Wisconsin,county,6.0,54024
+3506,46414.0,,Sauk,Wisconsin,county,23.0,53583
+3507,43696.0,,Sawyer,Wisconsin,county,41.0,54560
+3508,40847.0,,Shawano,Wisconsin,county,59.0,54166
+3509,50722.0,,Sheboygan,Wisconsin,county,9.0,"53081,53083"
+3510,37910.0,,Taylor,Wisconsin,county,69.0,54659
+3511,42695.0,,Trempealeau,Wisconsin,county,49.0,54661
+3512,38791.0,,Vernon,Wisconsin,county,66.0,53593
+3513,51640.0,,Vilas,Wisconsin,county,8.0,54664
+3514,47760.0,,Walworth,Wisconsin,county,19.0,53184
+3515,45460.0,,Washburn,Wisconsin,county,31.0,54891
+3516,55813.0,,Washington,Wisconsin,county,5.0,53074
+3517,69085.0,,Waukesha,Wisconsin,county,2.0,"53186,53188,53189"
+3518,43732.0,,Waupaca,Wisconsin,county,44.0,54981
+3519,39273.0,,Waushara,Wisconsin,county,63.0,"53186,53188,53189"
+3520,46131.0,,Winnebago,Wisconsin,county,26.0,
+3521,44776.0,,Wood,Wisconsin,county,33.0,54817
+3522,44776.0,,Wood,Wisconsin,county,33.0,54817
+3523,39627.0,,Albany,Wyoming,county,21.0,82050
+3524,35627.0,,Big Horn,Wyoming,county,23.0,
+3525,49502.0,,Campbell,Wyoming,county,9.0,
+3526,53844.0,,Carbon,Wyoming,county,3.0,
+3527,50044.0,,Converse,Wyoming,county,6.0,82715
+3528,43572.0,,Crook,Wyoming,county,16.0,
+3529,41232.0,,Fremont,Wyoming,county,18.0,
+3530,41256.0,,Goshen,Wyoming,county,19.0,
+3531,49984.0,,Hot Springs,Wyoming,county,5.0,82224
+3532,48287.0,,Johnson,Wyoming,county,13.0,
+3533,49746.0,,Laramie,Wyoming,county,10.0,"82070,82072"
+3534,39981.0,,Lincoln,Wyoming,county,20.0,
+3535,62751.0,,Natrona,Wyoming,county,2.0,82646
+3536,46768.0,,Niobrara,Wyoming,county,12.0,
+3537,51543.0,,Park,Wyoming,county,7.0,82838
+3538,47044.0,,Platte,Wyoming,county,14.0,
+3539,54470.0,,Sheridan,Wyoming,county,4.0,82801
+3540,49372.0,,Sublette,Wyoming,county,11.0,82720
+3541,50354.0,,Sweetwater,Wyoming,county,8.0,
+3542,227753.0,,Teton,Wyoming,county,1.0,
+3543,38154.0,,Uinta,Wyoming,county,22.0,
+3544,44930.0,,Washakie,Wyoming,county,15.0,82514
+3545,42816.0,,Weston,Wyoming,county,17.0,82731
+3546,42816.0,,Weston,Wyoming,county,17.0,82731
