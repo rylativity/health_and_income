@@ -18,9 +18,11 @@ For more detail on the data cleaning process for the 500 Cities health dataset, 
 
 Data cleaning work can be found in the Cleaning_Combine_Health_And_Income_Data notebook; however, I have also included the final csv outputs of those notebooks in the sourcedata/ and processeddata/ folders for convenience.
 
+
 Predictive modeling can be found in the Data_Standardization_And_Modeling notebook:
 Modeling techniques used included Linear Regression, neural networks, XGBoost, GradientBoost, Lasso, and RandomForest.
 Random forest and linear regression were kept in the notebook for demonstration purposes.
+
 
 ## Findings and Notes
 Some limitations of this project include that census-tract level income data were not available. As a result, asumptions had to be made, specifically that city/county level income data would be a close-enough approximation of income at the zip code level. A significant portion of data was lost due to the inability to tag it with a specific zip code or due to a lack of income data for that zip code.
